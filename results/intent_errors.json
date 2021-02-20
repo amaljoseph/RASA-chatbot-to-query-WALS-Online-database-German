@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Yes",
+    "intent": "ask_feedback",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.5808047652244568
+    }
+  },
+  {
+    "text": "No",
+    "intent": "ask_feedback",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.4747844636440277
+    }
+  }
+]

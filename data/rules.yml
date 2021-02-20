@@ -1,0 +1,59 @@
+rules:
+ - rule: greet the user
+   steps:
+   - intent: greet
+   - action: utter_greet
+
+ - rule: say bye to the user
+   steps:
+   - intent: goodbye
+   - action: utter_goodbye
+
+ - rule: search a language details based on user query
+   steps:
+   - intent: lang_search
+   - action: action_lang_search
+   - action: utter_feedback
+
+ - rule: respond positively when the user says thank you
+   steps:
+   - intent: thanks
+   - action: utter_thanks
+
+ - rule: replies back a song in user requested language
+   steps:
+   - intent: lang_song
+   - action: action_lang_song
+
+ - rule: replies back a sample text in user requested language
+   steps:
+   - intent: lang_reply
+   - action: action_lang_reply
+
+ - rule: displays all languages that are spoken in a country
+   steps:
+   - intent: country_search
+   - action: action_lang_by_country
+
+ - rule: search a language location based on user query
+   steps:
+   - intent: loc_search
+   - action: action_loc_search
+   - action: utter_feedback
+
+ - rule: search a language macroarea based on user query
+   steps:
+   - intent: area_search
+   - action: action_area_search
+   - action: utter_feedback
+
+
+
+
+  # - rule: submit form
+ #   condition:
+ #   - active_loop: newsletter_form
+ #   steps:
+ #   - action: newsletter_form
+ #   - active_loop: null
+ #   - action: utter_subscribed

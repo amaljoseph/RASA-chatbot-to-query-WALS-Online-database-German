@@ -1,0 +1,74 @@
+version: '2.0'
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+  - greet
+  - goodbye
+  - thanks
+  - affirm
+  - deny
+  - lang_search
+  - lang_reply
+  - lang_song
+  - ask_feedback
+  - country_search
+  - loc_search
+  - area_search
+entities:
+  - language
+  - country
+# slots:
+#   email:
+#     type: unfeaturized
+#     influence_conversation: false
+responses:
+  utter_greet:
+  - text: |
+      Wie geht es dir heute schatz?
+  - text: |
+      Was ist los, Baby?
+  - text: |
+      Hallo Baby!
+  utter_goodbye:
+  - text: |
+      Wiedersehen Liebling
+  - text: |
+      Bis bald mein schatz
+  - text: |
+      Es war schön mit dir zu reden, Schatz
+  utter_thanks:
+  - text: |
+      Ich bin froh, dass ich helfen konnte, Moonpie!
+  - text: |
+      Danke Schatz
+  - text: |
+      Freue mich zu helfen :)
+  utter_feedback:
+  - text: |
+      Du willst mir Feedback geben, Baby
+  - text: |
+      War das die Antwort, nach der Sie gesucht haben?
+  - text: |
+      Habe ich das richtig verstanden?
+  - text: |
+      Was ist Ihr Feedback zu meiner Antwort?
+  - text: |
+      Hast du was du gesucht hast?
+actions:
+- '...'
+- utter_greet
+- utter_goodbye
+- action_lang_search
+- utter_thanks
+- utter_feedback
+- action_lang_song
+- action_lang_reply
+- action_lang_by_country
+- action_loc_search
+- action_area_search
+# - utter_subscribed
+# forms:
+#   newsletter_form:
+#     email:
+#     - type: from_text

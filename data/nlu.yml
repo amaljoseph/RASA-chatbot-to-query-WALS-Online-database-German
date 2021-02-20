@@ -1,0 +1,193 @@
+nlu:
+- intent: greet
+  examples: |
+    - Hallo
+    - Hallo Bot
+    - Guten Morgen
+    - Hallo nochmal
+    - Hallo Leute
+    - Good morning
+    - Hallo Herr
+    - Hi Kumpel!
+    - Schöne Grüße
+    - Hallo zusammen
+    - Hallo ist da jemand
+    - Hallo Roboter
+    - Wer bist du?
+    - was bist du?
+    - Was geht
+    - Wie geht's?
+    - Wie geht es dir heute, Bruder?
+
+- intent: goodbye
+  examples: |
+    - Tschüss
+    - Auf Wiedersehen
+    - Bis später
+    - Tschüss Bot
+    - Auf Wiedersehen Freund
+    - Tschüss für heute
+    - bis später
+    - muss gehen
+    - Wir sehen uns
+    - Gute Nacht
+    - Einen schönen Tag noch
+    - Ich bin weg
+    - Bis später Alligator
+    - Wir werden bald sprechen
+    - we'll speak soon
+    - Ende
+    - Fertig
+
+- intent: thanks
+  examples: |
+    - Vielen Dank
+    - Dankeschön
+    - Ich danke dir sehr
+    - Danke Bot
+    - Dank dafür
+    - Prost
+    - Prosit Kumpel
+    - OK danke!
+    - perfekt, danke
+    - Vielen Dank für alles
+    - danke für die Hilfe
+    - Vielen Dank
+    - erstaunlich, danke
+    - Cool, danke
+    - ja dank!
+
+- intent: affirm
+  examples: |
+    - y
+    - Y
+    - Ja
+    - ja sicher
+    - absolut
+    - sicher
+    - ja Ja Ja
+    - bestimmt
+    - ja, tat es
+
+- intent: deny
+  examples: |
+    - Nein
+    - noch nie
+    - Das glaube ich nicht
+    - mag das nicht
+    - auf keinen Fall
+    - nicht wirklich
+    - n
+    - N
+
+- intent: lang_search
+  examples: |
+    - Ich möchte etwas über [Hindi](language) wissen.
+    - Können Sie bitte [spanisch](language) suchen?
+    - Benötigen Sie weitere Informationen für [Urdu](language)
+    - Lookup [gujrati](language)
+    - Müssen über [sindhi](language) wissen
+    - Erzähl mir von [punjabi](language)
+    - Kannst du mir ein paar Informationen über [malayalam](language) geben?
+    - Suche nach [odiya](language)
+    - Erzähl mir von [Arabisch](language)
+    - Gib mir Informationen über [persisch](language)
+    - Erzähl mir Fakten über [Portugiesisch](language)
+    - sag etwas über [Chinesisch](language)
+    - Informationen zu [japanisch](language)
+    - Informieren Sie mich über [Bengali](language)
+    - Wie wäre es mit [Englisch](language)
+    - Suche nach [marathi](language)
+    - Benötigen Sie Informationen für [Türkisch](language)
+    - Kennst du [Kannada](language)?
+    - Sag etwas über [Französisch](language)?
+    - Bitte erzähl mir etwas über [Deutsch](language).
+
+- intent: country_search
+  examples: |
+    - Welche Sprachen sprechen sie in [Indien](country)?
+    - Welche Sprachen gibt es in [Amerika](country)?
+    - Was sprechen sie in [Srilanka](country)?
+    - Sag mir die Sprachen in [Frankreich](country)
+    - Ich möchte alle Sprachen in [Italien](country) kennenlernen.
+    - Kennen Sie die Sprachen in [Indonesien](country)?
+    - Was spricht [Pakistan](country)?
+    - Benötigen Sie die Sprachen in [China](country)
+    - Benötigen Sie die Sprachen in [Deutschland](country)
+    - Bitte geben Sie mir die Liste der Sprachen in [Spanien](country)
+    - Sprechen Sie mehr über die Sprachen in [Saudi-Arabien](country)
+    - Ich brauche die Sprachen in [Afrika](country)
+    - Listen Sie die Sprachen in [Türkei](country) auf
+    - Welche Sprachen werden in [Amerika](country) gesprochen?
+    - Was sprechen die Leute in [Irland](country)?
+    - Wie kommunizieren Menschen in [Südamerika](country)?
+    - Welche Sprachen können Bürger [Frankreich](country) sprechen?
+    - Können Sie mir sagen, welche Sprache in [Eurasien](country) verwendet wird?
+    - Erzähl mir von den Sprachen in [Indien](country)
+    - Was wird in [Europa](country) gesprochen?
+    - Was wird in [Afrika](country) gesprochen?
+    - Die Leute in [England](country) sprechen welche Sprache?
+    - Was ist die Sprache, die in [Griechenland](country) gesprochen wird?
+    - Was ist die Sprache, die in [Australien](country) gesprochen wird?
+    - Sag mir, welche Sprache in [Kanada](country) gesprochen wird
+    - Was ist die Sprache in [Mexiko](country)?
+    - Geben Sie die Liste der in [China](country) gesprochenen Sprachen an.
+    - Sagen Sie die Liste der in [Finnland](country) gesprochenen Sprachen
+
+- intent: loc_search
+  examples: |
+    - Ich möchte wissen, wo die Leute sprechen [hindi](language)
+    - Ich möchte den Standort von wissen [hindi](language)
+    - Ich möchte die Bevölkerungszahl von kennen [hindi](language)
+    - Benötigen Sie Standortinformationen für [french](language)
+    - Suchort von [gujrati](language)
+    - Bitte finden Sie den Standort von [tamil](language)
+    - Gib mir Details, wo die Leute sprechen [urdu](language)
+    - wo wird [deutsch](language) gesprochen
+    - An welchem ​​Ort wird [englisch](language) gesprochen?
+    - Wo auf der Welt wird [japanisch](language) gesprochen?
+    - Sag mir, wo [englisch](language) gesprochen wird?
+    - Auf welchem ​​Teil der Erde wird [chinesisch](language) gesprochen?
+    - Wo leben Menschen, die [deutsch](language) sprechen?
+    - An welchem ​​Ort wird [französisch](language) gesprochen?
+    - Menschen, die im Allgemeinen [russisch](language) sprechen, leben wo?
+    - Sag mir Land, in dem [arabisch](language) gesprochen wird?
+    - Wo wird [Türkisch](language) gesprochen?
+
+- intent: area_search
+  examples: |
+    - Ich möchte wissen, wo der Makrobereich von [Hindi](language)?
+    - Sag mir, wo der Makrobereich von [Hindi](language) ist
+    - Informieren Sie mich über das Makrogebiet [Russisch](language)
+    - Können Sie den Makrobereich des [Japanischen](language) benennen?
+    - Was ist der Makrobereich von [Französisch](language)
+    - Der Makrobereich für [Chinesisch](language) ist
+    - Können Sie das Makrogebiet von [Italienisch](language) nennen?
+    - Können Sie den Makrobereich von [Italienisch](language) auflisten?
+    - Listen Sie den Makrobereich [Deutsch](language) auf
+    - Gib mir den Makrobereich [Arabisch](language)
+    - geben Makrobereich von [polnisch](language)
+    - Makrobereich von [schwedisch](language)?
+    - Gib mir den Makrobereich [indonesisch](language)
+    - Können Sie den Makrobereich des [indonesisch](language) benennen?
+    - Schreiben Sie den Makrobereich von [Schwedisch](language) auf
+    - Sagen Sie mir den Makrobereich [Schwedisch](language)
+
+- intent: lang_song
+  examples: |
+    - Ich möchte das Lied in [Hindi](language) kennenlernen.
+    - Kannst du bitte ein Lied in [Spanisch](language) geben?
+    - Gib mir ein Lied in [Französisch](language)
+    - Musik in [assamesisch](language)
+    - Kannst du Musik in [bangla](language) geben?
+    - Bitte singen Sie mir ein [Bodo] (Sprach-) Lied?
+    - Brauche ein Lied in [Dogri](language)
+    - Erzähl mir ein Lied in [Kashmiri](language)
+    - Sing mir ein Lied in [Kannada](language)
+    - Kannst du bitte ein Lied in [Konkani](language) geben?
+    - Singe [Malayalam](language) Lied
+    - Spielen Sie das Lied [Manipuri](language)
+    - Bitte singen Sie in [deutsch](language)
+    - Schlagen Sie mir ein Lied in [Französisch](language) vor
+    - Erzähl mir ein paar Lieder in [Malayalam](language)
+    - Was sind die Top Songs auf [Spanisch](language)

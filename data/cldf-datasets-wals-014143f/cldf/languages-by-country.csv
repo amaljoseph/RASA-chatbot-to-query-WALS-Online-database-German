@@ -1,0 +1,2001 @@
+ascii_name,description,genus_pk,id,iso_codes,jsondata,latitude,longitude,macroarea,markup_description,name,pk,samples_100,samples_200
+aari,,9,aar,aiw,{},6.0,36.5833333333,Africa,,Aari,1668,False,False
+abau,,367,aba,aau,{},-4.0,141.25,Papunesia,,Abau,968,False,False
+abaza,,325,abz,abq,{},44.0,42.0,Eurasia,,Abaza,908,False,False
+abenaki (western),,17,abw,abe,{},44.0,-72.25,North America,,Abenaki (Western),267,False,False
+abidji,,275,abd,abi,{},5.66666666667,-4.58333333333,Africa,,Abidji,628,False,False
+abipon,,696,abi,axb,{},-29.0,-61.0,South America,,Abipón,2339,False,True
+abkhaz,,325,abk,abk,{},43.0833333333,41.0,Eurasia,,Abkhaz,2534,True,True
+abui,,417,abv,abz,{},-8.25,124.666666667,Papunesia,,Abui,2644,False,False
+abun,,493,abu,kgr,{},-0.5,132.5,Papunesia,,Abun,2245,False,False
+acehnese,,519,ace,ace,{},5.5,95.5,Eurasia,,Acehnese,2343,False,False
+achagua,,781,acg,aca,{},4.41666666667,-72.25,South America,,Achagua,1786,False,False
+achang,,380,acn,acn,{},25.0,98.5,Eurasia,,Achang,1289,False,False
+ache,,457,ach,guq,{},-25.25,-55.1666666667,South America,,Aché,1153,False,False
+achi,,250,aci,acr,{},15.1666666667,-90.5,North America,,Achí,2,False,False
+acholi,,320,acl,ach,{},3.0,32.6666666667,Africa,,Acholi,1886,False,False
+achuar,,197,acu,acu,{},-2.66667,-76.0,South America,,Achuar,2674,False,False
+achumawi,,173,acm,acv,{},41.5,-121.0,North America,,Achumawi,2069,False,False
+acoma,,209,aco,kjq,{},34.9166666667,-107.583333333,North America,,Acoma,2438,True,True
+adamorobe sign language,,330,ada,ads,{},5.83333333333,-0.166666666667,Africa,,Adamorobe Sign Language,268,False,False
+adang,,417,adg,adn,{},-8.2,124.0,Papunesia,,Adang,2645,False,False
+adioukrou,,275,adi,adj,{},5.41666666667,-4.58333333333,Africa,,Adioukrou,1821,False,False
+adyghe (abzakh),,325,ady,ady,{},45.2333333333,40.5833333333,Eurasia,,Adyghe (Abzakh),1436,False,False
+adyghe (shapsugh),,325,ash,ady,{},45.0,38.75,Eurasia,,Adyghe (Shapsugh),3,False,False
+adyghe (temirgoy),,325,adt,ady,{},45.2166666667,39.7,Eurasia,,Adyghe (Temirgoy),269,False,False
+adynyamathanha,,792,adn,adt,{},-30.5,139.5,Australia,,Adynyamathanha,1340,False,False
+adzera,,87,adz,adz,{},-6.25,146.25,Papunesia,,Adzera,1494,False,False
+aekyom,,101,awi,awi,{},-5.75,141.416666667,Papunesia,,Aekyom,639,False,False
+afrikaans,,181,afr,afr,{},-31.0,22.0,Africa,,Afrikaans,1380,False,False
+agarabi,,430,aga,agd,{},-6.16666666667,146.0,Papunesia,,Agarabi,1669,False,False
+aghem,,274,agh,agq,{},6.66666666667,10.0,Africa,,Aghem,1381,False,False
+aghu,,445,ahu,ahh,{},-6.16666666667,140.166666667,Papunesia,,Aghu,1015,False,False
+aghul,,267,agl,agx,{},41.75,47.6666666667,Eurasia,,Aghul,853,False,False
+agta (central),,513,agc,agt,{},17.9666666667,121.833333333,Papunesia,,Agta (Central),1822,False,False
+agta (dupaningan),,513,agd,duo,{},18.0,122.083333333,Papunesia,,Agta (Dupaningan),2630,False,False
+aguacatec,,250,agu,agu,{},15.4166666667,-91.3333333333,North America,,Aguacatec,1060,False,False
+aguaruna,,197,agr,agr,{},-5.0,-78.0,South America,,Aguaruna,780,False,False
+ahtna,,262,aht,aht,{},62.0,-145.0,North America,,Ahtna,1382,False,False
+aikana,,528,aik,tba,{},-12.6666666667,-60.6666666667,South America,,Aikaná,1290,False,False
+ainu,,14,ain,ain,{},43.0,143.0,Eurasia,,Ainu,2486,False,True
+aizi,,277,aiz,ahp,{},5.25,-4.5,Africa,,Aizi,1154,False,False
+aja,,301,aja,aja,{},7.33333333333,25.6666666667,Africa,,Aja,1099,False,False
+ajagbe,,275,ajg,ajg,{},7.0,1.75,Africa,,Ajagbe,2589,False,False
+ajie,,87,aji,aji,{},-21.3333333333,165.5,Papunesia,,Ajië,270,False,False
+aka,,274,aka,axk,{},2.66666666667,16.25,Africa,,Aka,4,False,False
+akabiada,,163,akb,abj,{},11.6666666667,92.5,Eurasia,,Aka-Biada,5,False,False
+akacari,,163,akc,aci,{},13.5,93.0,Eurasia,,Aka-Cari,6,False,False
+akakede,,163,akk,akx,{},12.75,92.75,Eurasia,,Aka-Kede,7,False,False
+akan,,275,akn,aka,{},6.5,-1.25,Africa,,Akan,2309,False,False
+akawaio,,119,akw,ake,{},6.0,-59.5,South America,,Akawaio,1291,False,False
+akha,,380,akh,ahk,{},21.8333333333,99.8333333333,Eurasia,,Akha,1712,False,False
+akhvakh,,269,axv,akv,{},42.3333333333,46.3333333333,Eurasia,,Akhvakh,271,False,False
+aklanon,,513,akl,akl,{},11.5833333333,122.333333333,Papunesia,,Aklanon,629,False,False
+akwa,,286,awk,png,{},10.0833333333,6.33333333333,Africa,,Akwa,8,False,False
+alaala,,87,all,nrz,{},-8.91666666667,146.75,Papunesia,,Ala'ala,1437,False,False
+alabama,,260,abm,akz,{},32.3333333333,-87.4166666667,North America,,Alabama,1787,False,False
+alagwa,,1,agw,wbj,{},-5.5,35.75,Africa,,Alagwa,969,False,False
+alamblak,,370,ala,amp,{},-4.66666666667,143.333333333,Papunesia,,Alamblak,2480,True,True
+alas,,521,alx,btz,{},3.66666666667,97.8333333333,Papunesia,,Alas,9,False,False
+alawa,,790,alw,alh,{},-15.1666666667,134.25,Australia,,Alawa,2169,False,False
+albanian,,190,alb,"aln, als",{},41.0,20.0,Eurasia,,Albanian,2374,False,False
+aleut,,157,ale,ale,{},54.0,-166.0,North America,,Aleut,1788,False,False
+aleut (eastern),,157,aea,ale,{},54.75,-164.0,North America,,Aleut (Eastern),1292,False,False
+algonquin,,17,alg,alq,{},46.0,-77.0,North America,,Algonquin,272,False,False
+alladian,,275,ald,ald,{},5.16666666667,-4.33333333333,Africa,,Alladian,1210,False,False
+allentiac,,177,alc,,{},-31.0,-68.0,South America,,Allentiac,497,False,False
+alsatian,,181,alt,gsw,{},48.5,7.5,Eurasia,,Alsatian,10,False,False
+alsea,,328,als,aes,{},44.6666666667,-123.916666667,North America,,Alsea,1061,False,False
+altai (southern),,19,aso,alt,{},51.0,87.0,Eurasia,,Altai (Southern),498,False,False
+alune,,75,aln,alp,{},-3.0,128.333333333,Papunesia,,Alune,1858,False,False
+alutiiq,,158,atq,ems,{},57.0,-157.0,North America,,Alutiiq,854,False,False
+alutor,,139,alu,alr,{},61.0,165.0,Eurasia,,Alutor,499,False,False
+alyawarra,,792,aly,aly,{},-22.5,135.0,Australia,,Alyawarra,2122,False,False
+ama,,229,amm,amm,{},-4.21666666667,141.616666667,Papunesia,,Ama,2652,False,False
+amahuaca,,342,amc,amc,{},-10.5,-72.5,South America,,Amahuaca,2054,False,False
+amanab,,110,amn,amn,{},-3.58333333333,141.25,Papunesia,,Amanab,1581,False,False
+amara,,87,ama,aie,{},-5.66666666667,148.5,Papunesia,,Amara,1100,False,False
+amarakaeri,,168,amk,amr,{},-12.5,-70.5,South America,,Amarakaeri,909,False,False
+ambae (lolovoli northeast),,87,aml,omb,{},-15.4166666667,167.883333333,Papunesia,,Ambae (Lolovoli Northeast),1582,False,False
+ambai,,79,amq,amk,{},-1.83333333333,136.5,Papunesia,,Ambai,1789,False,False
+ambulas,,826,amb,abt,{},-3.83333333333,143.0,Papunesia,,Ambulas,1919,False,False
+amdo,,389,amd,adx,{},35.0,100.0,Eurasia,,Amdo,273,False,False
+amdo (themchen),,389,amt,adx,{},38.0,98.0,Eurasia,,Amdo (Themchen),2614,False,False
+amele,,437,ame,aey,{},-5.25,145.583333333,Papunesia,,Amele,2538,True,True
+american sign language,,330,asl,ase,{},39.0,-78.0,North America,,American Sign Language,274,False,False
+amharic,,10,amh,amh,{},10.0,38.0,Africa,,Amharic,2387,False,False
+amis,,595,ami,ami,{},23.3333333333,121.333333333,Papunesia,,Amis,910,False,False
+amo,,286,amo,amo,{},10.3333333333,8.66666666667,Africa,,Amo,1920,False,False
+ampeeli,,449,ape,apz,{},-6.75,146.083333333,Papunesia,,Ampeeli,630,False,False
+amuesha,,531,amu,ame,{},-10.5,-75.4166666667,South America,,Amuesha,1921,False,False
+amuzgo,,337,amz,amu,{},16.8333333333,-98.0,North America,,Amuzgo,1495,False,False
+anamuxra,,437,amx,imi,{},-4.66666666667,145.0,Papunesia,,Anamuxra,1293,False,False
+andi,,269,anx,ani,{},42.75,46.25,Eurasia,,Andi,11,False,False
+andoke,,22,adk,ano,{},-0.666666666667,-72.0,South America,,Andoke,1887,False,False
+anejom,,87,anj,aty,{},-20.2,169.8,Papunesia,,Anejom,2035,False,False
+anem,,23,ane,anz,{},-5.58333333333,149.083333333,Papunesia,,Anêm,1859,False,False
+angaataha,,449,ant,agm,{},-7.21666666667,146.25,Papunesia,,Angaataha,1438,False,False
+angami,,386,agm,"njm, nri",{},25.6666666667,94.5,Eurasia,,Angami,1823,False,False
+angas,,6,anc,anc,{},9.5,9.5,Africa,,Angas,2070,False,False
+anggor,,365,ang,agg,{},-3.75,141.166666667,Papunesia,,Anggor,1713,False,False
+angolar,,331,ago,aoa,{},0.25,6.5,Africa,,Angolar,631,False,False
+anguthimri,,794,agt,lnj,{},-12.3333333333,141.833333333,Australia,,Anguthimri,1670,False,False
+ani,,210,ani,hnh,{},-18.9166666667,21.9166666667,Africa,,//Ani,2090,False,False
+anindilyakwa,,41,ann,aoi,{},-14.0,136.5,Australia,,Anindilyakwa,1341,False,False
+anong,,385,ano,nun,{},27.3333333333,98.75,Eurasia,,Anong,781,False,False
+anufo,,275,anu,cko,{},10.0833333333,0.25,Africa,,Anufo,500,False,False
+anyi,,275,ayi,any,{},7.0,-3.5,Africa,,Anyi,1016,False,False
+anywa,,320,any,anu,{},8.0,33.5,Africa,,Anywa,1946,False,False
+ao,,386,ao,njo,{},26.5833333333,94.6666666667,Eurasia,,Ao,2170,False,False
+apache (chiricahua),,262,apc,apm,{},33.25,-108.0,North America,,Apache (Chiricahua),632,False,False
+apache (jicarilla),,262,apj,apj,{},36.5833333333,-104.0,North America,,Apache (Jicarilla),501,False,False
+apache (western),,262,apw,apw,{},33.75,-110.0,North America,,Apache (Western),1583,False,False
+apalai,,119,apl,apy,{},0.0,-54.0,South America,,Apalaí,2171,False,False
+apatani,,382,apt,apt,{},27.5,93.75,Eurasia,,Apatani,1746,False,False
+apinaye,,238,api,apn,{},-5.5,-48.0,South America,,Apinayé,2071,False,False
+apucikwar,,163,apk,apq,{},12.1666666667,92.8333333333,Eurasia,,A-Pucikwar,1,False,False
+apurina,,534,apu,apu,{},-9.0,-67.0,South America,,Apurinã,2472,True,True
+arabana,,792,abn,ard,{},-28.25,136.25,Australia,,Arabana,1860,False,False
+arabela,,509,arb,arl,{},-2.0,-75.1666666667,South America,,Arabela,1631,False,False
+arabic (bahrain),,10,abh,abv,{},26.0,50.5,Eurasia,,Arabic (Bahrain),12,False,False
+arabic (banihassan),,10,ahs,mey,{},20.0,-10.0,Africa,,Arabic (Bani-Hassan),502,False,False
+arabic (beirut),,10,abe,apc,{},33.9166666667,35.5,Eurasia,,Arabic (Beirut),633,False,False
+arabic (borno nigerian),,10,arn,shu,{},8.58333333333,12.4166666667,Africa,,Arabic (Borno Nigerian),13,False,False
+arabic (chadian),,10,abb,shu,{},13.8333333333,20.8333333333,Africa,,Arabic (Chadian),275,False,False
+arabic (eastern libyan),,10,ael,ayl,{},32.0,22.0,Africa,,Arabic (Eastern Libyan),634,False,False
+arabic (egyptian),,10,aeg,arz,{},30.0,31.0,Africa,,Arabic (Egyptian),2518,True,True
+arabic (gulf),,10,arg,afb,{},26.0,49.0,Eurasia,,Arabic (Gulf),2258,False,False
+arabic (hijazi),,10,arh,acw,{},26.0,38.0,Eurasia,,Arabic (Hijazi),503,False,False
+arabic (iraqi),,10,arq,acm,{},33.0,44.0,Eurasia,,Arabic (Iraqi),1714,False,False
+arabic (kormakiti),,10,ako,acy,{},35.25,33.5,Eurasia,,Arabic (Kormakiti),504,False,False
+arabic (kuwaiti),,10,arj,afb,{},29.5,47.5,Eurasia,,Arabic (Kuwaiti),2604,False,False
+arabic (lebanese),,10,arl,apc,{},34.0,36.0,Eurasia,,Arabic (Lebanese),970,False,False
+arabic (modern standard),,10,ams,arb,{},25.0,42.0,Eurasia,,Arabic (Modern Standard),1584,False,False
+arabic (moroccan),,10,amr,ary,{},34.0,-6.0,Africa,,Arabic (Moroccan),2199,False,False
+arabic (negev),,10,arv,ajp,{},30.5,34.75,Eurasia,,Arabic (Negev),635,False,False
+arabic (north levantine spoken),,10,anl,apc,{},33.75,36.0,Eurasia,,Arabic (North Levantine Spoken),505,False,False
+arabic (palestinian),,10,apa,ajp,{},32.0,35.25,Eurasia,,Arabic (Palestinian),855,False,False
+arabic (sanani),,10,ars,ayn,{},16.0,44.0,Eurasia,,Arabic (San'ani),636,False,False
+arabic (syrian),,10,asy,apc,{},34.0,38.0,Eurasia,,Arabic (Syrian),2036,False,False
+arabic (tunisian),,10,atu,aeb,{},36.75,10.25,Africa,,Arabic (Tunisian),911,False,False
+arakanese (marma),,380,akm,rmz,{},21.5,92.5,Eurasia,,Arakanese (Marma),14,False,False
+araki,,87,ark,akr,{},-15.6666666667,166.916666667,Papunesia,,Araki,506,False,False
+aralletabulahan,,525,atb,atq,{},-2.75,119.25,Papunesia,,Aralle-Tabulahan,507,False,False
+arandai,,828,ard,jbj,{},-2.08333333333,133.0,Papunesia,,Arandai,15,False,False
+araona,,403,ana,aro,{},-12.3333333333,-67.75,South America,,Araona,2388,False,True
+arapaho,,17,aho,arp,{},40.0,-103.0,North America,,Arapaho,508,False,False
+arapesh (abu),,427,aab,,{},-3.45,142.95,,,Arapesh (Abu),1101,False,False
+arapesh (mountain),,427,arp,ape,{},-3.46666666667,143.166666667,Papunesia,,Arapesh (Mountain),2440,True,True
+arawak,,782,ara,arw,{},5.5,-55.1666666667,South America,,Arawak,2200,False,False
+arbore,,698,abo,arv,{},5.0,36.75,Africa,,Arbore,1211,False,False
+archi,,267,arc,aqc,{},42.0,46.8333333333,Eurasia,,Archi,2274,False,False
+areare,,87,arx,alu,{},-9.25,161.166666667,Papunesia,,'Are'are,276,False,False
+aribwatsa,,87,ari,laz,{},-6.71666666667,147.0,Papunesia,,Aribwatsa,856,False,False
+arikara,,115,akr,ari,{},45.5,-100.5,North America,,Arikara,637,False,False
+armenian (eastern),,189,arm,hye,{},40.0,45.0,Eurasia,,Armenian (Eastern),2391,False,True
+armenian (iranian),,189,arz,hye,{},32.6666666667,51.6666666667,Eurasia,,Armenian (Iranian),16,False,False
+armenian (western),,189,arw,hye,{},38.5,43.5,Eurasia,,Armenian (Western),2016,False,False
+aroplokep,,87,alk,apr,{},-5.38333333333,147.05,Papunesia,,Arop-Lokep,1632,False,False
+arosi,,87,aro,aia,{},-10.25,161.333333333,Papunesia,,Arosi,1947,False,False
+arrernte,,792,arr,"aer, are",{},-24.0,134.0,Australia,,Arrernte,17,False,False
+arrernte (mparntwe),,792,amp,aer,{},-24.0,136.0,Australia,,Arrernte (Mparntwe),2326,False,False
+arrernte (western),,792,awe,are,{},-24.0,132.5,Australia,,Arrernte (Western),1439,False,False
+asmat,,447,asm,tml,{},-5.5,138.5,Papunesia,,Asmat,2442,True,True
+assamese,,182,ass,asm,{},26.0,93.0,Eurasia,,Assamese,1715,False,False
+asturian,,184,ast,ast,{},43.25,-6.0,Eurasia,,Asturian,18,False,False
+asurini,,457,asu,asu,{},-3.5,-49.5,South America,,Asuriní,857,False,False
+atacameno,,219,atm,kuz,{},-23.0,-69.0,South America,,Atacameño,858,False,False
+atakapa,,27,atk,aqp,{},30.0,-93.5,North America,,Atakapa,1824,False,False
+atayal,,89,ata,tay,{},24.5,121.333333333,Papunesia,,Atayal,2143,False,False
+atchin,,87,atc,upv,{},-16.0,167.333333333,Papunesia,,Atchin,912,False,False
+athpare,,512,ath,aph,{},27.0,87.3333333333,Eurasia,,Athpare,1888,False,False
+atikamekw,,17,ati,atj,{},48.0,-74.0,North America,,Atikamekw,277,False,False
+atsugewi,,173,ats,atw,{},40.75,-121.0,North America,,Atsugewi,971,False,False
+au,,428,au,avt,{},-3.58333333333,142.083333333,Papunesia,,Au,1974,False,False
+aulua,,87,aul,aul,{},-16.3333333333,167.666666667,Papunesia,,Aulua,19,False,False
+auslan,,330,aus,asf,{},-30.0,145.0,Australia,,Auslan,278,False,False
+auyana,,430,auy,auy,{},-6.5,145.75,Papunesia,,Auyana,20,False,False
+avar,,269,ava,ava,{},42.5,46.5,Eurasia,,Avar,2275,False,False
+avatime,,275,avt,avn,{},6.83333333333,0.416666666667,Africa,,Avatime,21,False,False
+avikam,,275,avk,avi,{},5.16666666667,-5.5,Africa,,Avikam,2591,False,False
+avokaya,,304,avo,avu,{},4.66666666667,30.0,Africa,,Avokaya,1496,False,False
+awa,,430,awa,awb,{},-6.66666666667,145.75,Papunesia,,Awa,1585,False,False
+awadhi,,182,awd,awa,{},27.5,81.5,Eurasia,,Awadhi,638,False,False
+awa pit,,106,awp,kwi,{},1.5,-78.25,South America,,Awa Pit,2476,False,True
+awngi,,7,awn,awn,{},10.8333333333,36.6666666667,Africa,,Awngi,1633,False,False
+awtuw,,369,awt,kmn,{},-3.58333333333,142.0,Papunesia,,Awtuw,2288,False,False
+awyi,,110,awy,auw,{},-2.91666666667,140.583333333,Papunesia,,Awyi,913,False,False
+ayiwo,,87,ayw,nfl,{},-10.3333333333,166.25,Papunesia,,Ayiwo,1155,False,False
+aymara (central),,102,aym,ayc,{},-17.0,-69.0,South America,,Aymara (Central),2392,False,True
+aynu,,19,ayn,aib,{},39.5,76.0,Eurasia,,Aynu,22,False,False
+ayoman,,196,ayo,,{},11.0,-69.0,,,Ayomán,1062,False,False
+ayoreo,,508,ayr,ayo,{},-20.25,-59.25,South America,,Ayoreo,1017,False,False
+azari (iranian),,19,azi,azb,{},37.5,47.0,Eurasia,,Azari (Iranian),1497,False,False
+azerbaijani,,19,aze,"azb, azj",{},40.5,48.5,Eurasia,,Azerbaijani,2144,False,False
+baale,,322,blj,koe,{},6.5,34.5,Africa,,Baale,509,False,False
+babole,,274,bbl,bvx,{},1.08333333333,17.25,Africa,,Babole,1342,False,False
+babungo,,274,bab,bav,{},6.11666666667,10.4166666667,Africa,,Babungo,2246,False,False
+bachamal,,43,bac,wdj,{},-13.1666666667,130.166666667,Australia,,Bachamal,1212,False,False
+badaga,,149,bdg,bfq,{},11.6666666667,76.75,Eurasia,,Badaga,23,False,False
+bade,,6,bad,bde,{},12.8333333333,10.5,Africa,,Bade,279,False,False
+badimaya,,793,bdm,bia,{},-27.6666666667,118.0,Australia,,Badimaya,1671,False,False
+bafia,,274,bfi,ksf,{},5.0,11.1666666667,Africa,,Bafia,1156,False,False
+bafut,,274,baf,bfd,{},6.25,9.91666666667,Africa,,Bafut,1157,False,False
+baga sitemu,,291,bgs,bsp,{},10.5,-14.5,Africa,,Baga Sitemu,914,False,False
+bagirmi,,305,bag,bmi,{},11.6666666667,16.0,Africa,,Bagirmi,2462,True,True
+bagiro,,305,bgr,fuu,{},4.33333333333,20.5833333333,Africa,,Bagiro,1634,False,False
+bagri,,182,bgi,bgq,{},29.5833333333,74.3333333333,Eurasia,,Bagri,24,False,False
+bagvalal,,269,bgv,kva,{},42.5833333333,46.1666666667,Eurasia,,Bagvalal,1213,False,False
+baham,,488,bdw,bdw,{},-3.16666666667,132.666666667,Papunesia,,Baham,2646,False,False
+bahinemo,,370,bhn,bjh,{},-4.58333333333,142.833333333,Papunesia,,Bahinemo,640,False,False
+bahnar,,63,bpb,bdq,{},13.8333333333,108.333333333,Eurasia,,Bahnar,280,False,False
+bai,,381,bai,bca,{},26.0,100.0,Eurasia,,Bai,2055,False,False
+bajau (sama),,76,baj,bdl,{},-4.33333333333,123.0,Papunesia,,Bajau (Sama),1948,False,False
+bajau (west coast),,76,bwc,bdr,{},6.33333333333,116.333333333,Papunesia,,Bajau (West Coast),2632,False,False
+baka (in cameroon),,287,bak,bkc,{},2.58333333333,13.5833333333,Africa,,Baka (in Cameroon),1825,False,False
+baka (in south sudan),,305,bka,bdh,{},4.83333333333,29.25,Africa,,Baka (in South Sudan),1441,False,False
+bakairi,,119,bki,bkq,{},-14.0,-55.0,South America,,Bakairí,1214,False,False
+bakueri,,274,bku,bri,{},4.25,9.25,Africa,,Bakueri,1343,False,False
+bakundu,,274,bkn,bdu,{},4.83333333333,9.33333333333,Africa,,Bakundu,510,False,False
+balangao,,514,blg,blw,{},17.1666666667,121.166666667,Papunesia,,Balangao,641,False,False
+balanta,,818,blz,"bjt, ble",{},12.25,-15.3333333333,Africa,,Balanta,1158,False,False
+balantak,,526,blk,blz,{},-0.833333333333,123.25,Papunesia,,Balantak,642,False,False
+balinese,,519,bal,ban,{},-8.33333333333,115.25,Papunesia,,Balinese,1294,False,False
+balivitu,,87,bvi,"bbn, wiv",{},-4.9,149.116666667,Papunesia,,Bali-Vitu,1537,False,False
+balti,,389,blt,bft,{},35.0,76.0,Eurasia,,Balti,1586,False,False
+baluchi,,183,blc,bgp,{},28.0,62.0,Eurasia,,Baluchi,1018,False,False
+balyku,,793,bly,nad,{},-22.0,120.0,Australia,,Balyku,2558,False,False
+bambam,,525,bbm,ptu,{},-3.08333333333,119.083333333,Papunesia,,Bambam,643,False,False
+bambara,,292,bam,bam,{},12.5,-7.5,Africa,,Bambara,2375,False,True
+bamun,,274,bmn,bax,{},5.5,10.9166666667,Africa,,Bamun,27,False,False
+bana,,5,ban,bcw,{},10.4166666667,13.5833333333,Africa,,Bana,28,False,False
+banawa,,24,bna,jaa,{},-7.0,-65.0,South America,,Banawá,644,False,False
+bandi,,292,bnd,bza,{},8.08333333333,-10.25,Africa,,Bandi,29,False,False
+bandjalang,,791,bnj,bdy,{},-28.75,153.0,Australia,,Bandjalang,1861,False,False
+bandjalang (casino),,791,bca,bdy,{},-28.9166666667,153.0,Australia,,Bandjalang (Casino),281,False,False
+bandjalang (waalubal),,791,bwa,bdy,{},-29.0833333333,152.583333333,Australia,,Bandjalang (Waalubal),859,False,False
+bandjalang (yugumbir),,791,byu,bdy,{},-27.9166666667,153.0,Australia,,Bandjalang (Yugumbir),1344,False,False
+banggai,,526,bgg,bgz,{},-1.41666666667,123.166666667,Papunesia,,Banggai,860,False,False
+banggarla,,792,bnl,bjb,{},-32.0,137.0,Australia,,Banggarla,511,False,False
+banggi,,518,bgz,bdg,{},7.25,117.166666667,Papunesia,,Banggi,2631,False,False
+bangime,,105,bgm,dba,{},14.9166666667,-3.83333333333,Africa,,Bangime,2598,False,False
+baniva,,785,bnv,bvv,{},5.26,-67.56,South America,,Baniva,2683,False,False
+baniwa,,830,bnw,bwi,{},2.66666666667,-66.8333333333,South America,,Baniwa,861,False,False
+bankon,,274,bnk,abb,{},4.41666666667,9.58333333333,Africa,,Bankon,1102,False,False
+banoni,,87,bnn,bcm,{},-6.41666666667,155.25,Papunesia,,Banoni,1587,False,False
+bantik,,524,bnt,bnq,{},1.41666666667,124.75,Papunesia,,Bantik,645,False,False
+baoan,,20,bao,peh,{},35.75,102.833333333333,Eurasia,,Bao'an,1159,False,False
+baragaunle,,389,brl,loy,{},28.8333333333,83.8333333333,Eurasia,,Baragaunle,30,False,False
+barai,,439,baa,"bbb, nvm",{},-9.33333333333,148.083333333,Papunesia,,Barai,2017,False,False
+barambu,,287,bbu,brm,{},3.5,27.0,Africa,,Barambu,1345,False,False
+barasano,,452,brs,bsn,{},-0.166666666667,-70.6666666667,South America,,Barasano,2436,True,True
+bardi,,46,brd,bcj,{},-16.5833333333,122.916666667,Australia,,Bardi,1215,False,False
+bare,,781,bae,bae,{},1.0,-67.0,South America,,Baré,2145,False,False
+bargam,,437,mug,mlp,{},-4.88333333333,145.75,Papunesia,,Bargam,567,False,False
+bari,,320,bar,bfa,{},5.0,31.6666666667,Africa,,Bari,2146,False,False
+bari,,128,mti,mot,{},9.0,-73.0,South America,,Barí,405,False,False
+bariba,,809,brb,bba,{},10.0,2.5,Africa,,Bariba,1160,False,False
+barupu,,394,brp,wra,{},-3.08333333333,142.083333333,Papunesia,,Barupu,2648,False,False
+baruya,,449,bry,byr,{},-6.91666666667,145.916666667,Papunesia,,Baruya,1347,False,False
+basaa,,274,bas,bas,{},3.91666666667,10.5,Africa,,Basaá,1295,False,False
+basari,,819,bsr,bsc,{},12.6666666667,-13.0,Africa,,Basari,1019,False,False
+bashkir,,19,bsk,bak,{},53.0,58.0,Eurasia,,Bashkir,2266,False,False
+basque,,107,bsq,eus,{},43.0,-3.0,Eurasia,,Basque,2533,True,True
+basque (basaburua and imoz),,107,bqi,eus,{},43.0,-1.66666666667,Eurasia,,Basque (Basaburua and Imoz),646,False,False
+basque (bidasoa valley),,107,bqb,eus,{},43.0,-3.83333333333,Eurasia,,Basque (Bidasoa Valley),647,False,False
+basque (gernica),,107,bqg,eus,{},43.3333333333,-3.0,Eurasia,,Basque (Gernica),648,False,False
+basque (hondarribia),,107,bqh,eus,{},42.5,-3.0,Eurasia,,Basque (Hondarribia),649,False,False
+basque (lekeitio),,107,bql,eus,{},43.0,-2.5,Eurasia,,Basque (Lekeitio),650,False,False
+basque (northern high navarrese),,107,bqn,eus,{},43.3333333333,-2.5,Eurasia,,Basque (Northern High Navarrese),651,False,False
+basque (onati),,107,bqo,eus,{},42.5,-3.5,Eurasia,,Basque (Oñati),652,False,False
+basque (roncalese),,107,bqr,eus,{},43.0,-2.0,Eurasia,,Basque (Roncalese),653,False,False
+basque (sakana),,107,bqs,eus,{},42.5,-2.0,Eurasia,,Basque (Sakana),654,False,False
+basque (souletin),,107,bso,eus,{},43.5,-1.5,Eurasia,,Basque (Souletin),655,False,False
+basque (zeberio),,107,bqz,eus,{},42.0,-3.0,Eurasia,,Basque (Zeberio),656,False,False
+batak,,513,bat,bya,{},10.25,119.083333333,Papunesia,,Batak,31,False,False
+batak (karo),,521,bkr,btx,{},3.25,98.25,Papunesia,,Batak (Karo),2418,False,True
+batak (toba),,521,bto,bbc,{},2.5,99.0,Papunesia,,Batak (Toba),2201,False,False
+bathari,,10,bth,bhm,{},18.0,56.0,Eurasia,,Bathari,32,False,False
+bau,,437,bau,bbd,{},-5.25,145.616666667,Papunesia,,Bau,282,False,False
+baule,,275,ble,bci,{},7.0,-5.0,Africa,,Baule,1383,False,False
+baure,,535,baq,brg,{},-13.0833333333,-64.1666666667,South America,,Baure,1635,False,False
+bauzi,,153,bzi,bvz,{},-2.5,137.5,Papunesia,,Bauzi,1538,False,False
+bawm,,386,baw,bgr,{},22.5,92.25,Eurasia,,Bawm,2393,False,True
+bayso,,698,bys,bsw,{},6.25,37.75,Africa,,Bayso,512,False,False
+bayungu,,793,bxj,bxj,{},-23.0,114.0,Australia,,Bayungu,2559,False,False
+beembe,,274,bee,beq,{},-3.91666666667,14.0833333333,Africa,,Beembe,1216,False,False
+begakidaan,,518,beg,dbj,{},5.25,118.833333333,Papunesia,,Begak-Ida'an,657,False,False
+beja,,3,bej,bej,{},18.0,36.0,Africa,,Beja,2401,False,True
+belhare,,512,bel,byw,{},26.9666666667,87.3,Eurasia,,Belhare,2037,False,False
+bella coola,,363,bco,blc,{},52.5,-126.666666667,North America,,Bella Coola,2131,False,False
+belorussian,,185,blr,bel,{},54.0,28.0,Eurasia,,Belorussian,1747,False,False
+bemba,,274,bem,bem,{},-10.0,28.25,Africa,,Bemba,1296,False,False
+benabena,,430,beb,bef,{},-6.16666666667,145.5,Papunesia,,Benabena,283,False,False
+benalulua,,274,blu,lua,{},-6.0,21.0,Africa,,Bena-Lulua,862,False,False
+beng,,273,bnq,nhb,{},7.83333333333,-4.25,Africa,,Beng,284,False,False
+benga,,274,bga,bng,{},1.16666666667,9.41666666667,Africa,,Benga,513,False,False
+bengali,,182,ben,ben,{},24.0,90.0,Eurasia,,Bengali,2147,False,False
+bengali (chittagong),,182,bec,ctg,{},22.3333333333,91.8333333333,Eurasia,,Bengali (Chittagong),285,False,False
+beothuk,,108,beo,bue,{},48.0,-57.0,North America,,Beothuk,286,False,False
+bera,,274,brq,brf,{},1.5,30.03,Africa,,Bera,2680,False,False
+berber (ayt seghrouchen middle atlas),,4,bse,tzm,{},33.3333333333,-4.66666666667,Africa,,Berber (Ayt Seghrouchen Middle Atlas),863,False,False
+berber (chaouia),,4,bch,shy,{},35.0,7.0,Africa,,Berber (Chaouia),1020,False,False
+berber (figuig),,4,bfg,,{},32.5,-1.5,,,Berber (Figuig),1975,False,False
+berber (middle atlas),,4,bma,tzm,{},33.0,-5.0,Africa,,Berber (Middle Atlas),2473,True,True
+berber (mzab),,4,bmz,mzb,{},32.5,3.5,Africa,,Berber (Mzab),287,False,False
+berber (rif),,4,brf,rif,{},34.5,-4.0,Africa,,Berber (Rif),1826,False,False
+berber (siwa),,4,bsi,siz,{},29.1666666667,25.5,Africa,,Berber (Siwa),915,False,False
+berber (wargla),,4,bou,oua,{},31.9166666667,5.33333333333,Africa,,Berber (Wargla),33,False,False
+berbice dutch creole,,331,bdc,brc,{},5.33333333333,-58.0,South America,,Berbice Dutch Creole,782,False,False
+beria,,312,zag,zag,{},16.0,23.0,Africa,,Beria,2599,False,False
+berik,,423,brk,bkl,{},-2.25,138.833333333,Papunesia,,Berik,972,False,False
+berta,,319,ber,wti,{},10.3333333333,34.6666666667,Africa,,Berta,2132,False,False
+bete,,277,bet,bev,{},6.25,-6.25,Africa,,Bété,1539,False,False
+betoi,,109,bti,,{},7.16666666667,-71.25,South America,,Betoi,1021,False,False
+betta kurumba,,149,bkb,xub,{},11.5,76.75,Eurasia,,Betta Kurumba,2606,False,False
+bezhta,,269,bez,kap,{},42.0833333333,46.1666666667,Eurasia,,Bezhta,783,False,False
+bhili,,182,bhi,bhb,{},22.0,73.0,Eurasia,,Bhili,658,False,False
+bhojpuri,,182,bho,bho,{},26.0,84.0,Eurasia,,Bhojpuri,1790,False,False
+bhumij,,66,bhu,unr,{},21.3333333333,86.5,Eurasia,,Bhumij,1022,False,False
+biafada,,820,bfd,bif,{},11.4166666667,-15.1666666667,Africa,,Biafada,34,False,False
+biak,,79,bik,bhw,{},-1.0,136.0,Papunesia,,Biak,864,False,False
+biatah,,95,bit,bth,{},1.25,110.0,Papunesia,,Biatah,35,False,False
+bidiya,,2,bid,bid,{},11.9166666667,18.75,Africa,,Bidiya,1442,False,False
+bikol,,513,bkl,bcl,{},13.3333333333,123.5,Papunesia,,Bikol,1672,False,False
+bila,,274,bia,bip,{},1.0,28.75,Africa,,Bila,1103,False,False
+bilaan (koronadal),,517,biq,bpr,{},6.0,125.333333333,Papunesia,,Bilaan (Koronadal),36,False,False
+bilin,,7,bln,byn,{},15.75,38.5,Africa,,Bilin,1922,False,False
+bilinarra,,793,bnr,nbj,{},-16.0,131.666666667,Australia,,Bilinarra,916,False,False
+biloxi,,391,blx,bll,{},30.5,-88.6666666667,North America,,Biloxi,1949,False,False
+bilua,,398,bil,blb,{},-7.75,156.666666667,Papunesia,,Bilua,1748,False,False
+bima,,75,bim,bhp,{},-8.5,118.5,Papunesia,,Bima,514,False,False
+bimoba,,808,bmb,bim,{},10.5,0.0,Africa,,Bimoba,1673,False,False
+binandere,,442,bin,bhg,{},-8.25,148.0,Papunesia,,Binandere,1443,False,False
+binga,,305,big,yul,{},8.0,25.0,Africa,,Binga,865,False,False
+bini,,295,bni,bin,{},6.41666666667,5.83333333333,Africa,,Bini,1384,False,False
+bininj gunwok,,44,bbw,gup,{},-12.5,133.75,Australia,,Bininj Gun-Wok,2172,False,False
+binukid,,513,bkd,bkd,{},8.25,124.833333333,Papunesia,,Binukid,515,False,False
+binumarien,,430,bnm,bjr,{},-6.28333333333,146.083333333,Papunesia,,Binumarien,659,False,False
+biri,,794,bii,bzr,{},-20.5,146.5,Australia,,Biri,1749,False,False
+birom,,283,bir,bom,{},9.66666666667,8.83333333333,Africa,,Birom,2202,False,False
+birri,,305,brz,bvq,{},5.5,25.1666666667,Africa,,Birri,288,False,False
+bisa,,273,bis,bib,{},11.5,-0.5,Africa,,Bisa,1348,False,False
+bislama,,331,bsm,bis,{},-16.0,168.0,Papunesia,,Bislama,289,False,False
+bisu,,380,biu,"bzi, lwm",{},19.75,100.0,Eurasia,,Bisu,1217,False,False
+blackfoot,,17,bla,bla,{},50.0,-112.666666667,North America,,Blackfoot,2091,False,False
+boazi,,829,boa,kvg,{},-7.0,141.333333333,Papunesia,,Boazi,1104,False,False
+bobangi,,274,bob,bni,{},-1.33333333333,17.3333333333,Africa,,Bobangi,1218,False,False
+bobo madare (northern),,292,bbf,bbo,{},12.4166666666667,-4.3333333333333,Africa,,Bobo Madaré (Northern),1219,False,False
+bodo,,383,bod,brx,{},26.8333333333,92.0,Eurasia,,Bodo,2072,False,False
+boiken,,826,boi,bzf,{},-3.5,143.5,Papunesia,,Boiken,516,False,False
+bokar,,382,boq,adi,{},28.5,94.6666666667,Eurasia,,Bokar,784,False,False
+boko,,273,bok,bqc,{},10.5,3.5,Africa,,Boko,917,False,False
+bole,,6,blq,bol,{},11.3333333333,11.25,Africa,,Bole,517,False,False
+bolia,,274,bol,bli,{},-1.25,18.3333333333,Africa,,Bolia,1023,False,False
+bongo,,305,bgo,bot,{},7.5,28.5,Africa,,Bongo,1674,False,False
+bongu,,437,bon,bpu,{},-5.5,145.916666667,Papunesia,,Bongu,1297,False,False
+bontok,,514,btk,bnc,{},17.0833333333,120.916666667,Papunesia,,Bontok,1791,False,False
+bora,,179,bor,boa,{},-2.16666666667,-72.3333333333,South America,,Bora,866,False,False
+bori,,382,boj,adi,{},28.3333333333,94.75,Eurasia,,Bori,1024,False,False
+bororo,,242,brr,bor,{},-16.0,-57.0,South America,,Bororo,2247,False,False
+boruca,,123,brc,brn,{},8.83333333333,-83.25,North America,,Boruca,290,False,False
+bosnian,,185,bos,bos,{},43.0,18.0,Eurasia,,Bosnian,37,False,False
+bozo (tigemaxo),,292,boz,boz,{},15.0,-4.0,Africa,,Bozo (Tigemaxo),867,False,False
+brahui,,150,brh,brh,{},28.5,67.0,Eurasia,,Brahui,2412,False,True
+brao,,63,bra,brb,{},14.1666666667,107.5,Eurasia,,Brao,1827,False,False
+breton,,187,bre,bre,{},48.0,-3.0,Eurasia,,Breton,2299,False,False
+bribri,,123,bri,bzd,{},9.41666666667,-83.0,North America,,Bribri,2310,False,True
+british sign language,,330,bsl,bfi,{},52.0,-1.0,Eurasia,,British Sign Language,291,False,False
+broken,,331,bro,tcs,{},-10.1666666667,143.0,Australia,,Broken,918,False,False
+brokskat,,182,bkt,bkk,{},35.3333333333,76.5,Eurasia,,Brokskat,1161,False,False
+bru (eastern),,72,bru,bru,{},17.3333333333,106.0,Eurasia,,Bru (Eastern),38,False,False
+bru (western),,72,brw,brv,{},16.75,104.75,Eurasia,,Bru (Western),1220,False,False
+bubi,,274,bub,bvb,{},3.5,8.66666666667,Africa,,Bubi,919,False,False
+budu,,274,bdu,buu,{},2.0,28.0,Africa,,Budu,2594,False,False
+budukh,,267,bdk,bdk,{},41.1666666667,48.4166666667,Eurasia,,Budukh,785,False,False
+buduma,,5,bud,bdm,{},13.5,14.5,Africa,,Buduma,1991,False,False
+bugis,,525,bug,bug,{},-4.0,120.0,Papunesia,,Bugis,1298,False,False
+buglere,,122,bgl,sab,{},8.5,-81.25,North America,,Buglere,660,False,False
+bugun,,374,bgn,,{},27.5,92.5833333333,Eurasia,,Bugun,1063,False,False
+buin,,152,bun,buo,{},-6.75,155.75,Papunesia,,Buin,973,False,False
+bujeba,,274,buj,nmg,{},3.0,10.1666666667,Africa,,Bujeba,292,False,False
+bukusu,,274,buk,bxk,{},0.75,34.6666666667,Africa,,Bukusu,518,False,False
+bularnu,,793,bnu,,{},-21.0,138.0,Australia,,Bularnu,1162,False,False
+bulgarian,,185,bul,bul,{},42.5,25.0,Eurasia,,Bulgarian,2357,False,False
+buli (in ghana),,808,buy,bwu,{},10.5,-1.25,Africa,,Buli (in Ghana),39,False,False
+buli (in indonesia),,79,bui,bzq,{},1.0,128.5,Papunesia,,Buli (in Indonesia),1105,False,False
+bulu,,274,buw,bum,{},3.0,11.0,Africa,,Bulu,519,False,False
+buma,,87,bum,tkw,{},-11.6333333333,166.833333333,Papunesia,,Buma,1675,False,False
+bunan,,389,ghr,bfu,{},32.5,77.0,Eurasia,,Bunan,982,False,False
+bunuba,,30,bnb,bck,{},-17.75,125.75,Australia,,Bunuba,1385,False,False
+bunu (younuo),,169,pnu,buh,{},24.0,107.0,Eurasia,,Bunu (Younuo),1418,False,False
+burapabir,,5,bpa,bwr,{},10.5,12.25,Africa,,Bura-Pabir,40,False,False
+burarra,,31,bua,bvr,{},-12.25,134.583333333,Australia,,Burarra,1923,False,False
+buriat,,20,but,bxm,{},52.0,108.0,Eurasia,,Buriat,2148,False,False
+burji,,698,brj,bji,{},5.5,37.8333333333,Africa,,Burji,661,False,False
+burmese,,380,brm,mya,{},21.0,96.0,Eurasia,,Burmese,2496,True,True
+buru,,75,buu,mhs,{},-3.5,126.5,Papunesia,,Buru,1676,False,False
+burum,,434,bmr,bmu,{},-6.5,147.333333333,Papunesia,,Burum,662,False,False
+burunge,,1,brn,bds,{},-5.33333333333,36.0,Africa,,Burunge,2038,False,False
+burushaski,,113,bur,bsk,{},36.5,74.5,Eurasia,,Burushaski,2507,True,True
+busa,,273,bus,bqp,{},9.66666666667,4.0,Africa,,Busa,1498,False,False
+bushoong,,274,bsh,buf,{},-4.5,21.5,Africa,,Bushoong,1588,False,False
+byansi,,389,bya,bee,{},30.1666666667,80.5,Eurasia,,Byansi,2056,False,False
+cabecar,,123,cab,cjp,{},9.75,-83.4166666667,North America,,Cabécar,293,False,False
+cacua,,114,cac,cbv,{},1.08333333333,-70.0,South America,,Cacua,1349,False,False
+caddo,,115,cad,cad,{},33.3333333333,-93.5,North America,,Caddo,1221,False,False
+cahuilla,,800,cah,chl,{},33.5,-116.25,North America,,Cahuilla,2413,False,True
+cakchiquel,,250,cak,cak,{},14.5,-91.0,North America,,Cakchiquel,1716,False,False
+camling,,512,cml,rab,{},27.0,86.6666666667,Eurasia,,Camling,1386,False,False
+campa (axininca),,536,cax,"cni, cpc",{},-12.0,-74.0,South America,,Campa (Axininca),2312,False,False
+campa pajonal asheninca,,536,cpa,cjo,{},-10.6666666667,-74.25,South America,,Campa Pajonal Asheninca,786,False,False
+camsa,,117,cam,kbh,{},1.16666666667,-77.0,South America,,Camsá,1792,False,False
+canamari,,206,cnm,knm,{},-6.5,-68.5,South America,,Canamarí,294,False,False
+candoshi,,118,can,cbu,{},-4.16666666667,-77.0,South America,,Candoshi,1589,False,False
+canela,,238,cnl,ram,{},-7.0,-45.0,South America,,Canela,295,False,False
+cantonese,,375,cnt,yue,{},23.0,113.0,Eurasia,,Cantonese,2366,False,False
+capanahua,,342,cap,kaq,{},-7.0,-74.0,South America,,Capanahua,1299,False,False
+carapana,,452,crp,cbc,{},0.833333333333,-70.75,South America,,Carapana,1350,False,False
+carib,,119,car,car,{},5.5,-56.0,South America,,Carib,2378,False,True
+carib (dekwana),,119,cde,mch,{},5.5,-65.0,South America,,Carib (De'kwana),1636,False,False
+carijona,,119,crj,cbd,{},1.0,-73.0,South America,,Carijona,663,False,False
+carolinian,,87,crl,cal,{},15.2,145.75,Papunesia,,Carolinian,296,False,False
+carrier,,262,crq,crx,{},53.75,-123.5,North America,,Carrier,664,False,False
+cashibo,,342,cas,cbr,{},-8.5,-75.5,South America,,Cashibo,1499,False,False
+cashinahua,,342,csh,cbs,{},-10.5,-71.8333333333,South America,,Cashinahua,1025,False,False
+catalan,,184,ctl,cat,{},41.75,2.0,Eurasia,,Catalan,2226,False,False
+catawba,,803,ctw,chc,{},35.5,-80.5,North America,,Catawba,1106,False,False
+catio,,135,cat,cto,{},7.16666666667,-76.3333333333,South America,,Catio,297,False,False
+cavinena,,403,cav,cav,{},-13.3333333333,-66.5,South America,,Cavineña,1500,False,False
+cayapa,,106,cay,cbi,{},0.666666666667,-79.0,South America,,Cayapa,2057,False,False
+cayuga,,192,cyg,cay,{},42.75,-76.75,North America,,Cayuga,787,False,False
+cayuvava,,120,cyv,cyb,{},-13.5,-65.5,South America,,Cayuvava,2389,False,True
+cebuano,,513,ceb,ceb,{},10.0,124.0,Papunesia,,Cebuano,2018,False,False
+cemuhi,,87,cem,cam,{},-20.8333333333,165.166666667,Papunesia,,Cèmuhî,1862,False,False
+chacobo,,342,cbo,cao,{},-12.1666666667,-66.75,South America,,Chácobo,2123,False,False
+chaga,,274,cga,old,{},-3.0,37.0,Africa,,Chaga,974,False,False
+chaha,,10,chh,sgw,{},8.112935,37.93267,Africa,,Chaha,1863,False,False
+chai,,322,cai,suq,{},5.33333333333,35.3333333333,Africa,,Chai,1677,False,False
+chaldean (modern),,10,cld,cld,{},36.0,43.0,Eurasia,,Chaldean (Modern),1387,False,False
+chamalal,,269,chm,cji,{},42.55,46.05,Eurasia,,Chamalal,520,False,False
+chambri,,231,chb,can,{},-4.16666666667,143.083333333,Papunesia,,Chambri,975,False,False
+cham (eastern),,519,cme,cjm,{},11.3333333333,108.5,Eurasia,,Cham (Eastern),1064,False,False
+chamorro,,74,cha,cha,{},13.45,144.75,Papunesia,,Chamorro,2508,True,True
+cham (western),,519,chw,cja,{},12.0,105.5,Eurasia,,Cham (Western),1924,False,False
+chang,,388,chg,nbc,{},26.3333333333,94.75,Eurasia,,Chang,1750,False,False
+chantyal,,389,chn,chx,{},28.5833333333,83.4166666667,Eurasia,,Chantyal,1828,False,False
+chasta costa,,262,cco,,{},42.6666666667,-124.0,North America,,Chasta Costa,298,False,False
+chatino (nopala),,332,cht,cya,{},16.0833333333,-97.1666666667,North America,,Chatino (Nopala),42,False,False
+chatino (sierra occidental),,332,cso,ctp,{},16.25,-97.3333333333,North America,,Chatino (Sierra Occidental),2133,False,False
+chatino (tataltepec),,332,ctt,cta,{},16.1666666667,-97.5833333333,North America,,Chatino (Tataltepec),299,False,False
+chatino (yaitepec),,332,cya,ctp,{},16.25,-97.25,North America,,Chatino (Yaitepec),1717,False,False
+chaudangsi,,389,chd,cdn,{},30.0,80.25,Eurasia,,Chaudangsi,976,False,False
+chavacano,,331,cvc,cbk,{},7.0,122.083333333,Papunesia,,Chavacano,788,False,False
+chayahuita,,116,chy,cbt,{},-5.5,-77.0,South America,,Chayahuita,1163,False,False
+chechen,,268,chc,che,{},43.25,45.8333333333,Eurasia,,Chechen,2149,False,False
+chehalis (upper),,364,chl,cjh,{},46.5833333333,-123.0,North America,,Chehalis (Upper),1637,False,False
+cheke holo,,87,ckh,mrn,{},-8.33333333333,159.666666667,Papunesia,,Cheke Holo,43,False,False
+chemakum,,131,cmk,xch,{},48.0833333333,-122.916666667,North America,,Chemakum,300,False,False
+chemehuevi,,477,cmh,ute,{},34.3333333333,-115.166666667,North America,,Chemehuevi,2134,False,False
+chepang,,512,cpn,cdm,{},27.6666666667,84.75,Eurasia,,Chepang,1829,False,False
+cherokee,,191,che,chr,{},35.5,-83.5,North America,,Cherokee,2214,False,False
+cheyenne,,17,cyn,chy,{},47.0,-95.0,North America,,Cheyenne,920,False,False
+chichewa,,274,cic,nya,{},-14.0,34.0,Africa,,Chichewa,1950,False,False
+chichimecajonaz,,340,cjo,pei,{},21.6666666667,-100.5,North America,,Chichimeca-Jonaz,1065,False,False
+chickasaw,,260,cck,cic,{},34.0,-88.0,North America,,Chickasaw,1444,False,False
+chicomuceltec,,250,cec,cob,{},15.5,-92.25,North America,,Chicomuceltec,301,False,False
+chimariko,,172,chi,cid,{},41.0,-123.0,North America,,Chimariko,1889,False,False
+chimila,,129,cma,cbg,{},10.0,-74.0,South America,,Chimila,302,False,False
+chinantec (comaltepec),,335,ccm,cco,{},17.5833333333,-96.4166666667,North America,,Chinantec (Comaltepec),2039,False,False
+chinantec (lealao),,335,cle,cle,{},17.3333333333,-95.9166666667,North America,,Chinantec (Lealao),2414,False,True
+chinantec (palantla),,335,cpl,cpa,{},18.8333333333,-96.75,North America,,Chinantec (Palantla),1890,False,False
+chinantec (quiotepec),,335,chq,chq,{},17.5833333333,-96.6666666667,North America,,Chinantec (Quiotepec),2073,False,False
+chinantec (san felipe usila),,335,csf,cuc,{},17.9166666667,-96.5,North America,,Chinantec (San Felipe Usila),303,False,False
+chinantec (sochiapan),,335,csc,cso,{},17.75,-96.6666666667,North America,,Chinantec (Sochiapan),44,False,False
+chinantec (tepetotutla),,335,cte,cnt,{},17.8333333333,-96.5,North America,,Chinantec (Tepetotutla),304,False,False
+chinese sign language,,330,csl,csl,{},35.0,115.0,Eurasia,,Chinese Sign Language,305,False,False
+chin (mara),,386,cmr,mrh,{},23.0,93.1666666667,Eurasia,,Chin (Mara),1751,False,False
+chinook (lower),,346,ckl,chh,{},46.25,-123.5,North America,,Chinook (Lower),1793,False,False
+chinook upper,,346,cku,wac,{},45.62,-121.16,North America,,Chinook (Upper),1590,False,False
+chin (siyin),,386,chs,csy,{},23.8333333333,94.0,Eurasia,,Chin (Siyin),1752,False,False
+chin (tiddim),,386,cti,ctd,{},23.3333333333,93.6666666667,Eurasia,,Chin (Tiddim),2019,False,False
+chipaya,,470,cpy,cap,{},-18.75,-67.8333333333,South America,,Chipaya,2667,False,False
+chipewyan,,262,chp,chp,{},59.0,-106.0,North America,,Chipewyan,2058,False,False
+chippewa (red lake and pillager),,17,cpw,ciw,{},48.0,-95.0,North America,,Chippewa (Red Lake and Pillager),45,False,False
+chiquitano,,133,cqt,cax,{},-17.5,-60.0,South America,,Chiquitano,1222,False,False
+chiriguano,,457,crg,gui,{},-23.6666666667,-64.3333333333,South America,,Chiriguano,921,False,False
+chitimacha,,134,ctm,ctm,{},29.6666666667,-91.0,North America,,Chitimacha,2040,False,False
+chocho,,339,cch,coz,{},17.6666666667,-97.4166666667,North America,,Chocho,977,False,False
+choctaw,,260,cct,cho,{},32.25,-88.5,North America,,Choctaw,2186,False,False
+chol,,250,col,"cti, ctu",{},17.75,-92.5,North America,,Chol,789,False,False
+cholon,,136,cln,"cht, clh",{},-8.0,-77.5,South America,,Cholón,1066,False,False
+chontal (highland),,413,cho,chd,{},16.25,-95.75,North America,,Chontal (Highland),1107,False,False
+chontal (huamelultec oaxaca),,413,chx,clo,{},16.0,-95.75,North America,,Chontal (Huamelultec Oaxaca),1540,False,False
+chontal maya,,250,cmy,chf,{},18.1666666667,-92.5833333333,North America,,Chontal Maya,1925,False,False
+chorote,,249,crt,"crq, crt",{},-22.5,-62.5,South America,,Chorote,868,False,False
+chorti,,250,coi,caa,{},14.8333333333,-89.25,North America,,Chortí,665,False,False
+chrau,,63,chr,crw,{},10.75,107.5,Eurasia,,Chrau,2234,False,False
+chru,,519,crh,cje,{},11.5,108.5,Eurasia,,Chru,46,False,False
+chuave,,438,cve,cjv,{},-6.11666666667,145.116666667,Papunesia,,Chuave,1108,False,False
+chuj,,250,chj,"cac, cnm",{},15.9166666667,-91.5833333333,North America,,Chuj,1109,False,False
+chukchi,,139,chk,ckt,{},67.0,-173.0,Eurasia,,Chukchi,2509,True,True
+chulym,,19,cly,clw,{},54.3333333333,89.6666666667,Eurasia,,Chulym,47,False,False
+chumash (barbareno),,141,cba,boi,{},34.5,-120.25,North America,,Chumash (Barbareño),1951,False,False
+chumash (ineseno),,141,cin,inz,{},34.6666666667,-120.25,North America,,Chumash (Ineseño),1110,False,False
+chumburung,,275,cum,ncu,{},7.75,0.25,Africa,,Chumburung,666,False,False
+chuukese,,87,cuu,chk,{},7.33333333333,151.75,Papunesia,,Chuukese,1026,False,False
+chuvash,,19,chv,chv,{},55.5,47.5,Eurasia,,Chuvash,2344,False,False
+ciluba,,274,cil,lua,{},-6.0,22.0,Africa,,CiLuba,1501,False,False
+clallam,,360,cla,clm,{},48.0833333333,-123.75,North America,,Clallam,667,False,False
+coahuilteco,,142,coa,xcw,{},28.0,-100.0,North America,,Coahuilteco,1223,False,False
+cocama,,457,coc,cod,{},-5.0,-74.5,South America,,Cocama,1926,False,False
+cocopa,,170,ccp,coc,{},32.3333333333,-115.0,North America,,Cocopa,2092,False,False
+coeur dalene,,362,coe,crd,{},47.25,-116.5,North America,,Coeur d'Alene,1164,False,False
+cofan,,143,cof,con,{},0.166666666667,-77.1666666667,South America,,Cofán,1445,False,False
+cogui,,130,cog,kog,{},11.0,-73.8333333333,South America,,Cogui,668,False,False
+colac,,791,clc,,{},-38.3333333333,143.5,Australia,,Colac,306,False,False
+columbiawenatchi,,362,cwe,col,{},47.5,-120.0,North America,,Columbia-Wenatchi,48,False,False
+comanche,,477,cmn,com,{},33.5,-101.5,North America,,Comanche,2419,False,True
+comecrudo,,144,cmc,xcm,{},25.8333333333,-99.0,North America,,Comecrudo,307,False,False
+comorian,,274,com,swb,{},-12.0,44.0,Africa,,Comorian,308,False,False
+comox,,360,cmx,coo,{},50.1666666667,-125.0,North America,,Comox,1446,False,False
+coos (hanis),,327,coo,csz,{},43.5,-124.166666667,North America,,Coos (Hanis),2427,False,True
+coptic,,8,cop,cop,{},26.0,32.0,Africa,,Coptic,2187,False,False
+cora,,471,cor,crn,{},22.1666666667,-104.833333333,North America,,Cora,2020,False,False
+cornish,,187,crn,cor,{},50.3333333333,-5.0,Eurasia,,Cornish,1992,False,False
+creek,,260,crk,mus,{},34.0,-85.0,North America,,Creek,922,False,False
+cree (plains),,17,cre,crk,{},54.0,-110.0,North America,,Cree (Plains),2428,True,True
+cree (swampy),,17,cea,csw,{},56.0,-90.0,North America,,Cree (Swampy),1591,False,False
+crimean tatar,,19,cri,crh,{},45.0,34.0833333333,Eurasia,,Crimean Tatar,1067,False,False
+crow,,391,cro,cro,{},47.0,-108.0,North America,,Crow,1541,False,False
+cua,,63,cua,cua,{},15.25,108.5,Eurasia,,Cua,869,False,False
+cubeo,,452,cub,cub,{},1.33333333333,-70.5,South America,,Cubeo,2259,False,False
+cuiba,,164,cui,cui,{},6.5,-70.0,South America,,Cuiba,1165,False,False
+cuica,,418,cuc,,{},9.0,-70.5,South America,,Cuica,979,False,False
+cuicatec,,334,ctc,"cut, cux",{},17.8333333333,-96.8333333333,North America,,Cuicatec,309,False,False
+cuitlatec,,145,cut,,{},17.5,-101.0,North America,,Cuitlatec,310,False,False
+culina,,24,cul,cul,{},-6.0,-70.5,South America,,Culina,790,False,False
+cupeno,,800,cup,cup,{},33.1666666667,-116.5,North America,,Cupeño,669,False,False
+curripaco,,781,cur,kpc,{},2.5,-68.5,South America,,Curripaco,311,False,False
+czech,,185,cze,ces,{},50.0,15.0,Eurasia,,Czech,2215,False,False
+daa,,526,daa,kzf,{},-1.0,119.583333333,Papunesia,,Da'a,521,False,False
+daba,,5,dab,"dbq, dkx",{},10.1666666667,13.75,Africa,,Daba,522,False,False
+dabida,,274,dbd,dav,{},-4.0,38.6666666667,Africa,,Dabida,670,False,False
+dadibi,,411,dad,mps,{},-6.55,144.583333333,Papunesia,,Dadibi,1224,False,False
+dadjriwale,,277,ddj,god,{},5.25,-5.66666666667,Africa,,Dadjriwalé,2579,False,False
+daga,,146,dag,dgz,{},-10.0,149.333333333,Papunesia,,Daga,2408,True,True
+dagaare,,808,dga,dga,{},10.5,-2.66666666667,Africa,,Dagaare,1864,False,False
+dagbani,,808,dgb,dag,{},9.58333333333,-0.5,Africa,,Dagbani,2188,False,False
+dagur,,20,dgr,dta,{},48.0,124.0,Eurasia,,Dagur,2260,False,False
+dahalo,,699,dah,dal,{},-2.33333333333,40.5,Africa,,Dahalo,1447,False,False
+daju (dar fur),,318,ddf,daj,{},12.25,25.25,Africa,,Daju (Dar Fur),1225,False,False
+dakota,,391,dak,dak,{},45.0,-93.5,North America,,Dakota,870,False,False
+damana,,130,dam,mbp,{},11.0,-73.5,South America,,Damana,1351,False,False
+dan,,273,dan,dnj,{},7.5,-8.0,Africa,,Dan,2074,False,False
+dangaleat (western),,2,dnw,daa,{},12.1666666667,18.3333333333,Africa,,Dangaléat (Western),1226,False,False
+dani (lower grand valley),,432,dni,dni,{},-4.33333333333,138.833333333,Papunesia,,Dani (Lower Grand Valley),2424,True,True
+danish,,181,dsh,dan,{},56.0,10.0,Eurasia,,Danish,2216,False,False
+darai,,182,dar,dry,{},24.0,84.0,Eurasia,,Darai,1227,False,False
+dargwa,,266,drg,dar,{},42.25,47.4166666667,Eurasia,,Dargwa,1678,False,False
+dari,,183,dri,prs,{},35.0,66.0,Eurasia,,Dari,791,False,False
+darma,,389,drm,drd,{},30.0,79.75,Eurasia,,Darma,1542,False,False
+datooga,,320,dat,tcc,{},-4.33333333333,35.3333333333,Africa,,Datooga,312,False,False
+daw,,261,daw,kwa,{},-0.25,-67.0833333333,South America,,Dâw,1301,False,False
+day,,812,day,dai,{},8.75,17.8333333333,Africa,,Day,1302,False,False
+defaka,,288,def,afn,{},4.58333333333,7.5,Africa,,Defaka,523,False,False
+degema,,295,deg,deg,{},4.75,6.75,Africa,,Degema,1388,False,False
+degexitan,,262,dgx,ing,{},62.0,-160.0,North America,,Degexit'an,313,False,False
+deni,,24,den,dny,{},-6.0,-67.0,South America,,Dení,524,False,False
+desano,,452,des,des,{},0.833333333333,-69.8333333333,South America,,Desano,1027,False,False
+deti,,210,det,shg,{},-20.5,24.5,Africa,,Deti,1228,False,False
+deuri,,383,deu,der,{},26.0,90.25,Eurasia,,Deuri,1111,False,False
+deutsche gebardensprache,,330,dge,gsg,{},52.0,11.0,Eurasia,,Deutsche Gebärdensprache,525,False,False
+dhaasanac,,698,dha,dsh,{},4.66666666667,36.3333333333,Africa,,Dhaasanac,1502,False,False
+dhalandji,,793,dhl,dhl,{},-22.08,115.0,Australia,,Dhalandji,2560,False,False
+dharawal,,791,dhw,tbh,{},-34.5,150.5,Australia,,Dharawal,1028,False,False
+dhargari,,793,dhr,dhr,{},-23.75,114.916666667,Australia,,Dhargari,1448,False,False
+dharumbal,,794,dhb,bjy,{},-22.75,150.5,Australia,,Dharumbal,1029,False,False
+dhimal,,511,dhm,dhi,{},26.6666666667,87.75,Eurasia,,Dhimal,50,False,False
+dhivehi,,182,dhi,div,{},4.16666666667,73.5,Eurasia,,Dhivehi,1112,False,False
+dhurga,,791,dhu,dhu,{},-35.6666666667,150.0,Australia,,Dhurga,671,False,False
+dhuwal (datiwuy),,793,dda,duj,{},-12.1666666667,136.25,Australia,,Dhuwal (Dätiwuy),51,False,False
+didinga,,322,did,did,{},4.5,33.5,Africa,,Didinga,1927,False,False
+diegueno (mesa grande),,170,die,dih,{},32.6666666667,-116.166666667,North America,,Diegueño (Mesa Grande),2327,False,False
+digaro,,376,dig,mhu,{},28.4166666667,96.0,Eurasia,,Digaro,1928,False,False
+dii,,815,ygd,dur,{},8.0,14.0,Africa,,Dii,250,False,False
+dimasa,,383,dms,dis,{},25.5,93.0,Eurasia,,Dimasa,1449,False,False
+dime,,9,dim,dim,{},6.16666666667,36.25,Africa,,Dime,1543,False,False
+ding,,274,dng,diz,{},-4.33333333333,19.5,Africa,,Ding,526,False,False
+dinka,,320,din,dip,{},8.5,28.0,Africa,,Dinka,2203,False,False
+diolafogny,,818,dio,dyo,{},13.0,-16.25,Africa,,Diola-Fogny,2390,False,True
+diolakasa,,818,csk,csk,{},12.5,-16.75,Africa,,Diola-Kasa,2553,False,False
+diyari,,792,diy,dif,{},-28.0,139.0,Australia,,Diyari,2328,False,False
+dizi,,594,diz,mdx,{},6.16666666667,36.5,Africa,,Dizi,2075,False,False
+djabugay,,794,dja,dyy,{},-16.75,145.583333333,Australia,,Djabugay,1450,False,False
+djambarrpuyngu,,793,djm,djr,{},-12.1666666667,135.5,Australia,,Djambarrpuyngu,1503,False,False
+djapu,,793,djp,duj,{},-12.6666666667,136.0,Australia,,Djapu,2248,False,False
+djaru,,793,djr,ddj,{},-18.75,128.0,Australia,,Djaru,2021,False,False
+djinang,,793,djn,dji,{},-12.3333333333,134.833333333,Australia,,Djinang,1303,False,False
+djingili,,796,dji,jig,{},-17.75,134.0,Australia,,Djingili,2059,False,False
+dla (menggwa),,365,dlm,kbv,{},-3.55,141.033333333,Papunesia,,Dla (Menggwa),2647,False,False
+dla (proper),,365,der,kbv,{},-3.58333333333,141.0,Papunesia,,Dla (Proper),1753,False,False
+dobel,,75,dob,kvo,{},-6.25,134.666666667,Papunesia,,Dobel,792,False,False
+dogri,,182,dgi,"dgo, xnr",{},33.0,75.0,Eurasia,,Dogri,52,False,False
+doko,,274,dok,ngc,{},3.0,23.0833333333,Africa,,Doko,923,False,False
+dolgan,,19,dol,dlg,{},71.25,98.0,Eurasia,,Dolgan,53,False,False
+domaaki,,182,dmk,dmk,{},36.1666666667,74.0,Eurasia,,Domaaki,1390,False,False
+domari,,182,dom,rmt,{},32.0,35.0,Eurasia,,Domari,1592,False,False
+dongo,,287,dgo,doo,{},3.0,30.0,Africa,,Dongo,1389,False,False
+dong (southern),,404,don,kmc,{},27.0,109.0,Eurasia,,Dong (Southern),1952,False,False
+donno so,,296,dds,dds,{},14.3333333333,-3.58333333333,Africa,,Donno So,2556,False,False
+doutai,,228,dou,tds,{},-3.33333333333,138.166666667,Papunesia,,Doutai,672,False,False
+doyayo,,815,doy,dow,{},8.66666666667,13.0833333333,Africa,,Doyayo,2249,False,False
+drehu,,87,dre,dhv,{},-21.0,167.25,Papunesia,,Drehu,2402,False,True
+duala,,274,dua,dua,{},4.0,9.41666666667,Africa,,Duala,1451,False,False
+duka,,286,duk,dud,{},11.1666666667,5.08333333333,Africa,,Duka,1794,False,False
+dullay (gollango),,698,dug,gwd,{},5.5,37.25,Africa,,Dullay (Gollango),673,False,False
+dulong,,385,dul,duu,{},28.0,98.3333333333,Eurasia,,Dulong,1166,False,False
+duma,,274,dma,dma,{},-0.95,13.0,Africa,,Duma,980,False,False
+dumagat (casiguran),,514,dca,dgc,{},16.3333333333,122.0,Papunesia,,Dumagat (Casiguran),314,False,False
+dumi,,512,dmi,dus,{},27.25,86.6666666667,Eurasia,,Dumi,1891,False,False
+dumo,,392,dum,vam,{},-2.68333333333,141.3,Papunesia,,Dumo,2189,False,False
+duna,,431,dun,duc,{},-5.5,142.5,Papunesia,,Duna,793,False,False
+dutch,,181,dut,nld,{},52.5,6.0,Eurasia,,Dutch,2345,False,False
+dutch (brabantic),,181,dbr,nld,{},50.75,4.5,Eurasia,,Dutch (Brabantic),54,False,False
+dutch (limburg),,181,dli,nld,{},51.0,5.5,Eurasia,,Dutch (Limburg),55,False,False
+dutch (zeeuws),,181,duz,zea,{},51.5,3.75,Eurasia,,Dutch (Zeeuws),56,False,False
+dyimini,,806,dym,dyi,{},8.41666666667,-4.41666666667,Africa,,Dyimini,674,False,False
+dyirbal,,794,dyi,dbl,{},-17.8333333333,145.583333333,Australia,,Dyirbal,2349,False,False
+dyula,,292,dyu,dyu,{},9.83333333333,-4.66666666667,Africa,,Dyula,315,False,False
+ebira,,278,ebi,igb,{},8.16666666667,7.0,Africa,,Ebira,1030,False,False
+edolo,,111,edo,etr,{},-6.16666666667,142.666666667,Papunesia,,Edolo,1068,False,False
+efate (south),,87,erk,erk,{},-17.75,168.416666667,Papunesia,,Efate (South),2638,False,False
+efik,,293,efi,efi,{},4.91666666667,8.5,Africa,,Efik,1865,False,False
+ega,,804,ega,ega,{},5.5,-5.5,Africa,,Ega,1230,False,False
+eipo,,446,eip,eip,{},-4.33333333333,140.083333333,Papunesia,,Eipo,527,False,False
+ejagham,,274,eja,etu,{},5.41666666667,8.66666666667,Africa,,Ejagham,1452,False,False
+ekari,,436,eka,ekg,{},-3.83333333333,135.5,Papunesia,,Ekari,2333,False,True
+ekoti,,274,eko,eko,{},-16.5,39.5,Africa,,Ekoti,794,False,False
+elseng,,256,els,mrf,{},-3.0,140.5,Papunesia,,Elseng,57,False,False
+emai,,295,ora,ema,{},7.08333333333,5.91666666667,Africa,,Emai,196,False,False
+embaloh,,525,eml,emb,{},1.16666666667,112.333333333,Papunesia,,Embaloh,58,False,False
+embera chami,,135,emc,cmi,{},5.0,-76.0,South America,,Embera Chami,871,False,False
+embera (northern),,135,emb,emp,{},6.83333333333,-77.1666666667,South America,,Emberá (Northern),1953,False,False
+emerillon,,457,eme,eme,{},3.16666666667,-52.4166666667,South America,,Émérillon,2664,False,False
+emmi,,798,emm,amy,{},-13.5,130.0,Australia,,Emmi,1167,False,False
+enets,,463,ene,"enf, enh",{},67.5,86.5,Eurasia,,Enets,1544,False,False
+enga,,433,ena,enq,{},-5.5,143.666666667,Papunesia,,Enga,675,False,False
+engenni,,295,egn,enn,{},5.16666666667,6.38333333333,Africa,,Engenni,1993,False,False
+enggano,,520,eno,eno,{},-5.41666666667,102.25,Papunesia,,Enggano,1795,False,False
+english,,181,eng,eng,{},52.0,0.0,Eurasia,,English,2551,True,True
+enya,,274,eny,gey,{},-0.5,25.25,Africa,,Enya,316,False,False
+epena pedee,,135,epe,sja,{},3.0,-77.0,South America,,Epena Pedee,2457,False,True
+erromangan,,87,err,erg,{},-18.8333333333,169.166666667,Papunesia,,Erromangan,2150,False,False
+ese ejja,,403,ese,ese,{},-11.0,-66.0,South America,,Ese Ejja,1994,False,False
+esmeraldeno,,402,esm,,{},0.333333333333,-79.8333333333,South America,,Esmeraldeño,1069,False,False
+esselen,,159,ess,esq,{},36.25,-121.75,North America,,Esselen,676,False,False
+estonian,,465,est,est,{},59.0,26.0,Eurasia,,Estonian,2235,False,False
+etsako,,295,ets,ets,{},7.25,6.5,Africa,,Etsako,59,False,False
+eudeve,,805,eud,opt,{},29.1666666667,-109.666666667,North America,,Eudeve,1679,False,False
+even,,21,evn,eve,{},68.0,130.0,Eurasia,,Even,2204,False,False
+evenki,,21,eve,evn,{},56.0,125.0,Eurasia,,Evenki,2535,False,True
+ewe,,275,ewe,ewe,{},6.33333333333,0.416666666667,Africa,,Ewe,2443,False,True
+ewe (anglo),,275,ewa,ewe,{},6.0,1.0,Africa,,Ewe (Anglo),317,False,False
+ewondo,,274,ewo,ewo,{},4.0,12.0,Africa,,Ewondo,2135,False,False
+eyak,,264,eya,eya,{},60.5,-145.0,North America,,Eyak,1391,False,False
+faroese,,181,far,fao,{},62.0,-7.0,Eurasia,,Faroese,1113,False,False
+fasu,,440,fas,faa,{},-6.58333333333,143.333333333,Papunesia,,Fasu,1929,False,False
+fefe,,274,fef,fmp,{},5.25,10.1666666667,Africa,,Fe'fe',1304,False,False
+fijian,,87,fij,fij,{},-17.8333333333,178.0,Papunesia,,Fijian,2510,True,True
+fijian (wayan),,87,fiw,wyy,{},-17.0,177.3,Papunesia,,Fijian (Wayan),60,False,False
+finnish,,465,fin,fin,{},62.0,25.0,Eurasia,,Finnish,2546,True,True
+finnish sign language,,330,fsl,fse,{},62.0,26.0,Eurasia,,Finnish Sign Language,318,False,False
+fiote,,274,fio,kng,{},-5.5,14.0,Africa,,Fiote,872,False,False
+foe,,444,foe,foi,{},-6.5,143.5,Papunesia,,Foe,983,False,False
+folopa,,411,pdp,ppo,{},-7.0,144.5,Papunesia,,Folopa,737,False,False
+fongbe,,275,fon,fon,{},6.41666666667,2.16666666667,Africa,,Fongbe,1305,False,False
+fordata,,75,frd,frd,{},-6.75,131.5,Papunesia,,Fordata,924,False,False
+fore,,430,for,for,{},-6.75,145.5,Papunesia,,Fore,1830,False,False
+fox,,17,fox,sac,{},43.0,-83.0,North America,,Fox,873,False,False
+french,,184,fre,fra,{},48.0,2.0,Eurasia,,French,2550,True,True
+frisian,,181,fri,frs,{},53.0,5.0,Eurasia,,Frisian,1680,False,False
+frisian (eastern),,181,fea,frs,{},53.5833333333,7.5,Eurasia,,Frisian (Eastern),61,False,False
+frisian (north),,181,fno,frr,{},54.5,9.0,Eurasia,,Frisian (North),62,False,False
+frisian (western),,181,frw,fry,{},53.0,6.0,Eurasia,,Frisian (Western),528,False,False
+fula (burkina faso),,821,fbf,fuh,{},14.0,0.0,Africa,,Fula (Burkina Faso),64,False,False
+fula (guinean),,821,fgu,fuf,{},11.5,-12.5,Africa,,Fula (Guinean),529,False,False
+fula (mauritanian),,821,fma,fuc,{},16.5,-13.75,Africa,,Fula (Mauritanian),677,False,False
+fula (senegal),,821,fus,fuc,{},15.0,-14.0,Africa,,Fula (Senegal),319,False,False
+fulfulde adamawa,,821,fua,fub,{},9.16666666667,13.5,Africa,,Fulfulde (Adamawa),1892,False,False
+fulfulde (maasina),,821,fum,ffm,{},15.0,-5.0,Africa,,Fulfulde (Maasina),66,False,False
+fulfulde nigerian,,821,fni,fuv,{},10.25,11.25,Africa,,Fulfulde (Nigerian),2227,False,False
+ful (liptako),,821,fli,fuh,{},13.5,0.5,Africa,,Ful (Liptako),63,False,False
+fulnio,,237,ful,fun,{},-8.0,-37.5,South America,,Fulniô,1893,False,False
+fur,,306,fur,fvr,{},13.5,25.0,Africa,,Fur,2367,False,True
+futunaaniwa,,87,fut,fut,{},-19.5333333333,170.216666667,Papunesia,,Futuna-Aniwa,2093,False,False
+futuna (east),,87,fue,fud,{},-14.3333333333,-178.166666667,Papunesia,,Futuna (East),981,False,False
+fuzhou,,375,fuz,cdo,{},26.0,119.5,Eurasia,,Fuzhou,1231,False,False
+fyem,,283,fye,pym,{},9.58333333333,9.33333333333,Africa,,Fyem,2173,False,False
+ga,,275,ga,gaa,{},5.66666666667,-0.166666666667,Africa,,Gã,1866,False,False
+gaagudju,,49,gaa,gbu,{},-12.5833333333,132.833333333,Australia,,Gaagudju,1352,False,False
+gaalpu,,793,glp,dhg,{},-12.6666666667,136.75,Australia,,Gaalpu,678,False,False
+gaanda,,5,gnd,gqa,{},10.3333333333,12.5833333333,Africa,,Ga'anda,1168,False,False
+gadaba (kondekor),,148,gdk,gdb,{},18.75,83.5,Eurasia,,Gadaba (Kondekor),2552,False,False
+gade,,278,gad,ged,{},8.66666666667,7.41666666667,Africa,,Gade,530,False,False
+gadsup,,430,gds,gaj,{},-6.25,146.0,Papunesia,,Gadsup,1954,False,False
+gaelic (scots),,187,gae,gla,{},57.0,-4.0,Eurasia,,Gaelic (Scots),2236,False,False
+gagauz,,19,gag,gag,{},46.3333333333,28.6666666667,Eurasia,,Gagauz,925,False,False
+gahuku,,430,gah,gah,{},-6.0,145.416666667,Papunesia,,Gahuku,1593,False,False
+galela,,494,gll,gbi,{},2.41666666667,128.333333333,Papunesia,,Galela,1169,False,False
+galician,,184,glc,glg,{},43.0,-8.0,Eurasia,,Galician,531,False,False
+galo,,382,gal,adi,{},28.1666666667,94.6666666667,Eurasia,,Galo,1453,False,False
+gamilaraay,,791,gml,kld,{},-29.8333333333,149.5,Australia,,Gamilaraay,67,False,False
+gamo,,13,gam,gmv,{},6.66666666667,37.25,Africa,,Gamo,1545,False,False
+gapapaiwa,,87,gap,pwg,{},-9.75,149.833333333,Papunesia,,Gapapaiwa,1546,False,False
+garifuna,,782,grf,cab,{},15.6666666667,-88.0,North America,,Garífuna,1995,False,False
+garo,,383,gar,grt,{},25.6666666667,90.5,Eurasia,,Garo,2403,False,True
+garrwa,,47,grr,wrk,{},-17.0833333333,137.166666667,Australia,,Garrwa,2174,False,False
+garus,,437,grs,gyb,{},-4.95,145.666666667,Papunesia,,Garus,532,False,False
+gaviao,,455,gav,gvo,{},-10.6666666667,-62.0,South America,,Gavião,1504,False,False
+gayo,,521,gay,gay,{},4.5,97.5,Papunesia,,Gayo,679,False,False
+gbaya northwest,,537,gbk,gya,{},6.0,15.0,Africa,,Gbaya (Northwest),1547,False,False
+gbaya southwest,,537,gbs,gso,{},4.7,14.96,Africa,,Gbaya (Southwest),2684,False,False
+gbeya bossangoa,,537,gbb,gbp,{},6.66666666667,17.5,Africa,,Gbeya Bossangoa,2276,False,False
+gela,,87,gel,nlg,{},-9.08333333333,160.25,Papunesia,,Gela,1548,False,False
+gelao,,405,gla,gqu,{},22.9166666667,105.5,Eurasia,,Gelao,1232,False,False
+georgian,,205,geo,kat,{},42.0,44.0,Eurasia,,Georgian,2526,True,True
+german,,181,ger,deu,{},52.0,10.0,Eurasia,,German,2539,True,True
+german (appenzell),,181,gpz,gsw,{},47.3333333333,9.33333333333,Eurasia,,German (Appenzell),68,False,False
+german (bavarian),,181,gba,bar,{},49.0,11.5,Eurasia,,German (Bavarian),69,False,False
+german (berlin),,181,gbl,deu,{},52.5,13.3333333333,Eurasia,,German (Berlin),70,False,False
+german (bern),,181,gbe,gsw,{},47.0,7.41666666667,Eurasia,,German (Bern),71,False,False
+german (hannover),,181,gha,deu,{},52.4166666667,9.66666666667,Eurasia,,German (Hannover),72,False,False
+german (mansfeldisch),,181,gma,deu,{},51.5833333333,11.5,Eurasia,,German (Mansfeldisch),73,False,False
+german (ostschweiz),,181,gos,gsw,{},47.4166666667,9.25,Eurasia,,German (Ostschweiz),74,False,False
+german (ripuarian),,181,grp,ksh,{},51.0,7.0,Eurasia,,German (Ripuarian),75,False,False
+german (thurgau),,181,gtg,gsw,{},47.5833333333,9.16666666667,Eurasia,,German (Thurgau),76,False,False
+german (thuringian),,181,gth,deu,{},51.0,11.0,Eurasia,,German (Thuringian),77,False,False
+german (timisoara),,181,gti,deu,{},45.75,21.25,Eurasia,,German (Timisoara),78,False,False
+german (upper austrian),,181,gau,bar,{},47.0,14.0,Eurasia,,German (Upper Austrian),79,False,False
+german (viennese),,181,gvi,bar,{},48.1666666667,16.3333333333,Eurasia,,German (Viennese),80,False,False
+german (westphalian),,181,gwe,wep,{},52.0,7.5,Eurasia,,German (Westphalian),82,False,False
+german (zurich),,181,gzu,gsw,{},47.4166666667,8.5,Eurasia,,German (Zurich),83,False,False
+ghotuo,,295,gho,aaa,{},7.08333333333,5.75,Africa,,Ghotuo,84,False,False
+ghulfan,,307,nbh,ghl,{},12.0,31.0,Africa,,Ghulfan,822,False,False
+gidabal,,791,gid,bdy,{},-28.4166666667,152.416666667,Australia,,Gidabal,1638,False,False
+gidar,,5,gdr,gid,{},10.0,14.0,Africa,,Gidar,85,False,False
+gilaki,,183,gil,glk,{},37.3333333333,50.0,Eurasia,,Gilaki,926,False,False
+gimira,,13,gim,bcq,{},7.0,35.75,Africa,,Gimira,1930,False,False
+gitksan,,352,git,git,{},55.3333333333,-127.75,North America,,Gitksan,1549,False,False
+giziga,,5,giz,"gis, giz",{},10.3333333333,14.1666666667,Africa,,Giziga,86,False,False
+goajiro,,782,goa,guc,{},12.0,-72.0,South America,,Goajiro,2205,False,False
+godie,,277,gdi,god,{},5.41666666667,-5.83333333333,Africa,,Godié,1031,False,False
+godoberi,,269,god,gdo,{},42.6666666667,46.0833333333,Eurasia,,Godoberi,1955,False,False
+goemai,,6,goe,ank,{},8.66666666667,9.75,Africa,,Goemai,1639,False,False
+gogodala,,162,gog,ggw,{},-8.08333333333,142.833333333,Papunesia,,Gogodala,796,False,False
+gojri,,182,goj,gju,{},32.75,76.25,Eurasia,,Gojri,533,False,False
+gokana,,293,gok,gkn,{},4.58333333333,7.33333333333,Africa,,Gokana,1796,False,False
+gola,,291,gol,gol,{},7.25,-10.8333333333,Africa,,Gola,1233,False,False
+golin,,438,gln,gvf,{},-6.33333333333,144.75,Papunesia,,Golin,1681,False,False
+gondi,,147,gon,"ggo, gno",{},19.0,81.0,Eurasia,,Gondi,1718,False,False
+gooniyandi,,30,goo,gni,{},-18.3333333333,126.333333333,Australia,,Gooniyandi,2481,True,True
+gorontalo,,513,grt,gor,{},0.5,122.0,Papunesia,,Gorontalo,87,False,False
+gorowa,,1,gor,gow,{},-4.5,36.5,Africa,,Gorowa,680,False,False
+great andamanese,,163,gan,apq,{},12.0,92.6666666667,Eurasia,,Great Andamanese,1754,False,False
+grebo,,277,grb,grj,{},5.0,-8.0,Africa,,Grebo,2444,True,True
+greek (cypriot),,186,gcy,ell,{},34.75,33.0,Eurasia,,Greek (Cypriot),88,False,False
+greek (modern),,186,grk,ell,{},39.0,22.0,Eurasia,,Greek (Modern),2540,True,True
+greek sign language,,330,gsl,gss,{},38.5,22.0,Eurasia,,Greek Sign Language,320,False,False
+greenlandic (east),,158,gre,kal,{},65.0,-40.0,Eurasia,,Greenlandic (East),534,False,False
+greenlandic (south),,158,gso,kal,{},60.0,-44.0,Eurasia,,Greenlandic (South),321,False,False
+greenlandic (west),,158,grw,kal,{},64.0,-51.0,Eurasia,,Greenlandic (West),2519,True,True
+guadeloupe creole,,331,gdl,gcf,{},16.25,-61.5,North America,,Guadeloupe Creole,89,False,False
+guahibo,,164,ghb,guh,{},5.0,-69.0,South America,,Guahibo,1454,False,False
+guajajara,,457,gjj,gub,{},-5.0,-46.0,South America,,Guajajara,1797,False,False
+guambiano,,106,gmb,gum,{},2.5,-76.6666666667,South America,,Guambiano,1505,False,False
+guana,,248,gna,gva,{},-22.0,-58.0,South America,,Guana,322,False,False
+guanano,,452,gno,gvc,{},0.833333333333,-69.5,South America,,Guanano,535,False,False
+guaque,,119,guq,cbd,{},1.0,-72.0833333333,South America,,Guaque,90,False,False
+guarani,,457,gua,gug,{},-26.0,-56.0,South America,,Guaraní,2492,True,True
+guarijio,,479,grj,var,{},27.75,-108.666666667,North America,,Guarijío,1755,False,False
+guato,,241,gto,gta,{},-17.0,-58.0,South America,,Guató,1234,False,False
+guayabero,,164,gyb,guo,{},2.83333333333,-72.0,South America,,Guayabero,323,False,False
+gude,,5,gud,gde,{},10.4166666667,13.4166666667,Africa,,Gude,2076,False,False
+guduf,,5,gdf,gdf,{},11.2333333333,13.8,Africa,,Guduf,536,False,False
+guere,,277,gue,"gxx, wec",{},6.66666666667,-7.75,Africa,,Guere,91,False,False
+gugada,,793,gug,ktd,{},-30.0,134.0,Australia,,Gugada,1594,False,False
+gugadj,,794,ggd,ggd,{},-18.5,140.5,Australia,,Gugadj,2561,False,False
+guhusamane,,442,guh,ghs,{},-8.0,147.333333333,Papunesia,,Guhu-Samane,1170,False,False
+guianese french creole,,331,gfr,gcr,{},5.0,-53.0,South America,,Guianese French Creole,92,False,False
+guinea bissau crioulo,,331,gbc,pov,{},12.0,-15.0,Africa,,Guinea Bissau Crioulo,93,False,False
+gujarati,,182,guj,guj,{},23.0,72.0,Eurasia,,Gujarati,1931,False,False
+gula (in central african republic),,305,gul,glu,{},9.5,22.5,Africa,,Gula (in Central African Republic),1682,False,False
+gula iro,,813,gir,glj,{},10.25,19.4166666667,Africa,,Gula Iro,324,False,False
+gumatj,,793,gmt,gnn,{},-12.5,135.5,Australia,,Gumatj,94,False,False
+gumawana,,87,gmw,gvs,{},-9.25,150.833333333,Papunesia,,Gumawana,2041,False,False
+gumbaynggir,,791,gum,kgs,{},-30.1666666667,152.5,Australia,,Gumbaynggir,2110,False,False
+gumuz,,321,gmz,guk,{},12.5,35.8333333333,Africa,,Gumuz,1867,False,False
+gunbalang,,44,gnb,wlg,{},-12.0,134.0,Australia,,Gunbalang,1506,False,False
+gungbe,,275,guw,guw,{},6.5,2.5,Africa,,Gungbe,2590,False,False
+gunin,,29,gnn,gww,{},-14.25,126.666666667,Australia,,Gunin,1392,False,False
+gunu,,274,gun,yas,{},4.58333333333,11.25,Africa,,Gunu,681,False,False
+gununa kune,,138,gku,pue,{},-41.0,-67.0,South America,,Gününa Küne,1595,False,False
+gunya,,794,gny,gyy,{},-26.5,146.5,Australia,,Gunya,537,False,False
+gupapuyngu,,793,guf,guf,{},-12.0,136.0,Australia,,Gupapuyngu,2562,False,False
+gureng gureng,,791,ggu,gnr,{},-25.25,151.0,Australia,,Gureng Gureng,1455,False,False
+gurenne,,808,grn,gur,{},10.8333333333,-0.916666666667,Africa,,Gurenne,874,False,False
+gurindji,,793,gji,gue,{},-17.6666666667,130.666666667,Australia,,Gurindji,325,False,False
+gurma,,808,grm,gux,{},12.25,1.0,Africa,,Gurma,326,False,False
+guro,,273,gro,goa,{},7.0,-6.0,Africa,,Guro,96,False,False
+gurrgoni,,31,grg,gge,{},-12.25,134.416666667,Australia,,Gurr-goni,1393,False,False
+gurung,,389,gur,"ggn, gvr",{},28.3333333333,84.3333333333,Eurasia,,Gurung,1831,False,False
+gusii,,274,gus,guz,{},-0.75,34.8333333333,Africa,,Gusii,97,False,False
+gutob,,66,gdb,gbj,{},19.0,83.6666666667,Eurasia,,Gutob,795,False,False
+guugu yimidhirr,,794,guu,kky,{},-15.0,144.833333333,Australia,,Guugu Yimidhirr,2237,False,False
+gwari,,278,gwa,gbr,{},9.5,7.0,Africa,,Gwari,2111,False,False
+gworok,,283,gwo,kcg,{},9.91666666667,8.16666666667,Africa,,Gworok,1114,False,False
+gyarong (cogtse),,390,gyc,jya,{},31.5,102.0,Eurasia,,Gyarong (Cogtse),2622,False,False
+hadza,,166,had,hts,{},-3.75,35.1666666667,Africa,,Hadza,1235,False,False
+haida,,167,hai,"hax, hdn",{},53.0,-132.0,North America,,Haida,2396,False,True
+haida (northern),,167,hno,hdn,{},54.0,-132.5,North America,,Haida (Northern),682,False,False
+haisla,,482,hsl,has,{},54.0,-128.75,North America,,Haisla,98,False,False
+haitian creole,,331,hcr,hat,{},19.0,-72.5,North America,,Haitian Creole,984,False,False
+hakka,,375,hak,hak,{},25.0,116.0,Eurasia,,Hakka,1832,False,False
+halang,,63,hln,hal,{},14.5,107.5,Eurasia,,Halang,538,False,False
+halbi,,182,hlb,hlb,{},21.0,81.0,Eurasia,,Halbi,683,False,False
+halia,,87,hal,hla,{},-5.25,154.666666667,Papunesia,,Halia,1798,False,False
+halkomelem (island),,360,hli,hur,{},49.2,-123.0,North America,,Halkomelem (Island),2554,False,False
+halkomelem (upriver),,360,hlu,hur,{},49.25,-121.916666667,North America,,Halkomelem (Upriver),2555,False,False
+hamer,,9,hmr,amf,{},5.0,36.5,Africa,,Hamer,1799,False,False
+hamtai,,449,ham,hmt,{},-7.5,146.25,Papunesia,,Hamtai,2334,False,True
+hanga hundi,,826,hhu,wos,{},-3.83333333333,142.916666667,Papunesia,,Hanga Hundi,1306,False,False
+hani,,380,han,hni,{},23.0,103.0,Eurasia,,Hani,1115,False,False
+hanunoo,,513,hnn,hnn,{},12.3333333333,121.25,Papunesia,,Hanunóo,797,False,False
+harari,,10,hrr,har,{},9.25,42.1666666667,Africa,,Harari,99,False,False
+harsusi,,10,hrs,hss,{},20.0,56.5,Eurasia,,Harsusi,327,False,False
+haruai,,461,har,tmd,{},-5.08333333333,144.166666667,Papunesia,,Haruai,539,False,False
+hatam,,495,hat,had,{},-1.0,134.0,Papunesia,,Hatam,2293,False,False
+hausa,,6,hau,hau,{},12.0,7.0,Africa,,Hausa,2531,True,True
+havasupai,,170,hav,yuf,{},35.75,-112.5,North America,,Havasupai,100,False,False
+hawaiian,,87,haw,haw,{},19.5833333333,-155.5,Papunesia,,Hawaiian,2350,False,False
+hawaiian creole,,331,hwc,hwc,{},21.5,-158.0,North America,,Hawaiian Creole,798,False,False
+hawrami,,183,hwr,hac,{},35.75,45.5,Eurasia,,Hawrami,875,False,False
+haya,,274,hya,hay,{},-2.0,31.5,Africa,,Haya,1596,False,False
+hayu,,512,hay,vay,{},27.25,86.0,Eurasia,,Hayu,2022,False,False
+hdi,,5,hdi,xed,{},11.8666666667,13.7166666667,Africa,,Hdi,876,False,False
+hebrew (modern),,10,heb,heb,{},31.5,34.8333333333,Eurasia,,Hebrew (Modern),2511,True,True
+hebrew (modern ashkenazic),,10,hba,heb,{},31.75,35.1666666667,Eurasia,,Hebrew (Modern Ashkenazic),1236,False,False
+hehe,,274,heh,heh,{},-8.0,36.0,Africa,,Hehe,1116,False,False
+heiltsuk,,482,hei,hei,{},52.0,-127.5,North America,,Heiltsuk,1394,False,False
+hemba,,274,hem,hem,{},-6.25,27.1666666667,Africa,,Hemba,1070,False,False
+herero,,274,her,her,{},-20.5833333333,19.0,Africa,,Herero,799,False,False
+hianacoto,,119,hia,cbd,{},0.833333333333,-71.0,South America,,Hianacoto,101,False,False
+hidatsa,,391,hid,hid,{},47.0,-102.5,North America,,Hidatsa,1597,False,False
+hiligaynon,,513,hil,hil,{},10.25,123.0,Papunesia,,Hiligaynon,1550,False,False
+hindi,,182,hin,hin,{},25.0,77.0,Eurasia,,Hindi,2523,True,True
+hinuq,,269,hnk,gin,{},42.1666666667,46.0,Eurasia,,Hinuq,102,False,False
+hixkaryana,,119,hix,hix,{},-1.0,-59.0,South America,,Hixkaryana,2520,True,True
+hlai (baoding),,406,lic,lic,{},19.0,109.5,Eurasia,,Hlai (Baoding),2627,False,False
+hmar,,386,hma,hmr,{},24.1666666667,93.0,Eurasia,,Hmar,1640,False,False
+hmong daw,,169,hmd,mww,{},26.0,105.0,Eurasia,,Hmong Daw,877,False,False
+hmong njua,,169,hmo,"cqd, hnj",{},28.0,105.0,Eurasia,,Hmong Njua,2445,True,True
+ho,,66,ho,hoc,{},22.0,86.0,Eurasia,,Ho,1598,False,False
+hoan,,213,huc,huc,{},-25.5,25.0,Africa,,=|Hoan,2671,False,False
+hoava,,87,hoa,hoa,{},-8.08333333333,157.5,Papunesia,,Hoava,684,False,False
+holoholo,,274,hol,hoo,{},-5.16666666667,29.9166666667,Africa,,Holoholo,1071,False,False
+hong kong sign language,,330,hks,,{},22.5,114.0,Eurasia,,Hong Kong Sign Language,328,False,False
+hopi,,473,hop,hop,{},36.0,-110.0,North America,,Hopi,2238,False,False
+hre,,63,hre,hre,{},14.6666666667,108.666666667,Eurasia,,Hre,103,False,False
+hua,,430,hua,ygr,{},-6.33333333333,145.333333333,Papunesia,,Hua,2151,False,False
+hualapai,,170,hlp,yuf,{},35.5,-113.75,North America,,Hualapai,1719,False,False
+huambisa,,197,hmb,hub,{},-4.0,-78.0,South America,,Huambisa,329,False,False
+huastec,,250,htc,hus,{},22.0833333333,-99.3333333333,North America,,Huastec,2261,False,False
+huave (san mateo del mar),,178,hve,huv,{},16.2166666667,-95.0,North America,,Huave (San Mateo del Mar),2283,False,False
+huichol,,471,hui,hch,{},22.0,-104.0,North America,,Huichol,1800,False,False
+huitoto (minica),,180,hmi,hto,{},-0.333333333333,-74.0,South America,,Huitoto (Minica),1996,False,True
+huitoto (muinane),,180,hmu,hux,{},-2.41666666667,-71.0,South America,,Huitoto (Muinane),1117,False,False
+huitoto (murui),,180,hum,huu,{},-1.0,-73.5,South America,,Huitoto (Murui),2094,False,False
+hunde,,274,hnd,hke,{},-1.16666666667,28.8333333333,Africa,,Hunde,1720,False,False
+hungarian,,464,hun,hun,{},47.0,20.0,Eurasia,,Hungarian,2544,False,True
+hunzib,,269,hzb,huz,{},42.1666666667,46.25,Eurasia,,Hunzib,2463,False,True
+hup,,261,hpd,jup,{},0.166666666667,-69.25,South America,,Hup,1721,False,False
+hupa,,262,hup,hup,{},41.0833333333,-123.666666667,North America,,Hupa,2217,False,False
+hyow,,386,hyo,csh,{},22.0833333333,92.4166666667,Eurasia,,Hyow,104,False,False
+iaai,,87,iaa,iai,{},-20.4166666667,166.583333333,Papunesia,,Iaai,2319,False,False
+iatmul,,826,iat,ian,{},-4.25,143.25,Papunesia,,Iatmul,687,False,False
+iau,,228,iau,tmu,{},-3.16666666667,137.5,Papunesia,,Iau,1551,False,False
+iban,,519,iba,iba,{},2.0,112.0,Papunesia,,Iban,2152,False,False
+ibanag,,514,ibn,ibg,{},17.5,121.666666667,Papunesia,,Ibanag,105,False,False
+ibibio,,293,ibi,ibb,{},5.25,7.83333333333,Africa,,Ibibio,106,False,False
+icelandic,,181,ice,isl,{},65.0,-17.0,Eurasia,,Icelandic,2329,False,False
+icelandic sign language,,330,ics,icl,{},65.0,-18.0,Eurasia,,Icelandic Sign Language,330,False,False
+idoma,,289,ido,idu,{},6.91666666667,7.5,Africa,,Idoma,1171,False,False
+idu,,376,idu,clk,{},29.3333333333,95.8333333333,Eurasia,,Idu,1172,False,False
+iduna,,87,idn,viv,{},-9.33333333333,150.25,Papunesia,,Iduna,1599,False,False
+ifiramele,,87,mxe,mxe,{},-17.75,168.25,Papunesia,,Ifira-Mele,2640,False,False
+ifugao (batad),,514,ifu,ifb,{},16.8333333333,121.083333333,Papunesia,,Ifugao (Batad),1801,False,False
+ifumu,,274,ifm,ifm,{},-3.66666666667,15.3333333333,Africa,,Ifumu,800,False,False
+igbo,,272,igb,ibo,{},6.0,7.33333333333,Africa,,Igbo,2410,False,True
+igede,,289,ige,ige,{},7.0,8.16666666667,Africa,,Igede,1353,False,False
+ignaciano,,535,ign,ign,{},-15.1666666667,-65.4166666667,South America,,Ignaciano,1868,False,False
+iha,,488,iha,ihp,{},-2.91666666667,132.25,Papunesia,,Iha,878,False,False
+ijo (kolokuma),,288,ijo,ijc,{},4.91666666667,5.66666666667,Africa,,Ijo (Kolokuma),2300,False,False
+ik,,316,ik,ikx,{},3.75,34.1666666667,Africa,,Ik,2262,False,False
+ika,,130,ika,arh,{},10.6666666667,-73.75,South America,,Ika,2431,False,True
+ila,,274,ila,ilb,{},-15.5833333333,26.5,Africa,,Ila,1600,False,False
+illinois,,17,ill,mia,{},40.0,-90.0,North America,,Illinois,331,False,False
+ilocano,,514,ilo,ilo,{},16.0,121.0,Papunesia,,Ilocano,1641,False,False
+imonda,,110,imo,imn,{},-3.33333333333,141.166666667,Papunesia,,Imonda,2475,True,True
+inanwatan,,827,ina,szp,{},-2.08333333333,132.083333333,Papunesia,,Inanwatan,332,False,False
+indonesian,,519,ind,ind,{},0.0,106.0,Papunesia,,Indonesian,2545,True,True
+indonesian (jakarta),,519,inj,ind,{},-6.16666666667,106.75,Papunesia,,Indonesian (Jakarta),109,False,False
+indonesian (papuan),,519,iir,pmy,{},-2.5,140.666666667,Papunesia,,Indonesian (Papuan),108,False,False
+indopakistani sign language (indian dialects),,330,ipi,ins,{},24.0,80.0,Eurasia,,Indo-Pakistani Sign Language (Indian dialects),333,False,False
+indopakistani sign language (karachi dialect),,330,ipk,pks,{},28.0,68.0,Eurasia,,Indo-Pakistani Sign Language (Karachi dialect),107,False,False
+inga,,356,iga,inb,{},1.0,-77.0,South America,,Inga,801,False,False
+ingessana,,298,igs,tbi,{},11.5,34.0,Africa,,Ingessana,1956,False,False
+ingush,,268,ing,inh,{},43.1666666667,45.0833333333,Eurasia,,Ingush,2464,False,True
+innamincka,,792,inn,ynd,{},-27.75,140.75,Australia,,Innamincka,2658,False,False
+international sign,,330,isl,,{},40.0,-170.0,North America,,International Sign,110,False,False
+inuktitut (quebeclabrador),,158,iql,ike,{},62.0,-73.0,North America,,Inuktitut (Quebec-Labrador),688,False,False
+inuktitut (rankin inlet),,158,inr,ikt,{},63.0,-92.0,North America,,Inuktitut (Rankin Inlet),334,False,False
+inuktitut (salluit),,158,ins,ike,{},62.0,-76.0,North America,,Inuktitut (Salluit),689,False,False
+inupiaq,,158,inu,esi,{},67.0,-161.0,North America,,Iñupiaq,540,False,False
+iquito,,509,iqu,iqu,{},-3.25,-74.0,South America,,Iquito,1894,False,False
+iranxe,,529,irx,irn,{},-13.0,-58.0,South America,,Iranxe,1683,False,False
+iraqw,,1,irq,irk,{},-4.0,35.5,Africa,,Iraqw,2453,False,True
+irarutu,,79,irr,irh,{},-3.0,133.5,Papunesia,,Irarutu,2077,False,False
+irish,,187,iri,gle,{},53.0,-8.0,Eurasia,,Irish,2420,False,True
+irish (donegal),,187,ird,gle,{},55.0,-8.0,Eurasia,,Irish (Donegal),1237,False,False
+irish (munster),,187,irm,gle,{},52.5,-9.0,Eurasia,,Irish (Munster),541,False,False
+irish sign language,,330,irs,isg,{},53.5,-7.5,Eurasia,,Irish Sign Language,335,False,False
+isaka,,395,isa,ksi,{},-2.83333333333,141.283333333,Papunesia,,I'saka,1395,False,False
+isekiri,,294,ise,its,{},5.66666666667,5.5,Africa,,Isekiri,690,False,False
+ishkashmi,,183,ish,isk,{},37.0,72.0,Eurasia,,Ishkashmi,111,False,False
+isirawa,,224,isi,srl,{},-1.83333333333,138.5,Papunesia,,Isirawa,542,False,False
+isnag,,514,isn,isd,{},18.25,121.0,Papunesia,,Isnag,112,False,False
+isoko,,295,iso,iso,{},5.5,6.25,Africa,,Isoko,1238,False,False
+israeli sign language,,330,iss,isr,{},32.0,34.8333333333,Eurasia,,Israeli Sign Language,336,False,False
+italian,,184,ita,ita,{},43.0,12.0,Eurasia,,Italian,2351,False,False
+italian (bologna),,184,itb,egl,{},44.5,11.3333333333,Eurasia,,Italian (Bologna),113,False,False
+italian (fiorentino),,184,ifi,ita,{},43.75,11.25,Eurasia,,Italian (Fiorentino),114,False,False
+italian (genoa),,184,itg,lij,{},44.4166666667,8.95,Eurasia,,Italian (Genoa),115,False,False
+italian (napolitanian),,184,itn,nap,{},40.9166666667,14.25,Eurasia,,Italian (Napolitanian),116,False,False
+italian (turinese),,184,itu,pms,{},45.0,7.66666666667,Eurasia,,Italian (Turinese),117,False,False
+itawis,,514,itw,itv,{},17.75,121.5,Papunesia,,Itawis,337,False,False
+itelmen,,140,ite,itl,{},57.0,157.5,Eurasia,,Itelmen,2218,False,False
+itonama,,193,ito,ito,{},-12.8333333333,-64.3333333333,South America,,Itonama,1895,False,False
+itzaj,,250,itz,itz,{},17.0,-89.8333333333,North America,,Itzaj,1307,False,False
+ivatan,,516,iva,ivv,{},20.5,122.0,Papunesia,,Ivatan,118,False,False
+iwaidja,,38,iwa,ibd,{},-11.5,132.666666667,Australia,,Iwaidja,1507,False,False
+iwam,,367,iwm,iwm,{},-4.33333333333,142.0,Papunesia,,Iwam,1354,False,False
+iwoyo,,274,kwy,kwy,{},-5.5,12.25,Africa,,Iwoyo,2596,False,False
+ixcatec,,339,ixc,ixc,{},17.8333333333,-97.1666666667,North America,,Ixcatec,338,False,False
+ixil,,250,ixi,ixl,{},15.5,-91.0,North America,,Ixil,1173,False,False
+izhor,,465,izh,izh,{},59.0,29.0,Eurasia,,Izhor,119,False,False
+izi,,272,izi,izz,{},6.33333333333,8.0,Africa,,Izi,1833,False,False
+jabem,,87,jab,jae,{},-6.58333333333,147.783333333,Papunesia,,Jabêm,2023,False,False
+jabuti,,194,jbt,jbt,{},-12.25,-62.25,South America,,Jabutí,1072,False,False
+jad,,389,jad,bod,{},30.8333333333,79.0,Eurasia,,Jad,927,False,False
+jahai,,62,jah,jhi,{},5.75,101.5,Eurasia,,Jahai,339,False,False
+jakaltek,,250,jak,"jac, jai",{},15.6666666667,-91.6666666667,North America,,Jakaltek,2487,True,True
+jamaican creole,,331,jcr,jam,{},18.1666666667,-77.25,North America,,Jamaican Creole,120,False,False
+jamamadi,,24,jmm,jaa,{},-7.5,-67.0,South America,,Jamamadi,543,False,False
+jaminjung,,39,jam,djd,{},-15.0833333333,130.5,Australia,,Jaminjung,1684,False,False
+jamsay,,296,jms,djm,{},14.4166666667,-2.5,Africa,,Jamsay,2581,False,False
+japanese,,195,jpn,jpn,{},37.0,140.0,Eurasia,,Japanese,2542,True,True
+japreria,,119,jpr,jru,{},10.5,-73.0,South America,,Japreria,1240,False,False
+jaqaru,,102,jaq,jqr,{},-13.0,-76.0,South America,,Jaqaru,2320,False,False
+jarawa (in andamans),,399,jrw,anq,{},12.0,92.5833333333,Eurasia,,Jarawa (in Andamans),879,False,False
+jarawa (in nigeria),,274,jar,jar,{},9.5,10.5,Africa,,Jarawa (in Nigeria),1508,False,False
+jarawara,,24,jwr,jaa,{},-7.5,-65.5,South America,,Jarawara,691,False,False
+javanese,,90,jav,jav,{},-7.0,111.0,Papunesia,,Javanese,1896,False,False
+jebero,,116,jeb,jeb,{},-5.41666666667,-76.5,South America,,Jebero,2153,False,False
+jeh,,63,jeh,jeh,{},15.1666666667,107.833333333,Eurasia,,Jeh,1355,False,False
+jeli,,292,jel,,{},9.5,-5.66666666667,Africa,,Jeli,1308,False,False
+jemez,,215,jem,tow,{},35.8333333333,-107.0,North America,,Jemez,340,False,False
+jiarong,,390,jia,jya,{},31.5,102.0,Eurasia,,Jiarong,1396,False,False
+jibbali,,10,jib,shv,{},17.5,55.0,Eurasia,,Jibbali,121,False,False
+jingpho,,377,jng,kac,{},25.4166666667,97.0,Eurasia,,Jingpho,2154,False,False
+jino,,380,jin,"jiu, jiy",{},22.0,101.0,Eurasia,,Jino,1073,False,False
+jivaro,,197,jiv,jiv,{},-2.5,-78.0,South America,,Jivaro,2095,False,False
+johari,,389,joh,,{},30.6666666667,80.0,,,Johari,1032,False,False
+jomang,,281,jom,tlo,{},10.5833333333,30.5,Africa,,Jomang,1241,False,False
+juang,,66,jun,jun,{},21.3333333333,86.0,Eurasia,,Juang,341,False,False
+jugli,,388,jug,nst,{},27.5,96.3333333333,Eurasia,,Jugli,1074,False,False
+juhoan,,212,juh,ktz,{},-19.0,21.0,Africa,,Ju|'hoan,2450,False,True
+jukun,,283,juk,jbu,{},6.91666666667,10.4166666667,Africa,,Jukun,1756,False,False
+juma,,457,jum,jua,{},-7.5,-64.0,South America,,Júma,627,False,False
+jurchen,,21,jur,juc,{},47.0,130.0,Eurasia,,Jurchen,985,False,False
+jur modo,,305,jmo,bex,{},6.0,30.0,Africa,,Jur Mödö,1932,False,False
+juruna,,457,jrn,jur,{},-5.0,-54.5,South America,,Juruna,122,False,False
+kabardian,,325,kab,kbd,{},43.5,43.5,Eurasia,,Kabardian,2219,False,False
+kabatei,,183,kbt,xkp,{},36.75,49.4166666667,Eurasia,,Kabatei,1118,False,False
+kabiye,,809,kby,kbp,{},9.66666666667,1.16666666667,Africa,,Kabiyé,1174,False,False
+kabui,,386,kbi,nkf,{},24.8333333333,94.0,Eurasia,,Kabui,123,False,False
+kabyle,,4,kbl,kab,{},36.5,5.0,Africa,,Kabyle,1757,False,False
+kachari,,383,kac,xac,{},26.5,91.0,Eurasia,,Kachari,1357,False,False
+kadazan,,518,kdz,kzj,{},5.91666666667,117.166666667,Papunesia,,Kadazan,1509,False,False
+kadiweu,,695,kdw,kbc,{},-20.0,-57.0,South America,,Kadiwéu,1175,False,False
+kadugli,,198,kad,xtc,{},11.0,29.6666666667,Africa,,Kadugli,1685,False,False
+kagoma,,283,kgm,kdm,{},9.25,8.16666666667,Africa,,Kagoma,124,False,False
+kagulu,,274,kgr,kki,{},-6.33333333333,37.0,Africa,,Kagulu,1309,False,False
+kaian,,235,kai,kct,{},-4.08333333333,144.75,Papunesia,,Kaian,342,False,False
+kaili,,526,kli,lew,{},-1.16666666667,120.0,Papunesia,,Kaili,544,False,False
+kaingang,,238,kng,kgp,{},-26.0,-52.0,South America,,Kaingang,2042,False,False
+kairiru,,87,krr,kxa,{},-3.33333333333,143.583333333,Papunesia,,Kairiru,1933,False,False
+kaiwa,,457,kaw,kgk,{},-23.0,-55.0,South America,,Kaiwá,545,False,False
+kaki ae,,155,kae,tbd,{},-8.0,145.833333333,Papunesia,,Kaki Ae,1358,False,False
+kala lagaw ya,,794,kly,mwp,{},-10.1166666667,142.116666667,Papunesia,,Kala Lagaw Ya,1397,False,False
+kalam,,437,klq,kmh,{},-5.25,144.583333333,Papunesia,,Kalam,1601,False,False
+kalami,,182,kal,gwc,{},35.5,72.5,Eurasia,,Kalami,1456,False,False
+kalanga,,274,klz,kck,{},-20.5,27.5,Africa,,Kalanga,343,False,False
+kalapuya,,199,klp,kyl,{},44.5,-123.0,North America,,Kalapuya,693,False,False
+kalasha,,182,klh,kls,{},35.0,72.0,Eurasia,,Kalasha,344,False,False
+kalispel,,362,kls,fla,{},48.0,-117.0,North America,,Kalispel,1758,False,False
+kalkatungu,,794,kgu,ktg,{},-21.0,139.5,Australia,,Kalkatungu,2175,False,False
+kalmyk,,20,kmk,xal,{},44.0,83.0,Eurasia,,Kalmyk,2043,False,False
+kalmyk (issykkul),,20,kiq,xal,{},42.4166666667,78.3333333333,Eurasia,,Kalmyk (Issyk-Kul),125,False,False
+kaluli,,111,kll,bco,{},-6.5,142.75,Papunesia,,Kaluli,1075,False,False
+kamaiura,,457,kma,kay,{},-12.0833333333,-52.5833333333,South America,,Kamaiurá,2024,False,False
+kamanokafe,,430,kak,kbq,{},-6.25,145.666666667,Papunesia,,Kamano-Kafe,694,False,False
+kamasau,,425,kmz,kms,{},-3.91666666667,143.666666667,Papunesia,,Kamasau,2657,False,False
+kamass,,463,kms,xas,{},52.0,92.0,Eurasia,,Kamass,1642,False,False
+kamba,,274,kba,kam,{},-1.5,38.0,Africa,,Kamba,1398,False,False
+kambera,,75,kam,xbr,{},-9.83333333333,120.166666667,Papunesia,,Kambera,2096,False,False
+kambot,,232,kbo,kbx,{},-4.25,144.133333333,Papunesia,,Kambot,1033,False,False
+kami,,274,kmi,kcu,{},-6.75,38.0,Africa,,Kami,695,False,False
+kamoro,,447,kmr,kgq,{},-4.33333333333,136.0,Papunesia,,Kamoro,1176,False,False
+kamu,,54,kmw,xmu,{},-13.5833333333,130.833333333,Australia,,Kamu,1119,False,False
+kana,,293,kan,ogo,{},4.75,7.41666666667,Africa,,Kana,2124,False,False
+kanakuru,,6,knk,kna,{},10.0,12.0,Africa,,Kanakuru,2220,False,False
+kanashi,,389,xns,xns,{},32.0833333333,77.25,Eurasia,,Kanashi,2619,False,False
+kanembu,,309,kbu,kbl,{},14.0,15.0,Africa,,Kanembu,1034,False,False
+kangiryuarmiut,,158,kgt,ikt,{},68.3333333333,-133.75,North America,,Kangiryuarmiut,345,False,False
+kanjobal (eastern),,250,kea,kjb,{},15.3333333333,-91.6666666667,North America,,Kanjobal (Eastern),346,False,False
+kanjobal (western),,250,kwe,knj,{},15.8333333333,-91.8333333333,North America,,Kanjobal (Western),803,False,False
+kankanay,,514,kky,kne,{},16.75,120.583333333,Papunesia,,Kankanay,347,False,False
+kannada,,149,knd,kan,{},14.0,76.0,Eurasia,,Kannada,2527,True,True
+kanoe,,200,kno,,{},-13.25,-61.0,South America,,Kanoê,2666,False,False
+kanum (badi),,255,knb,khd,{},-8.83333333333,140.75,Papunesia,,Kanum (Bädi),1035,False,False
+kanum (ngkalmpw),,255,knp,kcd,{},-8.66666666667,140.916666667,Papunesia,,Kanum (Ngkâlmpw),804,False,False
+kanuri,,309,knr,knc,{},12.0,13.0,Africa,,Kanuri,2500,False,True
+kanyok,,274,kyo,kny,{},-7.33333333333,23.5833333333,Africa,,Kanyok,348,False,False
+kapampangan,,515,kpm,pam,{},15.3333333333,120.5,Papunesia,,Kapampangan,1869,False,False
+kapingamarangi,,87,kpn,kpg,{},1.05,154.75,Papunesia,,Kapingamarangi,349,False,False
+karachaybalkar,,19,krc,krc,{},43.5,42.0,Eurasia,,Karachay-Balkar,2044,False,False
+karadjeri,,793,krj,gbd,{},-19.0,122.0,Australia,,Karadjeri,1076,False,False
+karaim,,19,krm,kdr,{},54.6666666667,24.9166666667,Eurasia,,Karaim,697,False,False
+kara (in central african republic),,305,kar,kah,{},10.0,23.0,Africa,,Kara (in Central African Republic),1643,False,False
+kara (in papua new guinea),,87,kra,leu,{},-2.83333333333,151.116666667,Papunesia,,Kara (in Papua New Guinea),696,False,False
+karaja,,243,jva,kpj,{},-10.0,-50.3333333333,South America,,Karajá,1722,False,False
+karakalpak,,19,kkp,kaa,{},43.0,60.0,Eurasia,,Karakalpak,1870,False,False
+karanga,,274,krg,sna,{},-20.0,31.0,Africa,,Karanga,350,False,False
+karankawa,,201,kkw,zkk,{},28.0,-97.0,North America,,Karankawa,1077,False,False
+karao,,514,kao,kyj,{},16.5,120.833333333,Papunesia,,Karao,126,False,False
+karata,,269,krt,kpt,{},42.5833333333,46.3333333333,Eurasia,,Karata,698,False,False
+karelian,,465,krl,krl,{},64.0,32.0,Eurasia,,Karelian,880,False,False
+karen (bwe),,378,kbw,bwe,{},19.5,97.0,Eurasia,,Karen (Bwe),1802,False,False
+karen (pwo),,378,kpw,"kjp, pwo",{},13.0,99.1666666667,Eurasia,,Karen (Pwo),1457,False,False
+karen (sgaw),,378,ksg,ksw,{},18.0,97.0,Eurasia,,Karen (Sgaw),2136,False,False
+kariera,,793,vka,vka,{},-20.5,118.5,Australia,,Kariera,2563,False,False
+karimojong,,320,kmj,kdj,{},3.0,34.1666666667,Africa,,Karimojong,1976,False,False
+karipuna (panoan),,342,kdg,,{},-10.0,-65.0,South America,,Karipuna (Panoan),351,False,False
+karitiana,,458,kna,ktn,{},-9.5,-64.0,South America,,Karitiâna,928,False,False
+karkaryuri,,203,kyr,yuj,{},-3.75,141.083333333,Papunesia,,Karkar-Yuri,1243,False,False
+karo (arara),,456,kaa,arr,{},-10.3333333333,-62.0,South America,,Karó (Arára),1759,False,False
+karok,,204,krk,kyh,{},41.6666666667,-123.0,North America,,Karok,2435,True,True
+kasem,,809,ksm,xsm,{},11.25,-1.25,Africa,,Kasem,699,False,False
+kashaya,,176,ksh,kju,{},38.6666666667,-123.333333333,North America,,Kashaya,881,False,False
+kashmiri,,182,kas,kas,{},34.0,76.0,Eurasia,,Kashmiri,2346,False,False
+kashubian,,185,ksu,csb,{},54.0,18.0,Eurasia,,Kashubian,127,False,False
+kasong,,64,ksn,,{},12.75,102.116666667,Eurasia,,Kasong,2608,False,False
+kata kolok,,330,kkl,bqy,{},-8.25,115.166666667,Papunesia,,Kata Kolok,352,False,False
+katcha,,198,ktc,xtc,{},10.8333333333,29.6666666667,Africa,,Katcha,1244,False,False
+kate,,434,kat,kmg,{},-6.5,147.75,Papunesia,,Kâte,1458,False,False
+kathlamet,,346,ktm,,{},46.14,-123.4,North America,,Kathlamet,2682,False,False
+kati (in afghanistan),,694,ktz,bsh,{},35.5,70.0,Eurasia,,Kati (in Afghanistan),353,False,False
+kati (in west papua indonesia),,441,kti,yon,{},-5.75,140.916666667,Papunesia,,"Kati (in West Papua, Indonesia)",1036,False,False
+katla,,284,ktl,kcr,{},11.8333333333,29.3333333333,Africa,,Katla,1723,False,False
+kato,,262,kto,ktw,{},39.6666666667,-123.666666667,North America,,Kato,354,False,False
+katu,,72,ktu,"ktv, kuf",{},15.8333333333,107.583333333,Eurasia,,Katu,986,False,False
+kaulong,,87,kau,pss,{},-6.16666666667,149.666666667,Papunesia,,Kaulong,1686,False,False
+kaure,,207,kaj,bpp,{},-3.41666666667,140.083333333,Papunesia,,Kaure,700,False,False
+kaurna,,792,kaq,,{},-34.25,138.5,Australia,,Kaurna,355,False,False
+kawaiisu,,477,kws,xaw,{},36.0,-117.5,North America,,Kawaiisu,2112,False,False
+kayabi,,457,kyz,kyz,{},-11.0,-55.5,South America,,Kayabí,2665,False,False
+kayah li (eastern),,378,kyl,eky,{},19.0,97.5,Eurasia,,Kayah Li (Eastern),2376,False,True
+kayan (baram),,518,kbr,kys,{},3.5,114.5,Papunesia,,Kayan (Baram),129,False,False
+kayapo,,238,kyp,txu,{},-9.0,-52.0,South America,,Kayapó,1177,False,False
+kayardild,,52,kay,gyd,{},-17.05,139.5,Australia,,Kayardild,2501,True,True
+kaytej,,792,kyt,gbb,{},-21.0,134.0,Australia,,Kaytej,2564,False,False
+kazakh,,19,kaz,kaz,{},50.0,70.0,Eurasia,,Kazakh,1037,False,False
+kedang,,75,ked,ksx,{},-8.25,123.75,Papunesia,,Kedang,1245,False,False
+kefa,,9,kef,kbr,{},7.25,36.25,Africa,,Kefa,1310,False,False
+kei,,75,kei,kei,{},-5.83333333333,132.916666667,Papunesia,,Kei,987,False,False
+kekchi,,250,kek,kek,{},16.0,-89.8333333333,North America,,K'ekchí,1356,False,False
+kela (apoze),,87,kap,kcl,{},-7.41666666667,147.083333333,Papunesia,,Kela (Apoze),546,False,False
+kelabit,,518,klt,kzi,{},3.66666666667,115.416666667,Papunesia,,Kelabit,132,False,False
+kele,,87,kel,sbc,{},-2.08333333333,147.083333333,Papunesia,,Kele,1510,False,False
+kemant,,7,kem,ahg,{},12.6666666667,37.4166666667,Africa,,Kemant,1760,False,False
+kemtuik,,323,kmt,kmt,{},-2.66666666667,140.333333333,Papunesia,,Kemtuik,701,False,False
+kenga,,305,ken,kyq,{},12.0,18.0,Africa,,Kenga,1552,False,False
+kenyah (uma lung),,518,keu,,{},3.0,115.833333333,,,Kenyah (Uma' Lung),356,False,False
+kenyang,,274,kyg,ken,{},5.66666666667,9.5,Africa,,Kenyang,357,False,False
+kenyan sign language,,330,ksl,xki,{},0.0,38.0,Africa,,Kenyan Sign Language,133,False,False
+keo,,75,keo,xxk,{},-8.83333333333,121.25,Papunesia,,Keo,131,False,False
+kera,,2,ker,ker,{},9.83333333333,15.0833333333,Africa,,Kera,2369,False,True
+kerek,,139,krq,krk,{},62.25,175.0,Eurasia,,Kerek,805,False,False
+keresan (santa ana),,209,ksa,kee,{},35.4166666667,-106.666666667,North America,,Keresan (Santa Ana),1511,False,False
+ket,,503,ket,ket,{},64.0,87.0,Eurasia,,Ket,2458,False,True
+ketapang,,519,ktp,zlm,{},-1.86666666667,110.0,Eurasia,,Ketapang,134,False,False
+kete,,274,kte,kcv,{},-7.0,22.8333333333,Africa,,Kete,1359,False,False
+ketengban,,446,ktn,xte,{},-4.5,140.5,Papunesia,,Ketengban,702,False,False
+kewa,,433,kew,"kew, kjs",{},-6.5,143.833333333,Papunesia,,Kewa,2454,True,True
+khakas,,19,khk,kjh,{},53.0,90.0,Eurasia,,Khakas,1399,False,False
+khalaj,,19,khl,klj,{},35.0,50.0,Eurasia,,Khalaj,1897,False,False
+khaling,,512,khg,klr,{},27.5,86.6666666667,Eurasia,,Khaling,1834,False,False
+khalkha,,20,kha,khk,{},47.0,105.0,Eurasia,,Khalkha,2528,True,True
+kham,,512,kmh,kgj,{},28.5,82.75,Eurasia,,Kham,2060,False,False
+kham (dege),,389,khd,khg,{},31.8333333333,98.5833333333,Eurasia,,Kham (Dege),2618,False,False
+kham (tibetan) (nangchen),,389,knz,khg,{},32.5,96.5,Eurasia,,Kham (Tibetan) (Nangchen),2617,False,False
+khanty,,464,kty,kca,{},65.0,65.0,Eurasia,,Khanty,2284,False,False
+kharia,,66,khr,khr,{},22.5,84.3333333333,Eurasia,,Kharia,1602,False,False
+khasi,,71,khs,kha,{},25.5,92.0,Eurasia,,Khasi,2446,False,True
+khinalug,,267,khi,kjj,{},41.1666666667,48.0833333333,Eurasia,,Khinalug,1078,False,False
+khmer,,70,khm,khm,{},12.5,105.0,Eurasia,,Khmer,2447,False,True
+khmu,,811,kmu,kjg,{},21.0,102.0,Eurasia,,Khmu',2397,False,True
+khowar,,182,khw,khw,{},36.0,72.0,Eurasia,,Khowar,1178,False,False
+khumi,,386,khu,cnk,{},21.9166666667,92.4166666667,Eurasia,,Khumi,358,False,False
+khun,,404,khn,kkh,{},21.0,100.0,Eurasia,,Khün,2628,False,False
+ khwarshi,,269,khv,khv,{},42.25,46.1666666667,Eurasia,, Khwarshi,135,False,False
+kickapoo,,17,kic,kic,{},42.25,-84.0,North America,,Kickapoo,929,False,False
+kikuyu,,274,kik,kik,{},-0.75,36.75,Africa,,Kikuyu,1898,False,False
+kilba,,5,klb,hbb,{},10.3333333333,13.1666666667,Africa,,Kilba,359,False,False
+kilivila,,87,klv,kij,{},-8.5,151.083333333,Papunesia,,Kilivila,2451,False,True
+kiliwa,,170,klw,klb,{},31.3333333333,-115.666666667,North America,,Kiliwa,1644,False,False
+kiluba,,274,kil,lub,{},-8.0,26.0,Africa,,Kiluba,1311,False,False
+kimaghama,,217,kim,kig,{},-8.0,138.5,Papunesia,,Kimaghama,1687,False,False
+kinga,,274,kga,zga,{},-9.0,34.0,Africa,,Kinga,1246,False,False
+kinnauri,,389,knn,kfk,{},31.5,78.0,Eurasia,,Kinnauri,1603,False,False
+kinyarwanda,,274,kin,kin,{},-2.0,30.0,Africa,,Kinyarwanda,1761,False,False
+kiowa,,215,kio,kio,{},37.0,-99.0,North America,,Kiowa,2448,True,True
+kipea,,202,kri,kzw,{},-10.0,-37.0,South America,,Kipea,1871,False,False
+kire,,234,kie,geb,{},-4.25,144.75,Papunesia,,Kire,1079,False,False
+kirghiz,,19,kgz,kir,{},42.0,75.0,Eurasia,,Kirghiz,2113,False,False
+kirghiz (fuyu),,19,kfy,kir,{},47.75,124.416666667,Eurasia,,Kirghiz (Fu-Yu),136,False,False
+kiribati,,87,krb,gil,{},1.33333333333,173.0,Papunesia,,Kiribati,2363,False,True
+kirikiri,,228,kkr,kiy,{},-3.0,137.166666667,Papunesia,,Kirikiri,547,False,False
+kirma,,809,kir,cme,{},10.25,-4.83333333333,Africa,,Kirma,1512,False,False
+kisar,,75,ksr,kje,{},-8.08333333333,127.116666667,Papunesia,,Kisar,806,False,False
+kisi,,291,kis,"kqs, kss",{},8.83333333333,-10.1666666667,Africa,,Kisi,2311,False,False
+kisi (southern),,291,kss,kss,{},8.5,-10.25,Africa,,Kisi (Southern),1247,False,False
+kitja,,56,kij,gia,{},-17.5,127.75,Australia,,Kitja,137,False,False
+kitsai,,115,kit,kii,{},31.8333333333,-96.5,North America,,Kitsai,703,False,False
+kituba,,331,ktb,ktu,{},-5.0,17.5,Africa,,Kituba,360,False,False
+ kiwai (southern),,216,kiw,kjd,{},-8.0,143.5,Papunesia,, Kiwai (Southern),2125,False,False
+klamath,,353,klm,kla,{},42.5,-121.5,North America,,Klamath,2289,False,False
+klao,,277,kla,klu,{},4.75,-8.75,Africa,,Klao,1645,False,False
+koasati,,260,koa,cku,{},34.8333333333,-85.1666666667,North America,,Koasati,2459,True,True
+kobon,,437,kob,kpw,{},-5.16666666667,144.333333333,Papunesia,,Kobon,2477,False,True
+kodava,,149,kod,kfa,{},12.1666666667,76.8333333333,Eurasia,,Kodava,1120,False,False
+koegu,,322,koe,xwg,{},7.0,36.0833333333,Africa,,Koegu,1688,False,False
+koh (lakka),,817,klk,xuo,{},8.0,15.5,Africa,,Koh (Lakka),882,False,False
+kohumono,,293,koh,bcs,{},6.0,8.11666666667,Africa,,Kohumono,1179,False,False
+koiali (mountain),,439,kmo,kpx,{},-9.0,147.5,Papunesia,,Koiali (Mountain),1646,False,False
+koiari,,439,koi,kbk,{},-9.5,147.333333333,Papunesia,,Koiari,1899,False,False
+koita,,439,kta,kqi,{},-9.33333333333,147.083333333,Papunesia,,Koita,1604,False,False
+kokborok,,383,kok,trp,{},24.3333333333,92.5,Eurasia,,Kokborok,1803,False,False
+kokni,,182,kkz,kex,{},20.75,73.5,Eurasia,,Kokni,704,False,False
+kokota,,87,kkt,kkk,{},-8.0,159.133333333,Papunesia,,Kokota,1689,False,False
+kola,,75,koo,kvv,{},-5.5,134.5,Papunesia,,Kola,807,False,False
+kolami,,148,kol,"kfb, nit",{},20.0,78.5,Eurasia,,Kolami,2061,False,False
+kolana,,415,kln,kvw,{},-8.25,125.116666667,Papunesia,,Kolana,361,False,False
+koluri,,183,klr,shm,{},37.0,48.0,Eurasia,,Koluri,1121,False,False
+kom,,274,kou,bkm,{},6.25,10.3333333333,Africa,,Kom,138,False,False
+kombai,,445,kmb,"tyn, wng",{},-5.58333333333,140.0,Papunesia,,Kombai,2114,False,False
+kombio,,427,xbi,xbi,{},-3.5,142.75,Papunesia,,Kombio,2655,False,False
+komering,,88,kag,kge,{},-3.16666666667,104.916666667,Papunesia,,Komering,130,False,False
+komipermyak,,468,kop,koi,{},59.5,54.5,Eurasia,,Komi-Permyak,1605,False,False
+komizyrian,,468,kzy,kpv,{},65.0,55.0,Eurasia,,Komi-Zyrian,2097,False,False
+komo,,300,kom,xom,{},8.75,33.75,Africa,,Komo,1997,False,False
+konda,,147,kda,kfc,{},19.5,83.0,Eurasia,,Konda,549,False,False
+kongo,,274,kon,kng,{},-5.0,15.0,Africa,,Kongo,2313,False,True
+konjo,,525,kjo,kjc,{},-5.46666666667,120.333333333,Papunesia,,Konjo,1122,False,False
+konkani,,182,kkn,knn,{},15.25,74.0,Eurasia,,Konkani,1459,False,False
+konkomba,,808,kkb,xon,{},10.0,0.0833333333333,Africa,,Konkomba,705,False,False
+konkow,,345,knw,mjd,{},39.5,-121.5,North America,,Konkow,1400,False,False
+konni,,808,kni,kma,{},10.25,-1.58333333333,Africa,,Konni,1606,False,False
+konua,,489,knu,kyx,{},-5.83333333333,154.833333333,Papunesia,,Konua,550,False,False
+konyagi,,819,kgi,cou,{},12.5,-13.25,Africa,,Konyagi,1038,False,False
+koorete,,13,kjr,kqy,{},5.83333333333,37.8333333333,Africa,,Koorete,140,False,False
+korafe,,442,krf,kpr,{},-9.05,149.083333333,Papunesia,,Korafe,362,False,False
+korana,,210,krn,kqz,{},-29.5,20.5,Africa,,Korana,1957,False,False
+koranko,,292,kko,knk,{},9.33333333333,-11.25,Africa,,Koranko,706,False,False
+korean,,218,kor,kor,{},37.5,128.0,Eurasia,,Korean,2536,True,True
+koreguaje,,452,kje,coe,{},1.0,-75.5,South America,,Koreguaje,1553,False,False
+korku,,66,kku,kfq,{},22.5,78.5,Eurasia,,Korku,1998,False,False
+koromfe,,808,kfe,kfz,{},14.25,-0.916666666667,Africa,,Koromfe,2466,False,True
+korowai,,445,krw,khe,{},-5.25,140.0,Papunesia,,Korowai,1835,False,False
+koryak,,139,kry,kpy,{},61.0,167.0,Eurasia,,Koryak,2062,False,False
+kosop,,814,ksp,kia,{},9.91666666667,15.9166666667,Africa,,Kosop,139,False,False
+kosraean,,87,kos,kos,{},5.3,163.0,Papunesia,,Kosraean,2190,False,False
+kota,,149,kot,kfe,{},11.5,77.1666666667,Eurasia,,Kota,1401,False,False
+kotoko,,5,ktk,aal,{},11.3333333333,15.3333333333,Africa,,Kotoko,1312,False,False
+kott,,503,ktt,,{},57.0,94.0,Eurasia,,Kott,551,False,False
+ko (winye),,809,kow,kst,{},11.8666666667,-2.91666666667,Africa,,Ko (Winye),548,False,False
+koya,,147,koy,kff,{},17.5,81.3333333333,Eurasia,,Koya,2078,False,False
+koyraboro senni,,308,kse,ses,{},16.0,0.0,Africa,,Koyraboro Senni,2432,True,True
+koyra chiini,,308,kch,khq,{},17.0,-3.0,Africa,,Koyra Chiini,2352,False,False
+koyukon,,262,kyn,koy,{},65.0,-155.0,North America,,Koyukon,1180,False,False
+kpan,,283,kpa,kpk,{},7.58333333333,10.1666666667,Africa,,Kpan,1248,False,False
+kpelle,,292,kpe,xpe,{},7.0,-10.0,Africa,,Kpelle,1958,False,False
+kposo,,275,kpo,kpo,{},7.5,0.833333333333,Africa,,Kposo,707,False,False
+kraho,,238,krh,xra,{},-8.0,-48.0,South America,,Krahô,1123,False,False
+krenak,,240,kqq,kqq,{},-15.5,-41.0,South America,,Krenak,2670,False,False
+kresh,,301,kre,krs,{},8.5,24.5,Africa,,Kresh,1804,False,False
+kriol (fitzroy crossing),,331,kfc,,{},-18.1666666667,125.583333333,,,Kriol (Fitzroy Crossing),808,False,False
+kriol (ngukurr),,331,knq,rop,{},-14.8333333333,135.0,Australia,,Kriol (Ngukurr),809,False,False
+krongo,,198,kro,kgo,{},10.5,30.0,Africa,,Krongo,2497,True,True
+krymchak,,19,kym,uzn,{},45.0,34.25,Eurasia,,Krymchak,141,False,False
+kryz,,267,krz,kry,{},41.0833333333,48.0,Eurasia,,Kryz,142,False,False
+ksingmul,,811,ksi,puo,{},21.0833333333,104.0,Eurasia,,Ksingmul,363,False,False
+kualan,,95,kua,sdm,{},-0.416666666667,110.416666667,,,Kualan,143,False,False
+kugu nganhcara,,794,knc,uwa,{},-14.4166666667,142.0,Australia,,Kugu Nganhcara,1934,False,False
+kui (in india),,147,kui,kxu,{},20.0,83.5,Eurasia,,Kui (in India),1080,False,False
+kui (in indonesia),,417,kiu,kvd,{},-8.43333333333,124.55,Papunesia,,Kui (in Indonesia),810,False,False
+kuikuro,,119,kkq,kui,{},-12.4166666667,-53.0833333333,South America,,Kuikúro,2668,False,False
+kuku,,320,kuk,bfa,{},5.83333333333,31.6666666667,Africa,,Kukú,1124,False,False
+kukuyalanji,,794,kya,gvn,{},-16.0,145.0,Australia,,Kuku-Yalanji,2164,False,False
+kulamanen,,513,kuz,mbt,{},7.75,125.0,Papunesia,,Kulamanen,552,False,False
+kullo,,13,kul,gmo,{},6.75,37.0833333333,Africa,,Kullo,1360,False,False
+kulung,,512,klg,kle,{},27.5,87.0,Eurasia,,Kulung,364,False,False
+kuman,,438,kmn,kue,{},-5.91666666667,145.0,Papunesia,,Kuman,1460,False,False
+kumauni,,182,kum,kfy,{},30.0,80.0,Eurasia,,Kumauni,1461,False,False
+kumyk,,19,kuq,kum,{},43.0,47.3333333333,Eurasia,,Kumyk,883,False,False
+kuna,,127,kun,kvn,{},8.0,-77.3333333333,South America,,Kuna,1647,False,False
+kunama,,317,knm,kun,{},14.5,37.0,Africa,,Kunama,2415,False,True
+kunimaipa,,435,kmp,kup,{},-8.0,146.833333333,Papunesia,,Kunimaipa,1999,False,False
+kunjen,,794,kjn,kjn,{},-16.5,142.5,Australia,,Kunjen,811,False,False
+kunming,,375,kug,cmn,{},25.0,102.75,Eurasia,,Kunming,812,False,False
+kuot,,220,kuo,kto,{},-3.05,151.5,Papunesia,,Kuot,2025,False,False
+kurdish (central),,183,krd,ckb,{},36.0,44.0,Eurasia,,Kurdish (Central),2250,False,False
+kurmanji,,183,kji,kmr,{},38.0,42.0,Eurasia,,Kurmanji,1181,False,False
+kurukh,,150,kur,kru,{},22.8333333333,85.5,Eurasia,,Kurukh,1462,False,False
+kusunda,,221,kus,kgg,{},28.0,84.6666666667,Eurasia,,Kusunda,930,False,False
+kutai,,519,kuy,vkt,{},-0.333333333333,116.666666667,Papunesia,,Kutai,144,False,False
+kutchin,,262,kth,gwi,{},67.0,-146.0,North America,,Kutchin,365,False,False
+kutenai,,222,kut,kut,{},49.5,-116.0,North America,,Kutenai,2482,True,True
+kuuk thaayorre,,794,thy,thd,{},-14.5833333333,141.833333333,Australia,,Kuuk Thaayorre,1533,False,False
+kuuku yau,,794,kuu,kuy,{},-12.5833333333,143.083333333,Australia,,Kuuku Ya'u,1402,False,False
+kuvi,,147,kuv,kxv,{},18.75,82.6666666667,Eurasia,,Kuvi,1805,False,False
+kwaio,,87,kwa,kwd,{},-8.95,161.0,Papunesia,,Kwaio,2221,False,False
+kwakwala,,482,kwk,kwk,{},51.0,-127.0,North America,,Kwakw'ala,2137,False,False
+kwamera,,87,kwr,tnk,{},-19.5833333333,169.416666667,Papunesia,,Kwamera,813,False,False
+kwami,,6,kwm,ksq,{},10.4166666667,11.0,Africa,,Kwami,931,False,False
+kwangali,,274,kwn,kwn,{},-18.0,19.5,Africa,,Kwangali,1724,False,False
+kwaza,,223,kwz,,{},-12.5833333333,-60.6666666667,South America,,Kwaza,1249,False,False
+kwerba,,224,kwb,kwe,{},-2.25,138.5,Papunesia,,Kwerba,1125,False,False
+kwoma,,825,kwo,kmo,{},-4.16666666667,142.75,Papunesia,,Kwoma,2126,False,False
+kwomtari,,225,kwt,kwo,{},-3.5,141.5,Papunesia,,Kwomtari,2650,False,False
+kxoe,,210,kxo,xuu,{},-17.5,22.5,Africa,,Kxoe,1648,False,False
+kyaka,,433,kyk,kyc,{},-5.55,144.083333333,Papunesia,,Kyaka,1690,False,False
+kyirong,,389,kgy,kgy,{},28.4166666667,85.3333333333,Eurasia,,Kyirong,2613,False,False
+kyuquot,,481,kyq,nuk,{},50.1666666667,-127.166666667,North America,,Kyuquot,1361,False,False
+laal,,227,laa,gdm,{},10.0,17.6666666667,Africa,,Laal,1649,False,False
+labu,,87,lab,lbu,{},-6.75,146.916666667,Papunesia,,Labu,2634,False,False
+lacandon,,250,lac,lac,{},17.0,-91.5,North America,,Lacandón,1463,False,False
+lachi,,405,lch,lbt,{},22.6666666667,104.833333333,Eurasia,,Lachi,366,False,False
+ladakhi,,389,lad,lbj,{},34.0,78.0,Eurasia,,Ladakhi,2370,False,True
+ladin,,184,ldn,lld,{},46.5833333333,11.9166666667,Eurasia,,Ladin,367,False,False
+ladino,,184,lno,lad,{},40.0,33.0,Eurasia,,Ladino,708,False,False
+lafofa,,280,laf,laf,{},10.25,31.25,Africa,,Lafofa,709,False,False
+lagwan,,5,lag,kot,{},11.5,14.8333333333,Africa,,Lagwan,1607,False,False
+laha,,405,lha,lha,{},21.5833333333,103.916666667,Eurasia,,Laha,145,False,False
+lahu,,380,lah,lhu,{},20.0,98.1666666667,Eurasia,,Lahu,2358,False,False
+lai,,386,lai,cnh,{},22.6666666667,93.6666666667,Eurasia,,Lai,2176,False,False
+lak,,266,lak,lbe,{},42.1666666667,47.1666666667,Eurasia,,Lak,2331,False,True
+lakhota,,391,lkt,lkt,{},43.8333333333,-101.833333333,North America,,Lakhota,2488,True,True
+lakkia,,405,lkk,lbc,{},24.0833333333,110.166666667,Eurasia,,Lakkia,1250,False,False
+lalo,,380,lal,ywt,{},25.0,100.25,Eurasia,,Lalo,1872,False,False
+lamaholot,,75,lmh,slp,{},-8.25,122.916666667,Papunesia,,Lamaholot,1554,False,False
+lamang,,5,lmg,hia,{},11.25,13.5833333333,Africa,,Lamang,1836,False,False
+lamani,,182,lmn,lmn,{},17.0,77.0,Eurasia,,Lamani,1873,False,False
+lamba,,274,lmb,lam,{},-13.0,28.0,Africa,,Lamba,1081,False,False
+lame,,11,lam,lme,{},9.0,14.5,Africa,,Lamé,1251,False,False
+lamen,,87,lmu,lmu,{},-16.5833333333,168.166666667,Papunesia,,Lamen,2637,False,False
+lamnso,,274,lns,lns,{},6.16666666667,10.75,Africa,,Lamnso',146,False,False
+lampung,,88,lmp,ljp,{},-5.0,105.0,Papunesia,,Lampung,2000,False,False
+lamulamu,,794,lla,lby,{},-14.8333333333,144.5,Australia,,Lamu-Lamu,553,False,False
+langi,,274,lgi,lag,{},-4.5,36.0,Africa,,Langi,1182,False,False
+lango,,320,lan,laj,{},2.16666666667,33.0,Africa,,Lango,2512,True,True
+langue des signes francaise,,330,lsf,fsl,{},47.0,3.0,Eurasia,,Langue des Signes Française,368,False,False
+langue des signes quebecoise,,330,lsq,fcs,{},48.0,-75.0,North America,,Langue des Signes Québecoise,369,False,False
+lao,,404,lao,lao,{},18.0,103.0,Eurasia,,Lao,2098,False,False
+laragia,,59,lar,lrg,{},-12.6666666667,130.833333333,Australia,,Laragia,1691,False,False
+lardil,,52,lrd,lbz,{},-16.5,139.333333333,Australia,,Lardil,370,False,False
+larike,,75,lrk,alo,{},-3.75,127.916666667,Papunesia,,Larike,1183,False,False
+latvian,,188,lat,lav,{},57.0,24.0,Eurasia,,Latvian,2478,False,True
+lau,,87,lau,llu,{},-9.58333333333,161.5,Papunesia,,Lau,371,False,False
+lauje,,526,lje,law,{},-0.5,120.0,Papunesia,,Lauje,554,False,False
+lavukaleve,,396,lav,lvk,{},-9.08333333333,159.2,Papunesia,,Lavukaleve,2484,True,True
+laz,,205,laz,lzz,{},41.5,41.5,Eurasia,,Laz,1252,False,False
+lebeo,,274,leb,agh,{},1.75,25.0,Africa,,Lebeo,1126,False,False
+lega,,274,leg,lea,{},-2.83333333333,27.1666666667,Africa,,Lega,1184,False,False
+leggbo,,293,agb,agb,{},6.0,8.0,Africa,,Leggbó,2575,False,False
+leko,,230,lec,lec,{},-15.0,-67.9166666667,South America,,Leko,2663,False,False
+lele,,2,lel,lln,{},9.08333333333,15.5833333333,Africa,,Lele,2222,False,False
+lelemi,,275,llm,lef,{},7.33333333333,0.5,Africa,,Lelemi,2001,False,False
+lenakel,,87,len,tnl,{},-19.45,169.25,Papunesia,,Lenakel,2251,False,False
+lendu,,299,ldu,led,{},2.0,30.5,Africa,,Lendu,1725,False,False
+lengua,,248,lng,enx,{},-22.5,-59.0,South America,,Lengua,932,False,False
+lengua de senas argentina,,330,lsa,aed,{},-34.0,-63.0,South America,,Lengua de Señas Argentina,372,False,False
+lengua de senas espanola,,330,lse,ssp,{},40.0,-3.0,Eurasia,,Lengua de Señas Española,373,False,False
+lepcha,,379,lep,lep,{},27.1666666667,88.5,Eurasia,,Lepcha,2371,False,True
+lese,,303,les,les,{},2.0,29.0,Africa,,Lese,374,False,False
+lesser antillean french creole,,331,lcr,"acf, gcf",{},15.0,-61.1666666667,North America,,Lesser Antillean French Creole,375,False,False
+leti,,75,let,lti,{},-8.2,127.666666667,Papunesia,,Leti,1726,False,False
+lewo,,87,lew,lww,{},-16.75,168.333333333,Papunesia,,Lewo,1464,False,False
+lezgian,,267,lez,lez,{},41.6666666667,47.8333333333,Eurasia,,Lezgian,2541,True,True
+lhomi,,389,lho,lhm,{},27.6666666667,87.4166666667,Eurasia,,Lhomi,1185,False,False
+lillooet,,362,lil,lil,{},50.75,-122.0,North America,,Lillooet,1837,False,False
+limbu,,512,lim,lif,{},27.1666666667,87.75,Eurasia,,Limbu,2277,False,False
+limilngan,,45,lml,lmc,{},-12.5,131.916666667,Australia,,Limilngan,1513,False,False
+linda,,287,lnd,liy,{},6.5,20.75,Africa,,Linda,2099,False,False
+lingala,,274,lin,lin,{},2.0,18.5,Africa,,Lingala,2002,False,False
+lingua de sinais brasileira,,330,lsb,bzs,{},-15.0,-48.0,South America,,Língua de Sinais Brasileira,376,False,False
+lingua gestual portuguesa,,330,lgp,psr,{},40.0,-8.0,Eurasia,,Língua Gestual Portuguesa,147,False,False
+lingua italiana dei segni,,330,lii,ise,{},42.0,13.0,Eurasia,,Lingua Italiana dei Segni,377,False,False
+linngithig,,794,lnj,lnj,{},-12.5,142.83,Australia,,Linngithig,2565,False,False
+lisu,,380,lis,lis,{},26.0,98.0,Eurasia,,Lisu,1692,False,False
+lithuanian,,188,lit,lit,{},55.0,24.0,Eurasia,,Lithuanian,2353,False,False
+liv,,465,liv,liv,{},56.8333333333,24.0,Eurasia,,Liv,563,False,False
+lobi,,809,lob,lob,{},10.5,-3.25,Africa,,Lobi,378,False,False
+logoti,,304,lgt,log,{},3.5,30.0,Africa,,Logoti,379,False,False
+loko,,292,lok,lok,{},9.33333333333,-12.0833333333,Africa,,Loko,380,False,False
+loma,,292,lma,lom,{},8.0,-9.5,Africa,,Loma,148,False,False
+londo,,274,ldo,bdu,{},5.0,9.16666666667,Africa,,Londo,1403,False,False
+longgu,,87,lgu,lgu,{},-9.75,160.666666667,Papunesia,,Longgu,1806,False,False
+loniu,,87,lon,los,{},-2.06666666667,147.333333333,Papunesia,,Loniu,2115,False,False
+lonwolwol,,87,lnw,crc,{},-16.2166666667,168.0,Papunesia,,Lonwolwol,814,False,False
+lotha,,386,lot,njh,{},26.5,94.25,Eurasia,,Lotha,1650,False,False
+lou,,87,lou,loj,{},-2.38333333333,147.316666667,Papunesia,,Lou,1465,False,False
+loven,,63,lov,lbo,{},15.0,106.333333333,Eurasia,,Loven,815,False,False
+low german,,181,lge,nds,{},53.0,10.0,Eurasia,,Low German,149,False,False
+lozi,,274,loz,loz,{},-17.8333333333,26.0,Africa,,Lozi,933,False,False
+lu,,404,lu,khb,{},22.0,100.666666667,Eurasia,,Lü,1313,False,False
+lua,,813,lua,nie,{},9.75,17.75,Africa,,Lua,1253,False,False
+luangiua,,87,lga,ojv,{},-5.33333333333,159.416666667,Papunesia,,Luangiua,150,False,False
+lucazi,,274,luc,lch,{},-14.0,20.0,Africa,,Lucazi,1127,False,False
+luganda,,274,lda,lug,{},0.5,32.1666666667,Africa,,Luganda,2026,False,False
+lugbara,,304,lug,lgg,{},3.08333333333,30.9166666667,Africa,,Lugbara,2314,False,False
+lughat alisharat allubnaniya,,330,lgh,,{},34.0,35.8333333333,,,Lughat al-Isharat al-Lubnaniya,381,False,False
+luiseno,,800,lui,lui,{},33.3333333333,-117.166666667,North America,,Luiseño,2228,False,False
+lule,,236,lul,,{},-28.0,-64.0,South America,,Lule,710,False,False
+lummi,,360,lum,str,{},48.7,-122.666666667,North America,,Lummi,151,False,False
+lunda,,274,lbu,lun,{},-10.6666666667,24.0,Africa,,Lunda,1874,False,False
+lun dayeh,,518,lud,lnd,{},4.0,115.916666667,Papunesia,,Lun Dayeh,152,False,False
+lungchang,,388,lun,nst,{},27.5,96.4166666667,Eurasia,,Lungchang,1186,False,False
+luo,,320,luo,luo,{},-0.5,34.75,Africa,,Luo,2301,False,False
+luri,,183,lur,lrc,{},33.5,48.5,Eurasia,,Luri,153,False,False
+lushootseed,,360,lus,lut,{},48.0,-122.0,North America,,Lushootseed,1404,False,False
+lusi,,87,kkv,khl,{},-5.58333333333,149.666666667,Papunesia,,Lusi,2163,False,False
+luvale,,274,luv,lue,{},-12.0,22.0,Africa,,Luvale,2460,True,True
+luwo,,320,jlu,lwo,{},8.0,28.0,Africa,,Luwo,802,False,False
+luxemburgeois,,181,lux,ltz,{},49.8333333333,6.16666666667,Eurasia,,Luxemburgeois,154,False,False
+luyia,,274,luy,luy,{},0.416666666667,34.5,Africa,,Luyia,555,False,False
+lyele,,809,lye,lee,{},12.5,-2.66666666667,Africa,,Lyele,382,False,False
+ma,,287,ma,msj,{},3.5,28.0,Africa,,Ma,1187,False,False
+maale,,13,mle,mdy,{},6.0,36.9166666667,Africa,,Maale,1405,False,False
+maanyan,,73,myn,mhy,{},-2.0,115.0,Papunesia,,Ma'anyan,1514,False,False
+maasai,,320,maa,mas,{},-3.0,36.0,Africa,,Maasai,2315,False,False
+maba,,313,mab,mde,{},13.75,20.8333333333,Africa,,Maba,2340,False,True
+maca,,249,mca,mca,{},-25.0,-57.5,South America,,Maca,155,False,False
+macaguan,,164,mcg,mbn,{},6.5,-71.3333333333,South America,,Macaguán,383,False,False
+macedonian,,185,mcd,mkd,{},41.6666666667,21.75,Eurasia,,Macedonian,1838,False,False
+machiguenga,,536,mch,mcb,{},-12.0,-72.6666666667,South America,,Machiguenga,1188,False,False
+macuna,,452,mcn,myy,{},-0.333333333333,-70.1666666667,South America,,Macuna,384,False,False
+macushi,,119,mac,mbc,{},4.0,-60.0,South America,,Macushi,2337,False,False
+mada (in cameroon),,5,mda,mxu,{},10.8333333333,14.1666666667,Africa,,Mada (in Cameroon),1082,False,False
+mada (in nigeria),,283,mdz,mda,{},8.75,8.25,Africa,,Mada (in Nigeria),156,False,False
+madi,,304,mad,mhi,{},3.25,31.5,Africa,,Ma'di,2045,False,False
+madimadi,,791,mdm,,{},-34.5,143.5,,,Madimadi,1651,False,False
+madurese,,519,mdr,mad,{},-7.0,113.5,Papunesia,,Madurese,1039,False,False
+mae,,87,mae,mme,{},-16.0,167.25,Papunesia,,Mae,1727,False,False
+magahi,,182,mgh,mag,{},23.5,85.5,Eurasia,,Magahi,934,False,False
+magar,,512,mag,mgp,{},28.0,83.0,Eurasia,,Magar,1314,False,False
+magar (syangja),,512,msy,mrd,{},28.0833333333,83.8333333333,Eurasia,,Magar (Syangja),157,False,False
+magi,,450,mgi,mgu,{},-10.3333333333,149.333333333,Papunesia,,Magi,1083,False,False
+magindanao,,513,mgn,mdh,{},6.83333333333,124.5,Papunesia,,Magindanao,158,False,False
+mahican,,17,mhc,xpq,{},42.6666666667,-73.5,North America,,Mahican,385,False,False
+mah meri,,62,mhm,mhe,{},2.83333333333,101.5,Eurasia,,Mah Meri,159,False,False
+maidu (northeast),,345,mne,nmu,{},40.0,-120.666666667,North America,,Maidu (Northeast),2332,False,False
+maipure,,785,mpr,,{},5.5,-67.5,South America,,Maipure,1652,False,False
+mairasi,,448,mrs,zrs,{},-3.5,134.0,Papunesia,,Mairasi,1084,False,False
+maisin,,87,msn,mbq,{},-9.5,149.166666667,Papunesia,,Maisin,1900,False,False
+maithili,,182,mai,mai,{},26.0,86.0,Eurasia,,Maithili,2100,False,False
+majang,,322,maj,mpe,{},6.75,35.0,Africa,,Majang,1762,False,False
+makaa,,274,mkz,mcp,{},3.41666666667,12.25,Africa,,Makaa,935,False,False
+makah,,481,mak,myh,{},48.3333333333,-124.666666667,North America,,Makah,2379,True,True
+makasae,,416,mkj,mkz,{},-8.66666666667,126.5,Papunesia,,Makasae,2643,False,False
+makassar,,525,mks,mak,{},-5.41666666667,119.583333333,Papunesia,,Makassar,988,False,False
+maklew,,112,mkl,mgf,{},-7.66666666667,139.416666667,Papunesia,,Maklew,1085,False,False
+makonde,,274,mkd,kde,{},-11.0,40.0,Africa,,Makonde,1040,False,False
+maku,,245,mkw,,{},0.416666666667,-69.8333333333,South America,,Máku,386,False,False
+makua,,274,mua,"mgh, xsq",{},-15.0,38.6666666667,Africa,,Makua,1255,False,False
+malacca creole,,331,mlc,mcm,{},2.2,102.25,Eurasia,,Malacca Creole,816,False,False
+malagasy,,73,mal,plt,{},-20.0,47.0,Africa,,Malagasy,2529,True,True
+malakmalak,,51,mlk,mpb,{},-13.4166666667,130.416666667,Australia,,Malakmalak,2267,False,False
+malay,,519,mly,zsm,{},3.0,102.0,Eurasia,,Malay,711,False,False
+malayalam,,149,mym,mal,{},10.0,76.5,Eurasia,,Malayalam,2285,False,False
+malay (kuala lumpur),,519,myk,zlm,{},3.16666666667,101.7,Eurasia,,Malay (Kuala Lumpur),160,False,False
+malay (ulu muar),,519,mmu,zmi,{},2.66666666667,102.5,Eurasia,,Malay (Ulu Muar),161,False,False
+maleu,,87,mlu,mgl,{},-5.71666666667,148.416666667,Papunesia,,Maleu,1693,False,False
+malgwa,,5,mlg,mfi,{},11.5,13.75,Africa,,Malgwa,1763,False,False
+mali,,104,mli,gcc,{},-4.83333333333,152.25,Papunesia,,Mali,162,False,False
+maltese,,10,mlt,mlt,{},35.9166666667,14.4166666667,Eurasia,,Maltese,2138,False,False
+malto,,150,mto,kmj,{},25.0,87.3333333333,Eurasia,,Malto,1086,False,False
+mam,,250,mam,mam,{},15.0,-91.8333333333,North America,,Mam,2252,False,False
+mamanwa,,513,mmn,mmn,{},9.41666666667,125.5,Papunesia,,Mamanwa,1694,False,False
+mamasa,,525,mms,mqj,{},-3.08333333333,119.666666667,Papunesia,,Mamasa,556,False,False
+mambai,,817,mmi,mcs,{},9.66666666667,14.0,Africa,,Mambai,2586,False,False
+mambila,,274,mla,"mcu, mzk",{},6.75,11.5,Africa,,Mambila,1608,False,False
+mambwe,,274,mmw,mgr,{},-9.08333333333,31.1666666667,Africa,,Mambwe,884,False,False
+mampruli,,808,mmp,maw,{},10.3333333333,-0.666666666667,Africa,,Mampruli,712,False,False
+mamvu,,303,mmv,mdi,{},3.25,29.0,Africa,,Mamvu,1515,False,False
+manadonese,,519,mds,xmm,{},1.5,124.833333333,Papunesia,,Manadonese,1466,False,False
+manam,,87,mnm,mva,{},-4.0,145.0,Papunesia,,Manam,2046,False,False
+manambu,,826,mbu,mle,{},-4.25,142.833333333,Papunesia,,Manambu,163,False,False
+manange,,389,nmm,nmm,{},28.5833333333,84.0,Eurasia,,Manange,2609,False,False
+manchu,,21,mnc,mnc,{},49.5,127.5,Eurasia,,Manchu,2127,False,False
+mandaic (modern),,10,mma,mid,{},31.0,48.5,Eurasia,,Mandaic (Modern),164,False,False
+mandan,,391,mdn,mhq,{},46.5,-102.5,North America,,Mandan,1901,False,False
+mandar,,525,mnr,mdr,{},-3.41666666667,119.083333333,Papunesia,,Mandar,165,False,False
+mandarin,,375,mnd,cmn,{},34.0,110.0,Eurasia,,Mandarin,2543,True,True
+mandinka,,292,mdk,mnk,{},13.0,-15.6666666667,Africa,,Mandinka,1129,False,False
+mandinka (gambian),,292,mkg,mnk,{},13.4166666667,-16.0,Africa,,Mandinka (Gambian),1362,False,False
+manem,,110,mem,jet,{},-3.0,140.833333333,Papunesia,,Manem,713,False,False
+mangapmbula,,87,mmb,mna,{},-5.66666666667,148.083333333,Papunesia,,Mangap-Mbula,1609,False,False
+mangarrayi,,55,myi,mpc,{},-14.6666666667,133.5,Australia,,Mangarrayi,2498,True,True
+mangbetu,,315,mbt,mdj,{},2.5,26.5,Africa,,Mangbetu,1653,False,False
+manggarai,,75,mng,mqy,{},-8.5,120.333333333,Papunesia,,Manggarai,1935,False,False
+mangghuer,,20,mgg,mjg,{},36.0,102.0,Eurasia,,Mangghuer,2206,False,False
+mango,,305,mgq,mge,{},8.75,17.0,Africa,,Mango,2600,False,False
+maninka,,292,mnk,emk,{},10.5,-9.5,Africa,,Maninka,166,False,False
+maninka (western),,292,maw,mlq,{},13.0,-11.0,Africa,,Maninka (Western),1902,False,False
+manjaku,,818,mjk,mfv,{},12.0,-16.25,Africa,,Manjaku,387,False,False
+mankanya,,818,mkn,knf,{},12.0833333333,-15.9166666667,Africa,,Mankanya,167,False,False
+mankon,,274,mkq,nge,{},6.0,10.1666666667,Africa,,Mankon,2592,False,False
+mano,,273,man,mev,{},7.0,-9.0,Africa,,Mano,1764,False,False
+manobo (western bukidnon),,513,mwb,mbb,{},7.66666666667,124.75,Papunesia,,Manobo (Western Bukidnon),1765,False,False
+mansi,,464,mns,mns,{},62.0,62.0,Eurasia,,Mansi,2268,False,False
+mantjiltjara,,793,mnj,mpj,{},-22.6666666667,125.083333333,Australia,,Mantjiltjara,714,False,False
+manx,,187,mnx,glv,{},54.1666666667,-4.5,Eurasia,,Manx,817,False,False
+maori,,87,mao,mri,{},-40.0,176.0,Papunesia,,Maori,2532,False,True
+mapoyo,,119,mpy,mcg,{},6.0,-67.0,South America,,Mapoyo,388,False,False
+mapudungun,,25,map,arn,{},-38.0,-72.0,South America,,Mapudungun,2502,True,True
+mara,,789,mra,mec,{},-15.0,135.166666667,Australia,,Mara,1936,False,False
+maranao,,513,mrn,mrw,{},7.83333333333,124.25,Papunesia,,Maranao,1189,False,False
+maranungku,,798,mku,zmr,{},-13.6666666667,130.0,Australia,,Maranungku,2383,False,True
+marathi,,182,mhi,mar,{},19.0,76.0,Eurasia,,Marathi,2323,False,False
+marchha,,389,mrc,rnp,{},30.25,79.5833333333,Eurasia,,Marchha,936,False,False
+margany,,794,mny,zmc,{},-27.0,144.5,Australia,,Margany,1839,False,False
+margi,,5,mrg,mrt,{},11.0,13.0,Africa,,Margi,2335,False,False
+maricopa,,170,mar,mrc,{},33.1666666667,-113.166666667,North America,,Maricopa,2479,True,True
+mari (hill),,466,mah,mrj,{},57.0,58.0,Eurasia,,Mari (Hill),937,False,False
+mari (meadow),,466,mme,mhr,{},57.0,48.0,Eurasia,,Mari (Meadow),2155,False,False
+marind,,829,mrd,mrz,{},-7.83333333333,140.166666667,Papunesia,,Marind,2338,False,True
+maring,,438,mav,mbw,{},-5.5,144.666666667,Papunesia,,Maring,715,False,False
+maringarr,,799,mrr,zmt,{},-14.25,130.0,Australia,,Maringarr,1041,False,False
+marquesan,,87,mrq,"mqm, mrq",{},-8.91666666667,-140.083333333,Papunesia,,Marquesan,557,False,False
+marrithiyel,,799,mrh,mfr,{},-13.8333333333,130.0,Australia,,Marrithiyel,1467,False,False
+marshallese,,87,msh,mah,{},7.11666666667,171.05,Papunesia,,Marshallese,1130,False,False
+martinique creole,,331,mqc,gcf,{},14.6666666667,-61.0,North America,,Martinique Creole,168,False,False
+martuthunira,,793,mrt,vma,{},-20.8333333333,116.5,Australia,,Martuthunira,2489,True,True
+martu wangka,,793,mwa,mpj,{},-21.5,126.0,Australia,,Martu Wangka,716,False,False
+maru,,380,mru,mhx,{},23.5,98.5,Eurasia,,Maru,1695,False,False
+masa,,11,mas,mcn,{},10.5,15.5,Africa,,Masa,1610,False,False
+masakin,,281,msk,jle,{},10.6666666667,30.0,Africa,,Masakin,1406,False,False
+masalit,,313,msl,mls,{},13.3333333333,22.0,Africa,,Masalit,2101,False,False
+massachusett,,17,mtt,wam,{},42.5,-71.0,North America,,Massachusett,1407,False,False
+matis,,342,mts,mpq,{},-4.41666666667,-70.25,South America,,Matis,1555,False,False
+matngele,,54,mdl,zml,{},-13.8333333333,130.416666667,Australia,,Matngele,1128,False,False
+matses,,342,myr,mcf,{},-5.41666666667,-73.25,South America,,Matsés,1468,False,False
+mattole,,262,mtl,mvb,{},40.1666666667,-124.166666667,North America,,Mattole,389,False,False
+matukar,,87,mtk,mjk,{},-4.91666666667,145.75,Papunesia,,Matukar,169,False,False
+matuumbi,,274,mtb,mgw,{},-8.5,39.0,Africa,,Matuumbi,1315,False,False
+mauka,,292,mka,mxx,{},8.33333333333,-7.5,Africa,,Mauka,1937,False,False
+maung,,38,mau,mph,{},-11.9166666667,133.5,Australia,,Maung,2465,True,True
+mauritian creole,,331,mcr,mfe,{},-20.3333333333,57.5,Africa,,Mauritian Creole,989,False,False
+mawchi,,182,mwc,mke,{},21.3333333333,73.6666666667,Eurasia,,Mawchi,717,False,False
+maxakali,,239,max,mbl,{},-18.0,-40.0,South America,,Maxakalí,1363,False,False
+maya,,79,mya,slz,{},-1.25,130.916666667,Papunesia,,Ma'ya,1254,False,False
+mayangna,,251,sum,yan,{},13.0,-84.5,North America,,Mayangna,604,False,False
+maybrat,,493,may,ayz,{},-1.33333333333,132.5,Papunesia,,Maybrat,2505,True,True
+mayiyapi,,794,myy,,{},-20.0,141.0,Australia,,Mayi-Yapi,718,False,False
+mayo,,475,myo,mfy,{},26.0,-108.0,North America,,Mayo,558,False,False
+mayogo,,287,myg,mdm,{},3.0,29.0,Africa,,Mayogo,2587,False,False
+mazahua,,336,maz,"maz, mmc",{},19.4166666667,-99.9166666667,North America,,Mazahua,1516,False,False
+mazanderani,,183,mzn,mzn,{},36.5,52.0,Eurasia,,Mazanderani,885,False,False
+mazatec (chiquihuitlan),,339,mzc,maq,{},17.75,-96.9166666667,North America,,Mazatec (Chiquihuitlán),1903,False,False
+mazatec (huautla),,339,mzh,mau,{},18.25,-96.8333333333,North America,,Mazatec (Huautla),1408,False,False
+mba,,287,mba,mfc,{},1.0,25.0,Africa,,Mba,1904,False,False
+mbabaram,,794,mbb,,{},-17.1666666667,145.0,Australia,,Mbabaram,1611,False,False
+mbalanhu,,274,mhu,lnb,{},-17.5,15.0,Africa,,Mbalanhu,990,False,False
+mbara,,5,mbr,mpk,{},11.0,15.4166666667,Africa,,Mbara,1654,False,False
+mbay,,305,mby,myb,{},8.25,17.5,Africa,,Mbay,2156,False,False
+mbe,,274,mbz,mtk,{},6.28333333333,11.0833333333,Africa,,Mbe',170,False,False
+mbere,,274,mbe,mdt,{},-0.5,14.0,Africa,,Mbere,1131,False,False
+mbili,,274,mbi,baw,{},6.11666666667,10.2,Africa,,Mbili,1556,False,False
+mbodomo,,537,mdo,gmm,{},4.5,15.5,Africa,,Mbodomo,1364,False,False
+mbole,,274,mbl,mdq,{},-0.666666666667,24.6666666667,Africa,,Mbole,1087,False,False
+mbosi,,274,mdw,mdw,{},-1.25,15.5,Africa,,Mbosi,2593,False,False
+mbugu,,1,mbg,mhd,{},-4.33333333333,38.1666666667,Africa,,Mbugu,719,False,False
+mbum,,817,mbm,mdd,{},7.75,13.1666666667,Africa,,Mbum,1959,False,False
+meen,,322,mee,mym,{},5.0,37.0,Africa,,Me'en,1766,False,False
+mehek,,371,mhk,nux,{},-3.75,142.5,Papunesia,,Mehek,559,False,False
+mehri,,10,meh,gdq,{},17.0,51.5,Eurasia,,Mehri,1960,False,False
+meithei,,386,mei,mni,{},24.75,94.0,Eurasia,,Meithei,2494,True,True
+mekens,,454,mek,skf,{},-12.5,-61.5,South America,,Mekens,1517,False,False
+mekeo,,87,mke,mek,{},-8.33333333333,146.5,Papunesia,,Mekeo,1190,False,False
+melanau,,518,mel,mel,{},2.5,111.5,Papunesia,,Melanau,171,False,False
+melayu betawi,,331,meb,bew,{},-6.5,107.0,Papunesia,,Melayu Betawi,560,False,False
+mende,,292,mde,men,{},7.83333333333,-11.5,Africa,,Mende,2116,False,False
+menomini,,17,men,mez,{},45.5,-88.3333333333,North America,,Menomini,2079,False,False
+mentawai,,521,mnt,mwv,{},-1.5,99.0,Papunesia,,Mentawai,991,False,False
+mentuh tapuh,,95,mta,sdo,{},1.25,111.0,Papunesia,,Mentuh Tapuh,720,False,False
+menya,,449,mey,mcr,{},-7.25,146.0,Papunesia,,Menya,721,False,False
+meryam mir,,490,mer,ulk,{},-9.91666666667,144.083333333,Papunesia,,Meryam Mir,1518,False,False
+meyah,,151,mea,mej,{},-1.16666666667,133.5,Papunesia,,Meyah,1612,False,False
+mian,,441,mpt,mpt,{},-4.75,141.5,Papunesia,,Mian,2642,False,False
+michif,,17,mcf,crg,{},52.0,-100.166666667,North America,,Michif,172,False,False
+micmac,,17,mic,mic,{},45.0,-63.0,North America,,Micmac,992,False,False
+midob,,307,mid,mei,{},15.0833333333,26.25,Africa,,Midob,938,False,False
+mien,,169,mie,ium,{},25.0,111.0,Eurasia,,Mien,2080,False,False
+migama,,2,mig,mmy,{},12.1666666667,19.8333333333,Africa,,Migama,561,False,False
+miisiirii,,311,mii,tma,{},13.5,22.0,Africa,,Miisiirii,939,False,False
+miju,,382,mij,mxj,{},29.0,96.0,Eurasia,,Miju,390,False,False
+mikarew,,234,mkr,msy,{},-4.41666666667,144.916666667,Papunesia,,Mikarew,391,False,False
+mikasuki,,260,mki,mik,{},32.0,-85.0,North America,,Mikasuki,1409,False,False
+mikir,,386,mik,mjw,{},26.3333333333,93.5,Eurasia,,Mikir,1840,False,False
+milang,,382,mil,adi,{},28.5,95.25,Eurasia,,Milang,818,False,False
+mina,,5,hna,hna,{},10.3333333333,13.8333333333,Africa,,Mina,2602,False,False
+minangkabau,,519,min,min,{},-1.0,101.0,Papunesia,,Minangkabau,2063,False,False
+minaveha,,87,mnv,mvn,{},-9.6,150.466666667,Papunesia,,Minaveha,1132,False,False
+mingrelian,,205,mgl,xmf,{},42.5,42.0,Eurasia,,Mingrelian,392,False,False
+min southern,,375,hok,nan,{},25.0,118.0,Eurasia,,Min (Southern),685,False,False
+miri (hill),,382,mhl,mrg,{},27.9166666667,93.8333333333,Eurasia,,Miri (Hill):,2626,False,False
+miriwung,,56,mir,mep,{},-15.6666666667,129.0,Australia,,Miriwung,886,False,False
+mirniny,,793,mrj,nju,{},-31.0,129.0,Australia,,Mirniny,2566,False,False
+mising,,382,msg,mrg,{},28.5,94.8333333333,Eurasia,,Mising,1807,False,False
+miskito,,251,mis,miq,{},14.0,-83.6666666667,North America,,Miskito,2239,False,False
+miskito coast english creole,,331,mce,bzj,{},16.25,-88.8333333333,North America,,Mískito Coast English Creole,173,False,False
+mituku,,274,mit,zmq,{},-1.66666666667,25.5,Africa,,Mituku,393,False,False
+miwok (bodega),,350,mkb,csi,{},38.3333333333,-123.0,North America,,Miwok (Bodega),394,False,False
+miwok (central sierra),,350,mcs,csm,{},38.0,-120.333333333,North America,,Miwok (Central Sierra),940,False,False
+miwok (lake),,350,mwl,lmw,{},38.9166666667,-122.666666667,North America,,Miwok (Lake),395,False,False
+miwok (northern sierra),,350,mwn,nsq,{},38.3333333333,-120.666666667,North America,,Miwok (Northern Sierra),941,False,False
+miwok (plains),,350,mwp,pmw,{},38.0,-121.0,North America,,Miwok (Plains),396,False,False
+miwok (southern sierra),,350,mss,skd,{},37.5,-120.0,North America,,Miwok (Southern Sierra),2405,False,True
+mixe (ayutla),,252,mxx,mxp,{},17.0833333333,-96.0833333333,North America,,Mixe (Ayutla),2661,False,False
+mixe (coatlan),,252,mco,mco,{},16.9166666667,-95.6666666667,North America,,Mixe (Coatlán),1557,False,False
+mixe (tlahuitoltepec),,252,mth,mxp,{},17.0833333333,-96.1666666667,North America,,Mixe (Tlahuitoltepec),397,False,False
+mixe (totontepec),,252,mtp,mto,{},17.25,-96.0,North America,,Mixe (Totontepec),1365,False,False
+mixtec (alacatlatzala),,334,mxl,mim,{},17.25,-98.5833333333,North America,,Mixtec (Alacatlatzala),174,False,False
+mixtec (atatlahuca),,334,mxa,mib,{},17.0,-97.75,North America,,Mixtec (Atatlahuca),942,False,False
+mixtec (ayutla),,334,mxt,miy,{},16.9166666667,-99.1666666667,North America,,Mixtec (Ayutla),562,False,False
+mixtec (chalcatongo),,334,mxc,mig,{},17.05,-97.5833333333,North America,,Mixtec (Chalcatongo),2483,True,True
+mixtec (chayuco),,334,mxu,mih,{},16.4166666667,-97.8333333333,North America,,Mixtec (Chayuco),398,False,False
+mixtec (coatzospan),,334,mxz,miz,{},18.0833333333,-96.5833333333,North America,,Mixtec (Coatzospan),399,False,False
+mixtec (jamiltepec),,334,mja,mxt,{},16.25,-97.8333333333,North America,,Mixtec (Jamiltepec),564,False,False
+mixtec (jicaltepec),,334,mxj,mio,{},16.3333333333,-98.0,North America,,Mixtec (Jicaltepec),1655,False,False
+mixtec (molinos),,334,mxm,mig,{},17.0,-97.5833333333,North America,,Mixtec (Molinos),1191,False,False
+mixtec (ocotepec),,334,mxo,mie,{},17.1666666667,-97.75,North America,,Mixtec (Ocotepec),1841,False,False
+mixtec (penoles),,334,mxp,mil,{},17.0833333333,-96.9166666667,North America,,Mixtec (Peñoles),2064,False,False
+mixtec (san juan colorado),,334,mjc,mjc,{},16.5,-98.0,North America,,Mixtec (San Juan Colorado),400,False,False
+mixtec (san miguel el grande),,334,mxg,mig,{},17.05,-97.5666666667,North America,,Mixtec (San Miguel el Grande),401,False,False
+mixtec (silacayoapan),,334,mxs,mks,{},17.5,-98.1666666667,North America,,Mixtec (Silacayoapan),402,False,False
+mixtec (yosondua),,334,mxy,mpm,{},16.9166666667,-97.5833333333,North America,,Mixtec (Yosondúa),1656,False,False
+miya,,6,miy,mkf,{},10.9166666667,9.66666666667,Africa,,Miya,2278,False,False
+mizo,,386,miz,lus,{},23.1666666667,92.8333333333,Eurasia,,Mizo,2139,False,False
+mlabri (minor),,811,mlm,mra,{},18.5,101.0,Eurasia,,Mlabri (Minor),1657,False,False
+moca,,13,moc,moy,{},7.58333333333,35.5,Africa,,Moca,404,False,False
+mochica,,132,mcc,,{},-7.5,-79.3333333333,South America,,Mochica,819,False,False
+mocovi,,696,mcv,moc,{},-28.0,-60.5,South America,,Mocoví,2677,False,False
+mofugudur,,5,mof,mif,{},10.5,14.0,Africa,,Mofu-Gudur,1410,False,False
+moghol,,20,mog,mhj,{},35.0,62.0,Eurasia,,Moghol,1875,False,False
+mohawk,,192,moh,moh,{},43.5,-74.25,North America,,Mohawk,2065,False,False
+mojave,,170,moj,mov,{},34.6666666667,-114.583333333,North America,,Mojave,1088,False,False
+mokilese,,87,mok,mkj,{},6.66666666667,159.75,Papunesia,,Mokilese,2294,False,False
+mokilko,,2,mko,moz,{},11.9166666667,18.0833333333,Africa,,Mokilko,565,False,False
+molala,,351,mll,mbe,{},44.5,-122.5,North America,,Molala,175,False,False
+moldavian,,184,mol,ron,{},47.0,29.0,Eurasia,,Moldavian,176,False,False
+mombum,,253,mom,mso,{},-8.25,138.75,Papunesia,,Mombum,1042,False,False
+momu,,824,fqs,fqs,{},-3.0,141.583333333,Papunesia,,Momu,2649,False,False
+momuna,,443,mqf,mqf,{},-4.83333333333,139.25,Papunesia,,Momuna,2641,False,False
+mon,,65,mon,mnw,{},14.8333333333,100.5,Eurasia,,Mon,1905,False,False
+mondunga,,287,mga,ndt,{},2.25,21.5,Africa,,Mondunga,1613,False,False
+mongo,,274,mgo,lol,{},0.0,21.0,Africa,,Mongo,1411,False,False
+mongol (khamnigan),,20,mkh,,{},49.0,117.0,,,Mongol (Khamnigan),1133,False,False
+mongondow,,513,mgd,mog,{},0.666666666667,124.0,Papunesia,,Mongondow,566,False,False
+moni,,436,mni,mnz,{},-3.66666666667,137.0,Papunesia,,Moni,1043,False,False
+monoalu,,87,moa,mte,{},-7.05,155.75,Papunesia,,Mono-Alu,1767,False,False
+mono (in united states),,477,mno,mnr,{},38.0,-119.0,North America,,Mono (in United States),1696,False,False
+montagnais,,17,mtg,moe,{},52.0,-65.0,North America,,Montagnais,993,False,False
+monumbo,,254,mbo,mxk,{},-4.25,145.0,Papunesia,,Monumbo,887,False,False
+moore,,808,moo,mos,{},12.8333333333,-1.25,Africa,,Mooré,1977,False,False
+mopan,,250,mop,mop,{},16.5833333333,-88.6666666667,North America,,Mopan,820,False,False
+mor,,79,mor,mhz,{},-2.95,135.75,Papunesia,,Mor,1876,False,False
+moraori,,527,mri,mok,{},-8.58333333333,140.666666667,Papunesia,,Moraori,1134,False,False
+mordvin (erzya),,467,moe,myv,{},53.0,45.5,Eurasia,,Mordvin (Erzya),1978,False,False
+mordvin (moksha),,467,mmo,mdf,{},54.0,44.0,Eurasia,,Mordvin (Moksha),888,False,False
+moro,,285,mro,mor,{},11.0,30.1666666667,Africa,,Moro,2177,False,False
+moru,,304,mou,mgd,{},4.75,29.75,Africa,,Moru,1906,False,False
+moseten,,257,mos,cas,{},-14.75,-67.8333333333,South America,,Mosetén,2066,False,False
+motu,,87,mtu,meu,{},-9.33333333333,147.0,Papunesia,,Motu,1938,False,False
+motuna,,152,mot,siw,{},-6.61666666667,155.416666667,Papunesia,,Motuna,1728,False,False
+movima,,258,mov,mzp,{},-13.8333333333,-65.6666666667,South America,,Movima,1558,False,False
+mpongwe,,274,mpo,mye,{},-1.25,9.5,Africa,,Mpongwe,943,False,False
+mpur,,492,mpu,akc,{},-0.75,133.25,Papunesia,,Mpur,1519,False,False
+mudburra,,793,mdb,dmw,{},-17.3333333333,132.083333333,Australia,,Mudburra,177,False,False
+mufian,,427,aoj,aoj,{},-3.5,143.0,Papunesia,,Mufian,2656,False,False
+muher,,10,muh,sgw,{},8.16666666667,38.1666666667,Africa,,Muher,178,False,False
+muinane,,179,mui,bmr,{},-1.0,-72.5,South America,,Muinane,1842,False,False
+muisca,,801,msc,chb,{},5.0,-74.0,South America,,Muisca,1469,False,False
+mulao,,404,mul,mlm,{},25.0,108.0,Eurasia,,Mulao,994,False,False
+mumuye,,816,mum,mzm,{},9.0,11.6666666667,Africa,,Mumuye,2240,False,False
+mun,,169,mnu,mji,{},19.0,110.0,Eurasia,,Mun,179,False,False
+muna,,526,mna,mnb,{},-5.0,122.5,Papunesia,,Muna,2269,False,False
+mundang,,817,mdg,mua,{},9.66666666667,14.5,Africa,,Mundang,1412,False,False
+mundani,,274,mud,mnf,{},5.66666666667,9.91666666667,Africa,,Mundani,1044,False,False
+mundari,,66,mun,unr,{},23.0,84.6666666667,Eurasia,,Mundari,2433,False,True
+mundu,,287,mdu,muh,{},4.5,30.0,Africa,,Mündü,722,False,False
+munduruku,,459,muu,myu,{},-7.0,-58.0,South America,,Mundurukú,1192,False,False
+mungaka,,274,mgk,mhk,{},5.91666666667,10.0,Africa,,Mungaka,1256,False,False
+munsee,,17,mse,umu,{},41.5,-74.6666666667,North America,,Munsee,995,False,False
+munzombo,,287,mnz,moj,{},3.0,18.4166666667,Africa,,Munzombo,2588,False,False
+muong,,67,muo,mtq,{},20.5,105.083333333,Eurasia,,Muong,180,False,False
+mupun,,6,mup,sur,{},9.5,8.83333333333,Africa,,Mupun,2270,False,False
+murik,,231,mrk,mtf,{},-3.83333333333,144.25,Papunesia,,Murik,568,False,False
+murle,,322,mrl,mur,{},6.5,33.5,Africa,,Murle,2384,False,True
+murrinhpatha,,37,mpa,mwf,{},-14.6666666667,129.666666667,Australia,,Murrinh-Patha,2157,False,False
+mursi,,322,mur,muz,{},5.58333333333,36.0833333333,Africa,,Mursi,1470,False,False
+muruwari,,791,mrw,zmu,{},-28.75,147.0,Australia,,Muruwari,1729,False,False
+musgu,,5,mgu,mug,{},10.8333333333,14.9166666667,Africa,,Musgu,1907,False,False
+musom,,87,msm,msu,{},-6.58333333333,147.0,Papunesia,,Musom,1366,False,False
+musqueam,,360,msq,hur,{},49.1666666667,-123.0,North America,,Musqueam,2659,False,False
+mussau,,87,mus,emi,{},-1.45,149.616666667,Papunesia,,Mussau,1316,False,False
+mutsun,,347,mut,css,{},36.8333333333,-121.5,North America,,Mutsun,1808,False,False
+muyuw,,87,muy,myw,{},-9.08333333333,152.75,Papunesia,,Muyuw,406,False,False
+mwera,,274,mwe,mwe,{},-9.0,39.0,Africa,,Mwera,1614,False,False
+mwotlap,,87,mwo,mlv,{},-13.5833333333,167.583333333,Papunesia,,Mwotlap,1697,False,False
+nabak,,434,nab,naf,{},-6.41666666667,147.0,Papunesia,,Nabak,1843,False,False
+nadeb,,261,nad,mbj,{},-1.0,-66.5,South America,,Nadëb,1559,False,False
+nadroga,,87,ndr,fij,{},-18.0833333333,177.416666667,Papunesia,,Nadroga,2639,False,False
+nafaanra,,806,naf,nfr,{},8.0,-2.58333333333,Africa,,Nafaanra,723,False,False
+naga (mao),,386,nma,nbi,{},25.5,94.3333333333,Eurasia,,Naga (Mao),1730,False,False
+naga pidgin,,331,npn,nag,{},25.6666666667,94.0,Eurasia,,Naga Pidgin,407,False,False
+naga (tangkhul),,386,ngt,nmf,{},25.0,94.5,Eurasia,,Naga (Tangkhul),1877,False,False
+nagatman,,496,nag,nce,{},-3.75,141.5,Papunesia,,Nagatman,1560,False,False
+naga (zeme),,386,nze,nzm,{},25.1666666667,93.5,Eurasia,,Naga (Zeme),1471,False,False
+nahali,,265,nah,nll,{},19.75,77.8333333333,Eurasia,,Nahali,1317,False,False
+nahuatl (central),,476,nhc,nhn,{},19.0,-98.25,North America,,Nahuatl (Central),181,False,False
+nahuatl (huasteca),,476,nhh,"nhe, nhw",{},22.0,-99.0,North America,,Nahuatl (Huasteca),1768,False,False
+nahuatl (huauchinango),,476,nhu,,{},20.1666666667,-98.0833333333,,,Nahuatl (Huauchinango),408,False,False
+nahuatl (mecayapan isthmus),,476,nmi,nhx,{},18.25,-94.8333333333,North America,,Nahuatl (Mecayapan Isthmus),889,False,False
+nahuatl (michoacan),,476,nhm,ncl,{},18.5,-103.0,North America,,Nahuatl (Michoacán),1731,False,False
+nahuatl (milpa alta),,476,nmp,,{},19.25,-99.1666666667,,,Nahuatl (Milpa Alta),409,False,False
+nahuatl (north puebla),,476,nhn,ncj,{},20.0,-98.25,North America,,Nahuatl (North Puebla),2102,False,False
+nahuatl (pajapan),,476,npa,nhp,{},18.25,-94.75,North America,,Nahuatl (Pajapan),410,False,False
+nahuatl (pochutla),,476,nhp,,{},15.75,-96.5,North America,,Nahuatl (Pochutla),182,False,False
+nahuatl (sierra de zacapoaxtla),,476,nsz,azz,{},19.5833333333,-97.3333333333,North America,,Nahuatl (Sierra de Zacapoaxtla),569,False,False
+nahuatl (tetelcingo),,476,nht,nhg,{},19.6666666667,-99.0,North America,,Nahuatl (Tetelcingo),2429,False,True
+nahuatl (xalitla),,476,nhx,ngu,{},18.0,-99.5,North America,,Nahuatl (Xalitla),411,False,False
+nai,,225,bio,bio,{},-3.71666666667,141.266666667,Papunesia,,Nai,2651,False,False
+nakanai,,87,nak,nak,{},-5.58333333333,150.583333333,Papunesia,,Nakanai,2027,False,False
+nakkara,,36,nkk,nck,{},-12.1166666667,134.416666667,Australia,,Nakkara,1045,False,False
+nalik,,87,nal,nal,{},-2.95,151.333333333,Papunesia,,Nalik,1257,False,False
+nama,,210,kho,naq,{},-25.5,18.0,Africa,,Nama,2493,True,True
+nambas (big),,87,nbb,nmb,{},-16.0833333333,167.2,Papunesia,,Nambas (Big),1046,False,False
+nambikuara (southern),,270,nmb,nab,{},-14.0,-59.5,South America,,Nambikuára (Southern),2229,False,False
+namia,,372,nam,nnm,{},-3.83333333333,141.75,Papunesia,,Namia,1809,False,False
+nanai,,21,nai,gld,{},49.5,137.0,Eurasia,,Nanai,1844,False,False
+nancowry,,68,nnc,ncb,{},8.05,93.5,Eurasia,,Nancowry,1908,False,False
+nande,,274,nde,nnb,{},-0.0833333333333,29.1666666667,Africa,,Nande,944,False,False
+nandi,,320,nan,kln,{},0.25,35.0,Africa,,Nandi,2336,False,False
+nanerge,,806,nrg,sen,{},11.75,-5.0,Africa,,Nanerge,2582,False,False
+nankina,,434,nnk,nnk,{},-5.78333333333,146.45,Papunesia,,Nankina,1413,False,False
+nanticoke,,17,nnt,nnt,{},38.0,-76.25,North America,,Nanticoke,183,False,False
+nanumea,,87,nnm,tvl,{},-5.66666666667,176.116666667,Papunesia,,Nanumea,412,False,False
+napu,,526,npu,npy,{},-1.33333333333,120.416666667,Papunesia,,Napu,724,False,False
+nara (in ethiopia),,314,nar,nrb,{},15.0833333333,37.5833333333,Africa,,Nara (in Ethiopia),2178,False,False
+narom,,518,nrm,nrm,{},4.41666666667,114.0,Papunesia,,Narom,184,False,False
+narphu,,389,nph,npa,{},28.6666666667,84.25,Eurasia,,Nar-Phu,1732,False,False
+nasioi,,152,nas,nas,{},-6.33333333333,155.583333333,Papunesia,,Nasioi,2230,False,False
+naskapi,,17,nsk,nsk,{},56.0,-70.0,North America,,Naskapi,413,False,False
+natchez,,271,nat,ncz,{},31.75,-91.3333333333,North America,,Natchez,1472,False,False
+nateni,,808,ntn,ntm,{},10.5,1.16666666667,Africa,,Nateni,414,False,False
+natugu,,87,nbk,ntu,{},-10.7833333333,165.866666667,Papunesia,,Natügu,1135,False,False
+nauruan,,87,nau,nau,{},-0.5,166.916666667,Papunesia,,Nauruan,1047,False,False
+navajo,,262,nav,nav,{},36.1666666667,-108.0,North America,,Navajo,2416,False,True
+naxi,,384,nax,nxq,{},27.5,100.0,Eurasia,,Naxi,1520,False,False
+ncam,,808,ncm,bud,{},9.33333333333,0.666666666667,Africa,,Ncàm,2584,False,False
+ndebele (in south africa),,274,ndb,nbl,{},-25.3333333333,29.0,Africa,,Ndebele (in South Africa),1810,False,False
+ndjebbana,,35,ndj,djj,{},-12.1666666667,134.116666667,Australia,,Ndjébbana,1878,False,False
+ndogo,,287,ndg,ndz,{},7.75,27.0,Africa,,Ndogo,415,False,False
+ndonga,,274,ndo,ndo,{},-18.0,17.0,Africa,,Ndonga,2003,False,False
+ndumu,,274,ndu,nmd,{},-1.66666666667,13.5833333333,Africa,,Ndumu,1473,False,False
+ndut,,822,ndt,ndv,{},14.9166666667,-16.9166666667,Africa,,Ndut,2047,False,False
+ndyuka,,331,ndy,djk,{},4.5,-54.5,South America,,Ndyuka,2678,False,True
+nederlandse gebarentaal,,330,ned,dse,{},52.25,5.5,Eurasia,,Nederlandse Gebarentaal,416,False,False
+negidal,,21,neg,neg,{},53.0,139.0,Eurasia,,Negidal,417,False,False
+nehan,,87,neh,nsn,{},-4.5,154.2,Papunesia,,Nehan,1474,False,False
+nelemwa,,87,nel,nee,{},-20.25,164.083333333,Papunesia,,Nelemwa,996,False,False
+nend,,437,nnd,anh,{},-5.0,144.916666667,Papunesia,,Nend,1136,False,False
+nenets,,463,ntu,yrk,{},70.0,76.0,Eurasia,,Nenets,185,False,False
+nenets forest,,463,nen,yrk,{},69.0,72.0,Eurasia,,Nenets (Forest),2425,False,True
+nengone,,87,nne,nen,{},-21.5,168.0,Papunesia,,Nengone,1258,False,False
+neoaramaic (amadiya),,10,naa,cld,{},37.0,43.0,Eurasia,,Neo-Aramaic (Amadiya),186,False,False
+neoaramaic arbel jewish,,10,naj,aij,{},36.3833,44.0,Eurasia,,Neo-Aramaic (Arbel Jewish),2004,False,False
+neoaramaic (assyrian),,10,nsy,aii,{},36.0,41.0,Eurasia,,Neo-Aramaic (Assyrian),570,False,False
+neoaramaic (persian azerbaijan),,10,nap,trg,{},38.0,47.0,Eurasia,,Neo-Aramaic (Persian Azerbaijan),1318,False,False
+nepali,,182,nep,nep,{},28.0,85.0,Eurasia,,Nepali,2290,False,False
+nevome,,478,nev,ood,{},31.0,-112.5,North America,,Nevome,1769,False,False
+newar (dolakha),,512,nwd,new,{},27.3333333333,86.0,Eurasia,,Newar (Dolakha),1770,False,False
+newari (kathmandu),,512,new,new,{},27.6666666667,85.5,Eurasia,,Newari (Kathmandu),2158,False,False
+new zealand sign language,,330,nzs,nzs,{},-43.0,172.0,Papunesia,,New Zealand Sign Language,418,False,False
+neyo,,277,ney,ney,{},5.0,-6.0,Africa,,Neyo,2580,False,False
+nez perce,,348,nez,nez,{},46.0,-116.0,North America,,Nez Perce,2411,False,True
+ngaanyatjarra,,793,ntj,ntj,{},-26.0,126.5,Australia,,Ngaanyatjarra,1771,False,False
+ngabere,,122,nbr,gym,{},8.66666666667,-82.0,North America,,Ngäbere,2117,False,False
+ngada,,75,ngd,nxg,{},-8.83333333333,121.0,Papunesia,,Ngad'a,1811,False,False
+ngadjumaja,,793,ngj,nju,{},-32.3333333333,123.833333333,Australia,,Ngadjumaja,1193,False,False
+ngalakan,,34,ngl,nig,{},-14.25,134.0,Australia,,Ngalakan,2271,False,False
+ngalkbun,,44,nkb,ngk,{},-13.5,134.833333333,Australia,,Ngalkbun,1414,False,False
+ngambay,,305,ngm,sba,{},8.66666666667,16.0,Africa,,Ngambay,1961,False,False
+nganasan,,463,nga,nio,{},71.0,93.0,Eurasia,,Nganasan,2048,False,False
+ngandi,,32,ngn,nid,{},-13.8333333333,135.0,Australia,,Ngandi,1658,False,False
+ngangityemerri,,797,ngg,nam,{},-14.25,130.416666667,Australia,,Ngan'gityemerri,1319,False,False
+ngankikurungkurr,,797,ngk,nam,{},-14.0,130.5,Australia,,Ngankikurungkurr,1939,False,False
+ngarinyeri,,791,ngr,nay,{},-36.0,140.0,Australia,,Ngarinyeri,821,False,False
+ngarinyman,,793,ngy,nbj,{},-16.5,130.5,Australia,,Ngarinyman,187,False,False
+ngarla,,793,nlr,nrk,{},-20.0,119.0,Australia,,Ngarla,2567,False,False
+ngarluma,,793,nlu,nrl,{},-20.8333333333,117.5,Australia,,Ngarluma,419,False,False
+ngawun,,794,ngw,nxn,{},-19.0,141.5,Australia,,Ngawun,1320,False,False
+ngbaka (mabo),,287,nbm,nbm,{},3.56,18.36,Africa,,Ngbaka (Ma'bo),2679,False,False
+ngbaka (minagende),,537,ngb,nga,{},3.5,20.0,Africa,,Ngbaka (Minagende),1321,False,False
+ngbandi,,287,ndi,"nbw, ngb",{},3.75,22.0,Africa,,Ngbandi,571,False,False
+ngemba,,274,nge,nge,{},6.2,10.0,Africa,,Ngemba,188,False,False
+ngiti,,299,nti,niy,{},1.33333333333,30.25,Africa,,Ngiti,2377,False,True
+ngiyambaa,,791,ngi,wyb,{},-31.75,145.5,Australia,,Ngiyambaa,2495,True,True
+ngizim,,6,ngz,ngi,{},12.0833333333,10.9166666667,Africa,,Ngizim,2279,False,False
+ngombe,,274,nbe,ngc,{},3.0,23.0,Africa,,Ngombe,725,False,False
+ngoni,,274,ngo,ngo,{},-11.0,36.0,Africa,,Ngoni,1698,False,False
+nguna,,87,ngu,llp,{},-16.9166666667,168.5,Papunesia,,Nguna,1194,False,False
+nhanda,,793,nha,,{},-27.0,114.166666667,Australia,,Nhanda,1699,False,False
+nharo,,210,nro,nhr,{},-22.3333333333,20.5,Africa,,Nharo,572,False,False
+nias,,521,nia,nia,{},1.0,97.75,Papunesia,,Nias,2081,False,False
+nicobarese,,68,nic,ncb,{},7.0,93.8333333333,Eurasia,,Nicobarese,189,False,False
+nicobarese (car),,68,nca,caq,{},9.0,93.0,Eurasia,,Nicobarese (Car),2253,False,False
+nigerian pidgin,,331,npi,pcm,{},6.5,3.33333333333,Africa,,Nigerian Pidgin,726,False,False
+nihon shuwa (japanese sign language),,330,nih,jsl,{},36.0,139.0,Eurasia,,Nihon Shuwa (Japanese Sign Language),420,False,False
+nimboran,,323,nim,nir,{},-2.5,140.166666667,Papunesia,,Nimboran,1561,False,False
+ningil,,428,nin,niz,{},-3.5,142.25,Papunesia,,Ningil,727,False,False
+nisenan,,345,nsn,nsz,{},39.0,-121.0,North America,,Nisenan,1562,False,False
+nisgha,,352,nsg,ncg,{},55.0,-130.0,North America,,Nisgha,2005,False,False
+nitinaht,,481,nit,dtd,{},48.6666666667,-124.75,North America,,Nitinaht,421,False,False
+niuafoou,,87,nif,num,{},-15.5666666667,-175.616666667,Papunesia,,Niuafo'ou,422,False,False
+niuean,,87,niu,niu,{},-19.05,-170.116666667,Papunesia,,Niuean,2118,False,False
+nivacle,,249,chu,cag,{},-23.5,-60.5,South America,,Nivacle,1300,False,False
+nivkh,,324,niv,niv,{},53.3333333333,142.0,Eurasia,,Nivkh,2471,False,True
+nivkh (south sakhalin),,324,nvs,niv,{},47.0,142.5,Eurasia,,Nivkh (South Sakhalin),890,False,False
+nkem,,274,nke,isi,{},6.58333333333,8.58333333333,Africa,,Nkem,945,False,False
+nkonya,,275,nkn,nko,{},7.16666666667,0.25,Africa,,Nkonya,1772,False,False
+nkorekiga,,274,nko,cgg,{},-0.916666666667,29.8333333333,Africa,,Nkore-Kiga,2421,False,True
+nobiin,,307,nob,fia,{},21.0,31.0,Africa,,Nobiin,1415,False,False
+nocte,,388,noc,njb,{},27.0,95.5,Eurasia,,Nocte,1615,False,False
+noghay,,19,nog,nog,{},44.0,46.0,Eurasia,,Noghay,1475,False,False
+noghay (karagash),,19,nok,nog,{},47.5,47.25,Eurasia,,Noghay (Karagash),190,False,False
+nomatsiguenga,,536,nom,not,{},-11.6666666667,-74.5,South America,,Nomatsiguenga,573,False,False
+noni,,274,non,nhu,{},6.41666666667,10.5833333333,Africa,,Noni,2128,False,False
+noon,,822,noo,snf,{},14.8333333333,-16.8333333333,Africa,,Noon,2119,False,False
+norsk tegnsprak,,330,nte,nsl,{},61.0,9.0,Eurasia,,Norsk Tegnspråk,191,False,False
+norwegian,,181,nor,nob,{},61.0,8.0,Eurasia,,Norwegian,2295,False,False
+nsenga,,274,nse,nse,{},-14.5,30.8333333333,Africa,,Nsenga,1322,False,False
+ntomba,,274,nto,nto,{},-2.0,18.3333333333,Africa,,Ntomba,997,False,False
+nuaulu,,75,nua,"nni, nxl",{},-3.25,129.166666667,Papunesia,,Nuaulu,2067,False,False
+nubi,,331,nub,kcn,{},0.666666666667,32.0833333333,Africa,,Nubi,574,False,False
+nubian (dongolese),,307,nbd,dgl,{},18.25,30.75,Africa,,Nubian (Dongolese),2394,False,True
+nubian (kunuz),,307,nku,xnz,{},23.0,33.0,Africa,,Nubian (Kunuz),1476,False,False
+nuer,,320,nue,nus,{},8.33333333333,32.0,Africa,,Nuer,1909,False,False
+nukak,,114,nuk,mbr,{},2.5,-71.5,South America,,Nukak,423,False,False
+nukuoro,,87,nkr,nkr,{},3.83333333333,154.916666667,Papunesia,,Nukuoro,729,False,False
+nunggubuyu,,48,nug,nuy,{},-13.75,135.666666667,Australia,,Nunggubuyu,2452,False,True
+nung (in vietnam),,404,nun,nut,{},21.9166666667,106.416666667,Eurasia,,Nung (in Vietnam),2263,False,False
+nuni (northern),,809,nnn,nuv,{},12.1666666667,-3.0,Africa,,Nuni (Northern),192,False,False
+nuosu,,380,yi,iii,{},28.0,103.0,Eurasia,,Nuosu,1151,False,False
+nupe,,278,nup,nup,{},9.16666666667,5.41666666667,Africa,,Nupe,1979,False,False
+nusu,,380,nus,nuf,{},26.75,99.0,Eurasia,,Nusu,998,False,False
+nuuchahnulth,,481,nuu,noo,{},49.6666666667,-126.666666667,North America,,Nuuchahnulth,2191,False,False
+nyah kur (tha pong),,65,nkt,cbn,{},15.6666666667,101.666666667,Eurasia,,Nyah Kur (Tha Pong),1259,False,False
+nyamal,,793,nly,nly,{},-21.0,119.0,Australia,,Nyamal,2568,False,False
+nyambo,,274,nbo,now,{},-1.0,31.3333333333,Africa,,Nyambo,730,False,False
+nyamkad,,389,nyk,tpq,{},32.0,78.5,Eurasia,,Nyamkad,1195,False,False
+nyamwezi,,274,nym,nym,{},-5.0,33.0,Africa,,Nyamwezi,1773,False,False
+nyanga,,274,nng,nyj,{},-1.25,28.1666666667,Africa,,Nyanga,575,False,False
+nyangi,,316,nyg,nyp,{},3.41666666667,33.5833333333,Africa,,Nyangi,1260,False,False
+nyangumarda,,793,nyr,nna,{},-20.0,121.0,Australia,,Nyangumarda,823,False,False
+nyawaygi,,794,nya,nyt,{},-19.0,146.166666667,Australia,,Nyawaygi,1367,False,False
+nyelayu,,87,nyl,yly,{},-20.3333333333,164.333333333,Papunesia,,Nyelâyu,576,False,False
+nyigina,,46,nyn,nyh,{},-18.0,124.333333333,Australia,,Nyigina,1323,False,False
+nyiha,,274,nyh,nih,{},-10.0,33.0,Africa,,Nyiha,891,False,False
+nyimang,,302,nyi,nyi,{},12.1666666667,29.3333333333,Africa,,Nyimang,1940,False,False
+nyishi,,382,nis,njz,{},27.5,93.5,Eurasia,,Nyishi,2006,False,False
+nyulnyul,,46,nyu,nyv,{},-17.0,122.833333333,Australia,,Nyulnyul,1879,False,False
+nyungar,,793,nju,nys,{},-33.75,122.0,Australia,,Nyungar,424,False,False
+nzakara,,287,nza,nzk,{},5.0,23.0,Africa,,Nzakara,1563,False,False
+obokuitai,,228,obk,afz,{},-3.0,138.0,Papunesia,,Obokuitai,731,False,False
+obolo,,293,obo,ann,{},4.58333333333,7.83333333333,Africa,,Obolo,2049,False,False
+ocaina,,180,oca,oca,{},-2.75,-71.75,South America,,Ocaina,1659,False,False
+occitan,,184,occ,oci,{},44.0,2.0,Eurasia,,Occitan,892,False,False
+ocuilteco,,780,ocu,ocu,{},18.9166666667,-99.6666666667,North America,,Ocuilteco,1774,False,False
+ogbia,,293,ogb,ogb,{},4.66666666667,6.25,Africa,,Ogbia,1261,False,False
+ogbronuagum,,293,obg,ogu,{},4.75,6.86666666667,Africa,,Ogbronuagum,1880,False,False
+oi,,63,oi,oyb,{},14.8333333333,107.166666667,Eurasia,,Oi,193,False,False
+oirat,,20,oir,xal,{},37.5,93.0,Eurasia,,Oirat,999,False,False
+ojibwa (eastern),,17,oji,"ojg, otw",{},46.0,-80.0,North America,,Ojibwa (Eastern),2207,False,False
+ojibwa (severn),,17,ojs,ojs,{},53.0,-90.0,North America,,Ojibwa (Severn),893,False,False
+ojibwe (minnesota),,17,ojm,ciw,{},47.6666666667,-92.5,North America,,Ojibwe (Minnesota),732,False,False
+okanagan,,362,oka,oka,{},49.5,-118.5,North America,,Okanagan,824,False,False
+oksapmin,,326,oks,opm,{},-5.16666666667,142.166666667,Papunesia,,Oksapmin,1089,False,False
+oku,,274,oku,oku,{},6.25,10.5,Africa,,Oku,194,False,False
+olo,,428,olo,ong,{},-3.41666666667,142.0,Papunesia,,Olo,1812,False,False
+oloh mangtangai,,73,olm,nij,{},-0.833333333333,113.0,Papunesia,,Oloh Mangtangai,733,False,False
+olutec,,252,olu,plo,{},17.95,-95.0,North America,,Olutec,825,False,False
+omagua,,457,oma,omg,{},-4.0,-73.5,South America,,Omagua,195,False,False
+omaha,,391,omh,oma,{},42.0,-97.25,North America,,Omaha,1324,False,False
+omie,,439,omi,aom,{},-9.05,148.083333333,Papunesia,,Ömie,1521,False,False
+one,,426,one,aun,{},-3.25,141.916666667,Papunesia,,One,1137,False,False
+oneida,,192,ond,one,{},43.0,-75.6666666667,North America,,Oneida,2441,True,True
+onge,,399,ong,oon,{},10.75,92.4166666667,Eurasia,,Onge,1522,False,False
+ono,,434,ono,ons,{},-6.16666666667,147.583333333,Papunesia,,Ono,1090,False,False
+onondaga,,192,onn,ono,{},42.75,-76.1666666667,North America,,Onondaga,425,False,False
+oodham,,478,ood,ood,{},32.0,-112.0,North America,,O'odham,2354,False,False
+ordos,,20,ord,mvf,{},39.0,109.0,Eurasia,,Ordos,1138,False,False
+orejon,,452,ore,ore,{},-2.83333333333,-72.5,South America,,Orejón,577,False,False
+orig,,282,ori,ras,{},12.1666666667,30.8333333333,Africa,,Orig,1523,False,False
+oriya,,182,oya,ori,{},21.0,85.0,Eurasia,,Oriya,1564,False,False
+oriya (kotia),,182,oko,ort,{},18.3333333333,83.0,Eurasia,,Oriya (Kotia),426,False,False
+ormuri,,183,orm,oru,{},32.5,69.75,Eurasia,,Ormuri,1325,False,False
+oroch,,21,orc,oac,{},50.3333333333,137.5,Eurasia,,Oroch,826,False,False
+orok,,21,ork,oaa,{},49.5,143.5,Eurasia,,Orok,1616,False,False
+orokaiva,,442,oro,okv,{},-8.83333333333,148.25,Papunesia,,Orokaiva,1660,False,False
+orokolo,,156,orl,oro,{},-7.83333333333,145.333333333,Papunesia,,Orokolo,427,False,False
+oromo (boraana),,698,orb,gax,{},4.5,38.5,Africa,,Oromo (Boraana),734,False,False
+oromo (harar),,698,orh,hae,{},9.0,42.0,Africa,,Oromo (Harar),2513,True,True
+oromo (waata),,698,orw,ssn,{},-3.33333333333,39.8333333333,Africa,,Oromo (Waata),1661,False,False
+oromo (westcentral),,698,owc,gaz,{},9.0,37.0,Africa,,Oromo (West-Central),827,False,False
+orya,,422,ory,ury,{},-2.75,139.833333333,Papunesia,,Orya,1196,False,False
+osage,,391,osa,osa,{},37.0,-94.0,North America,,Osage,1565,False,False
+ossetic,,183,oss,oss,{},43.0,44.0,Eurasia,,Ossetic,2192,False,False
+oto,,391,oto,iow,{},40.5,-96.0,North America,,Oto,578,False,False
+otomi (ixtenco),,336,oix,otz,{},19.0833333333,-97.9166666667,North America,,Otomí (Ixtenco),1000,False,False
+otomi (mezquital),,336,otm,ote,{},20.1666666667,-99.1666666667,North America,,Otomí (Mezquital),2409,True,True
+otomi (santiago mexquititlan),,336,osm,otq,{},20.0833333333,-100.083333333,North America,,Otomí (Santiago Mexquititlan),428,False,False
+otomi (sierra),,336,ots,otm,{},20.6666666667,-98.8333333333,North America,,Otomí (Sierra),579,False,False
+otoro,,285,otr,otr,{},11.1666666667,30.5,Africa,,Otoro,580,False,False
+owininga,,229,owi,owi,{},-4.5,141.75,Papunesia,,Owininga,2653,False,False
+paa,,6,paa,pqa,{},11.0,9.25,Africa,,Pa'a,1733,False,False
+paakantyi,,792,pkn,drl,{},-32.5,142.5,Australia,,Paakantyi,1910,False,False
+paamese,,87,pms,pma,{},-16.5,168.25,Papunesia,,Paamese,2404,False,True
+pacoh,,72,pac,pac,{},16.4166666667,107.083333333,Eurasia,,Pacoh,1416,False,False
+padoe,,526,pad,pdo,{},-2.33333333333,121.333333333,Papunesia,,Padoe,828,False,False
+paez,,341,pae,pbb,{},2.66666666667,-76.0,South America,,Páez,2264,False,False
+pagu,,494,pag,pgu,{},1.25,127.75,Papunesia,,Pagu,581,False,False
+paita,,87,pta,duf,{},-22.0833333333,166.5,Papunesia,,Paita,829,False,False
+paite,,386,pte,pck,{},24.0,93.1666666667,Eurasia,,Paite,197,False,False
+paiute (northern),,477,pno,pao,{},42.0,-118.0,North America,,Paiute (Northern),2120,False,False
+paiute (southern),,477,put,ute,{},37.8333333333,-113.333333333,North America,,Paiute (Southern),1139,False,False
+paiwan,,86,pai,pwn,{},22.5,120.833333333,Papunesia,,Paiwan,2399,True,True
+pakanha,,794,pak,pkn,{},-14.5,142.416666667,Australia,,Pakanha,198,False,False
+palauan,,85,pal,pau,{},7.5,134.583333333,Papunesia,,Palauan,2302,False,False
+palaung,,810,plg,"pce, rbb",{},22.6666666667,96.6666666667,Eurasia,,Palaung,1566,False,False
+palikur,,533,plk,plu,{},3.0,-51.0,South America,,Palikur,2028,False,False
+palor,,822,plr,fap,{},14.8333333333,-16.75,Africa,,Palor,830,False,False
+pame,,338,pam,pbs,{},22.0,-99.5,North America,,Pame,1326,False,False
+pamona,,526,pna,pmf,{},-1.75,120.833333333,Papunesia,,Pamona,1001,False,False
+panara,,238,pnx,kre,{},-10.0,-55.0,South America,,Panará,2669,False,False
+panare,,119,pnr,pbh,{},6.5,-66.0,South America,,Panare,1524,False,False
+pangasinan,,514,pnn,pag,{},15.9166666667,120.333333333,Papunesia,,Pangasinan,1775,False,False
+pangwa,,274,png,pbr,{},-10.0,34.75,Africa,,Pangwa,1002,False,False
+panjabi,,182,pan,pan,{},31.0,74.0,Eurasia,,Panjabi,2330,False,False
+panyjima,,793,pny,pnw,{},-22.8333333333,118.416666667,Australia,,Panyjima,1911,False,False
+papiamentu,,331,pap,pap,{},12.25,-69.0,North America,,Papiamentu,894,False,False
+parauk,,810,puk,prk,{},23.25,99.5,Eurasia,,Parauk,1262,False,False
+pare,,274,pre,asa,{},-4.0,36.5,Africa,,Pare,1567,False,False
+paresi,,532,prc,pab,{},-14.0,-57.5,South America,,Paresi,582,False,False
+pari,,320,par,lkr,{},5.0,32.5,Africa,,Päri,2007,False,False
+parji (dravidian),,148,prd,pci,{},19.5,82.5,Eurasia,,Parji (Dravidian),831,False,False
+pashto,,183,psh,pst,{},33.0,67.0,Eurasia,,Pashto,2303,False,False
+passamaquoddymaliseet,,17,psm,pqm,{},45.0,-67.0,North America,,Passamaquoddy-Maliseet,2385,False,True
+patep,,87,pat,ptp,{},-6.91666666667,146.583333333,Papunesia,,Patep,1568,False,False
+patpatar,,87,ptp,gfk,{},-3.76666666667,152.5,Papunesia,,Patpatar,735,False,False
+pattani,,389,ptt,lae,{},32.75,76.75,Eurasia,,Pattani,1700,False,False
+patwin,,349,ptw,pwu,{},39.0,-122.333333333,North America,,Patwin,1197,False,False
+paulohi,,75,plh,plh,{},-3.25,128.75,Papunesia,,Paulohi,1941,False,False
+paumari,,24,pau,pad,{},-6.0,-64.0,South America,,Paumarí,2439,False,True
+pawaian,,412,paw,pwa,{},-7.0,145.083333333,Papunesia,,Pawaian,1980,False,False
+pawnee,,115,pwn,paw,{},41.0,-98.6666666667,North America,,Pawnee,1617,False,False
+pech,,126,pec,pay,{},15.0,-85.5,North America,,Pech,1981,False,False
+pemon,,119,pem,aoc,{},5.33333333333,-62.0,South America,,Pemon,736,False,False
+pengo,,147,pen,peg,{},19.8333333333,83.8333333333,Eurasia,,Pengo,429,False,False
+pero,,6,per,pip,{},9.58333333333,11.0,Africa,,Pero,2129,False,False
+persian,,183,prs,pes,{},32.0,54.0,Eurasia,,Persian,2537,True,True
+phlong,,378,phl,pww,{},15.0,99.0,Eurasia,,Phlong,1263,False,False
+piapoco,,781,ppc,pio,{},4.0,-69.5,South America,,Piapoco,430,False,False
+piaroa,,358,pia,pid,{},5.0,-67.0,South America,,Piaroa,1618,False,False
+pilaga,,696,pga,plg,{},-25.0,-60.0,South America,,Pilagá,1813,False,False
+pileni,,87,pil,piv,{},-10.2166666667,166.216666667,Papunesia,,Pileni,895,False,False
+pima bajo,,478,pba,pia,{},29.0,-111.0,North America,,Pima Bajo,1845,False,False
+pingilapese,,87,pgl,pif,{},6.21666666667,160.7,Papunesia,,Pingilapese,199,False,False
+pintupi,,793,pin,piu,{},-23.0,129.0,Australia,,Pintupi,896,False,False
+pipil,,476,pip,ppl,{},13.8333333333,-89.5833333333,North America,,Pipil,2324,False,False
+piraha,,259,prh,myp,{},-7.0,-62.0,South America,,Pirahã,2490,True,True
+piratapuyo,,452,prt,pir,{},0.333333333333,-69.5,South America,,Piratapuyo,431,False,False
+piro,,534,pir,pib,{},-11.0,-73.5,South America,,Piro,2676,False,False
+pisa,,445,pis,psa,{},-5.16666666667,139.166666667,Papunesia,,Pisa,1140,False,False
+pitjantjatjara,,793,pit,pjt,{},-26.0,130.0,Australia,,Pitjantjatjara,2386,False,True
+pitta pitta,,792,ppi,pit,{},-22.8333333333,140.0,Australia,,Pitta Pitta,2082,False,False
+plainsindians sign language,,330,psl,psd,{},40.0,-100.0,North America,,Plains-Indians Sign Language,200,False,False
+playero,,164,pla,gob,{},7.0,-71.0,South America,,Playero,432,False,False
+poai,,87,poa,fwa,{},-20.6666666667,164.833333333,Papunesia,,Po-Ai,1264,False,False
+podoko,,5,pod,pbi,{},11.0,14.0833333333,Africa,,Podoko,1477,False,False
+pogoro,,274,pog,poy,{},-8.75,36.5,Africa,,Pogoro,897,False,False
+pohnpeian,,87,poh,pon,{},6.88333333333,158.25,Papunesia,,Pohnpeian,2280,False,False
+pokomchi,,250,pkm,poh,{},15.4166666667,-90.5,North America,,Pokomchí,738,False,False
+pokorawo,,393,pok,rwa,{},-2.83333333333,141.583333333,Papunesia,,Poko-Rawo,1701,False,False
+pokot,,320,pkt,pko,{},1.5,35.5,Africa,,Pokot,1734,False,False
+polabian,,185,plb,pox,{},51.0,12.8333333333,Eurasia,,Polabian,583,False,False
+polish,,185,pol,pol,{},52.0,20.0,Eurasia,,Polish,2368,False,False
+pomo (central),,176,pmc,poo,{},39.0,-123.333333333,North America,,Pomo (Central),946,False,False
+pomo (eastern),,176,pme,peb,{},39.0,-122.666666667,North America,,Pomo (Eastern),1942,False,False
+pomo (northern),,176,pmn,pej,{},39.3333333333,-123.5,North America,,Pomo (Northern),1003,False,False
+pomo (southeastern),,176,pso,pom,{},39.0,-122.5,North America,,Pomo (Southeastern),2360,False,True
+popoloca (metzontla),,339,pop,pbe,{},18.1666666667,-97.5,North America,,Popoloca (Metzontla),898,False,False
+popoloca (san juan atzingo),,339,psj,poe,{},18.1666666667,-96.4166666667,North America,,Popoloca (San Juan Atzingo),1265,False,False
+popoloca (san vicente coyotepec),,339,psv,pbf,{},18.25,-97.8333333333,North America,,Popoloca (San Vicente Coyotepec),434,False,False
+popoluca (sierra),,252,zqs,poi,{},18.3333333333,-95.1666666667,North America,,Popoluca (Sierra),1435,False,False
+poqomam,,250,pcm,poc,{},14.6666666667,-90.5,North America,,Poqomam,201,False,False
+port sandwich,,87,psw,psw,{},-16.5,167.75,Papunesia,,Port Sandwich,2636,False,False
+portuguese,,184,por,por,{},39.0,-8.0,Eurasia,,Portuguese,2231,False,False
+potawatomi,,17,pot,pot,{},44.5,-85.0,North America,,Potawatomi,435,False,False
+powhatan,,17,pow,pim,{},37.3333333333,-76.5,North America,,Powhatan,436,False,False
+prasuni,,694,pra,prn,{},35.5,71.0,Eurasia,,Prasuni,1417,False,False
+principense,,331,pri,pre,{},1.61666666667,7.36666666667,Africa,,Príncipense,202,False,False
+provencal,,184,pro,oci,{},44.0,6.0,Eurasia,,Provençal,203,False,False
+puinave,,354,pui,pui,{},4.0,-68.0,South America,,Puinave,437,False,False
+pulopetak,,73,plp,nij,{},1.41666666667,109.833333333,Papunesia,,Pulopetak,584,False,False
+puluwat,,87,pul,puw,{},7.33333333333,149.333333333,Papunesia,,Puluwat,1912,False,False
+pumi,,387,pum,"pmi, pmj",{},28.0,101.0,Eurasia,,Pumi,1525,False,False
+pungupungu,,43,pun,wdj,{},-13.5,130.416666667,Australia,,Pungupungu,1266,False,False
+puquina,,355,puq,,{},-16.5,-68.5,South America,,Puquina,832,False,False
+purepecha,,408,pur,tsz,{},19.5,-101.666666667,North America,,Purépecha,2347,False,False
+purki,,389,prk,prx,{},34.6666666667,76.0,Eurasia,,Purki,1702,False,False
+qafar,,698,qaf,aar,{},12.0,42.0,Africa,,Qafar,1814,False,False
+qaget,,104,bng,byx,{},-4.58333333333,152.0,Papunesia,,Qaget,1440,False,False
+qawasqar,,15,qaw,alc,{},-49.0,-75.0,South America,,Qawasqar,2254,False,True
+qiang,,387,qia,"cng, qxs",{},32.0,102.666666667,Eurasia,,Qiang,1619,False,False
+quechan,,170,que,yum,{},32.8333333333,-114.333333333,North America,,Quechan,899,False,False
+quechua (ancash),,356,qan,qxa,{},-8.5,-77.5,South America,,Quechua (Ancash),438,False,False
+quechua (ayacucho),,356,qay,quy,{},-14.0,-74.0,South America,,Quechua (Ayacucho),947,False,False
+quechua (bolivian),,356,qbo,"quh, qul",{},-20.0,-66.0,South America,,Quechua (Bolivian),204,False,False
+quechua (cajamarca),,356,qca,qvc,{},-7.0,-78.5,South America,,Quechua (Cajamarca),439,False,False
+quechua (cochabamba),,356,qco,quh,{},-17.5,-66.0,South America,,Quechua (Cochabamba),1419,False,False
+quechua (cuzco),,356,qcu,quz,{},-14.5,-71.0,South America,,Quechua (Cuzco),1004,False,False
+quechua (ecuadorean),,356,qec,qug,{},-1.0,-79.0,South America,,Quechua (Ecuadorean),739,False,False
+quechua (huallaga),,356,qhu,qvh,{},-9.5,-75.5,South America,,Quechua (Huallaga),2675,False,False
+quechua (imbabura),,356,qim,qvi,{},0.333333333333,-78.0,South America,,Quechua (Imbabura),2467,True,True
+quechua (tarma),,356,qta,qvn,{},-11.4166666667,-75.75,South America,,Quechua (Tarma),585,False,False
+quiche,,250,qch,quc,{},15.0,-91.4166666667,North America,,Quiché,948,False,False
+quileute,,131,qui,qui,{},47.9166666667,-124.25,North America,,Quileute,2296,False,False
+rade,,519,rad,rad,{},13.0,108.5,Eurasia,,Rade,440,False,False
+raga,,87,rag,lml,{},-15.5,168.166666667,Papunesia,,Raga,205,False,False
+raji,,751,rji,rji,{},28.0,82.75,Eurasia,,Raji,2607,False,False
+ralte,,386,ral,ral,{},23.75,92.75,Eurasia,,Ralte,2625,False,False
+rama,,125,ram,rma,{},11.75,-83.75,North America,,Rama,2468,True,True
+rang pas,,389,rpa,bod,{},30.3333333333,79.3333333333,Eurasia,,Rang Pas,2616,False,False
+rao,,233,rao,rao,{},-4.75,144.5,Papunesia,,Rao,1141,False,False
+rapanui,,87,rap,rap,{},-27.1166666667,-109.366666667,Papunesia,,Rapanui,2485,True,True
+rashad,,282,ras,ras,{},11.8333333333,31.05,Africa,,Rashad,1368,False,False
+rawa,,434,rwa,rwo,{},-5.83333333333,146.0,Papunesia,,Rawa,1267,False,False
+rawang,,385,raw,raw,{},27.5,97.5,Eurasia,,Rawang,2008,False,False
+rejang,,84,rej,rej,{},-3.41666666667,102.5,Papunesia,,Rejang,586,False,False
+rembarnga,,40,rmb,rmb,{},-12.8333333333,134.583333333,Australia,,Rembarnga,949,False,False
+remo,,66,rem,bfw,{},18.0,82.0,Eurasia,,Remo,2083,False,False
+rendille,,698,ren,rel,{},2.0,37.5,Africa,,Rendille,1048,False,False
+rengao,,63,rng,ren,{},14.5833333333,107.833333333,Eurasia,,Rengao,441,False,False
+rennellese,,87,rnn,mnv,{},-11.6166666667,160.25,Papunesia,,Rennellese,442,False,False
+resigaro,,781,res,rgr,{},-2.41666666667,-71.5,South America,,Resígaro,2208,False,False
+retuara,,452,ret,tnc,{},-0.5,-70.6666666667,South America,,Retuarã,2297,False,False
+rgyalrong (caodeng),,390,rgc,jya,{},31.6666666667,101.75,Eurasia,,rGyalrong (Caodeng),2623,False,False
+riantana,,217,ria,ran,{},-7.5,138.5,Papunesia,,Riantana,740,False,False
